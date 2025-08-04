@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Customer_Name,Customer_City,Product_Category,Product_Name,Quantity,Unit_Price,Payment_Method,Total_Price
+fde82797-d400-4414-8cc8-e7b6d916eef4,2023-08-04,Christina Smith,South Paulchester,Home Appliances,Laptop,5,750.61,Cash on Delivery,3753.05
+d380b3a1-7503-4870-a797-94feb81d1c78,2023-08-04,Jillian Hammond,East Elizabeth,Home Appliances,T-Shirt,7,487.46,Net Banking,3412.22
+03507640-bbdf-4905-935b-8bfb8f538650,2023-08-04,Ronnie Benson,East Brittneyhaven,Books,Headphones,6,169.37,Net Banking,1016.22
+5ce2c745-f00c-4bb6-be91-cf100d284e09,2023-08-05,Jesse Cooke,Paulburgh,Home Appliances,Headphones,10,369.66,Net Banking,3696.6000000000004
+0eafd4a7-a216-4e7a-a7d6-5531d9338016,2023-08-06,Shannon Baker,Estradashire,Electronics,Novel,1,108.38,Cash on Delivery,108.38
+ed032085-1b26-4098-86be-17c271263f0c,2023-08-06,Anthony Simmons,Port Stephanieton,Home Appliances,Laptop,8,172.94,Debit Card,1383.52
+fa4a442a-9ecd-40db-962d-8017866e929d,2023-08-07,Dustin Nicholson,Ianville,Home Appliances,T-Shirt,1,741.61,Net Banking,741.61
+abacc60c-0c1a-4c9e-9489-963b6a42a1c0,2023-08-09,Michael Dixon,Huangside,Home Appliances,Refrigerator,3,417.29,Debit Card,1251.8700000000001
+37117244-9d75-4ec2-9fc8-7b8a310cb65a,2023-08-10,Colton Smith,Gregoryside,Books,Tablet,4,486.44,UPI,1945.76
+21548230-140d-4d5c-b221-d031edb52678,2023-08-10,Kristen Park,Antonioville,Home Appliances,Smartphone,2,316.08,Debit Card,632.16
+92a88f68-4350-4eae-a4db-6dbc0f9a8998,2023-08-12,Tony Sanchez,West Linda,Toys,Action Figure,6,811.86,UPI,4871.16
+36da6395-ad2c-4c5f-ae4b-9af17b2c6a63,2023-08-12,Becky Hanna,Hannahton,Home Appliances,Tablet,7,191.53,Net Banking,1340.71
+84e721cc-4e34-49ac-a6c8-0e1c3a890af5,2023-08-12,Bethany Shea,Port Danny,Electronics,Laptop,6,444.72,Cash on Delivery,2668.32
+26c339c6-9ac8-474d-8761-282a1f4acc01,2023-08-13,Jason Black,Lake Richard,Books,Tablet,4,621.49,Net Banking,2485.96
+9185bd9b-7fd3-4f70-9c25-9b2a426494ca,2023-08-13,Timothy Williams,South Angela,Books,Tablet,7,399.55,Cash on Delivery,2796.85
+077de1f8-1433-4a77-a537-792373dd70ac,2023-08-14,Veronica Smith,New Victor,Toys,Refrigerator,7,916.81,UPI,6417.67
+eb171784-29e5-4b59-87ec-85568b96a344,2023-08-15,Sara Rivera,Osborntown,Clothing,Action Figure,6,108.71,UPI,652.26
+aad2de3b-371b-42dc-ab1a-bb2282b24a51,2023-08-15,Kristine Salazar,Fergusonmouth,Clothing,Action Figure,2,820.14,Cash on Delivery,1640.28
+edc00b8e-3547-4665-a441-5b36a3f1d06e,2023-08-15,Laura Shaw,Johnsonfort,Electronics,Blender,5,511.02,Debit Card,2555.1
+fd4d860b-7fb0-49ef-a11d-e639546350ae,2023-08-15,Troy Brooks,South April,Home Appliances,Refrigerator,6,653.09,Credit Card,3918.54
+2eb0b95f-92e2-4849-b8b0-f6a4fce444e7,2023-08-15,Patrick Meyer,Christinafort,Electronics,T-Shirt,3,47.86,Debit Card,143.57999999999998
+3d13b36b-68a9-4d6b-a497-12a683cfbbf2,2023-08-16,Carol Jordan,South Sheilaside,Home Appliances,Action Figure,8,168.59,Net Banking,1348.72
+86e9eacb-9e09-4187-8b56-e33ee6f50cd4,2023-08-16,Danielle Collins,New Carl,Clothing,Refrigerator,1,999.08,Credit Card,999.08
+ec13568e-eeec-4784-930f-7b4eae49b1fa,2023-08-17,Carol Knox,Davidshire,Toys,Laptop,1,875.5,Debit Card,875.5
+cbb1a759-c76f-448d-b057-ca5a7569db7c,2023-08-18,Ricky Fuller,East Maryhaven,Electronics,Sneakers,9,916.96,Net Banking,8252.64
+c73e822a-7a4a-4504-af80-05d5d9ecc8ce,2023-08-18,Nicholas Morgan,Mcknightland,Electronics,Laptop,5,131.05,UPI,655.25
+21ddc4e1-6fb4-4cfe-82f0-d38318e0d3b9,2023-08-19,Taylor Tran,East Darren,Home Appliances,Action Figure,1,392.08,Net Banking,392.08
+6b5905a7-2ca8-494a-85dd-613b182d0079,2023-08-19,Amanda Campbell,East Carolineshire,Clothing,Novel,5,161.17,Net Banking,805.8499999999999
+668538f3-f0c1-41cf-8f09-0b35fe2a1cf3,2023-08-21,Jeffrey Holden,Port Evan,Toys,Sneakers,7,887.09,Credit Card,6209.63
+29739348-0cf3-4446-825a-b6f1c5dfd60e,2023-08-21,George Turner,Lake Kevinmouth,Toys,Headphones,8,217.13,UPI,1737.04
+55687d6e-b61d-4d2e-9a3e-f10a3ecd0c8f,2023-08-21,Lisa Chapman,Port Rhonda,Toys,Blender,9,750.86,Cash on Delivery,6757.74
+19aeb66d-8e6d-402c-8cda-12cbc6f27b7c,2023-08-22,Sandra Sharp,North Rachelfort,Books,Refrigerator,6,858.51,Debit Card,5151.0599999999995
+dfaba9a3-c42b-4e30-b201-e11d66325b8b,2023-08-22,Kayla Watson,Jaredside,Electronics,Novel,2,76.98,Credit Card,153.96
+da47f1e3-06de-4e04-8f6f-a35a25d7d9e7,2023-08-22,Laura Black,Robertstad,Clothing,Headphones,2,115.82,Net Banking,231.64
+e40edc26-1d6e-47e8-a9a1-e280870e3510,2023-08-22,Monique Allen,Reynoldsmouth,Electronics,Laptop,2,384.18,Net Banking,768.36
+341ac322-2a2c-4854-8dae-0452677b9ac0,2023-08-23,Katherine Jackson,Cardenasport,Books,Novel,4,938.56,Debit Card,3754.24
+0344397c-26b3-4042-b8c6-1e4a54141220,2023-08-23,Shannon Alexander,New Brianton,Books,Blender,3,588.81,Debit Card,1766.4299999999998
+1a1d9a4a-2a8a-4b2e-a500-a3b629d28bae,2023-08-24,Willie Porter,Johnathanport,Toys,Headphones,4,710.64,Cash on Delivery,2842.56
+6734ff07-231b-475c-900d-9d25f7d0d2f1,2023-08-24,Nicole Townsend,North Brentmouth,Books,Headphones,7,641.89,Debit Card,4493.23
+0204bad8-1a88-458a-9cb7-d353ab1a4d46,2023-08-25,Rebecca Mathews,West Kelly,Home Appliances,Novel,10,669.7,Cash on Delivery,6697.0
+ee6d4387-f4f7-4a05-9529-4bc5b0e0d4cb,2023-08-25,Matthew Hobbs,West Amy,Books,T-Shirt,1,87.52,Credit Card,87.52
+10d386d7-b3ce-46bf-b408-b700c818b497,2023-08-25,Yolanda Floyd,Lake Stephenberg,Clothing,Refrigerator,6,850.21,Credit Card,5101.26
+d7cde095-aa54-435f-b554-aeb762169f86,2023-08-26,Tracy Meyer,Smithborough,Clothing,Action Figure,6,151.71,Debit Card,910.26
+90badbdf-6b9c-45aa-b1d6-31d2e6ead22a,2023-08-26,Thomas Silva,Port Jesse,Toys,Sneakers,5,397.92,Debit Card,1989.6000000000001
+6e035ffb-a2b9-44b1-94bd-bf7ab1ad1bd6,2023-08-26,Janice Williams,Aprilshire,Clothing,Novel,4,102.92,UPI,411.68
+4a65e861-bc1b-45c3-8583-a488f65730da,2023-08-27,Kathy Reese,Kellyfurt,Toys,Tablet,8,325.02,Net Banking,2600.16
+f32812b2-1070-438f-8dd5-cf416001d138,2023-08-27,Christopher Benton,West Jonathan,Clothing,Sneakers,2,270.71,Net Banking,541.42
+72b68a04-ef4f-4924-a320-f640f8962769,2023-08-29,Troy Campbell,Lake Jasmineborough,Toys,Refrigerator,4,203.83,Cash on Delivery,815.32
+4c9c1c57-a37e-41e3-8504-a7a0a71f4180,2023-08-29,Madison Alvarez,Andrewfort,Home Appliances,Blender,3,637.87,Credit Card,1913.6100000000001
+fb3a66cb-524a-4559-8c97-9f9f5edc9455,2023-08-30,Justin Erickson,Port Sandra,Home Appliances,T-Shirt,6,799.83,UPI,4798.9800000000005
+cb60d94b-3757-4ae1-9183-a74b9b8b1aa4,2023-08-31,Deborah Benson,Coxview,Electronics,Smartphone,3,559.7,UPI,1679.1000000000001
+7cec1346-cff6-4bc4-ab40-3b9fc0bb5a9d,2023-09-01,Tiffany Ferrell,Brownhaven,Electronics,Headphones,6,761.63,UPI,4569.78
+bea634ce-37ef-4e69-ac75-96bcea242c0c,2023-09-01,Arthur Stark,South Ryan,Clothing,Novel,10,257.25,Debit Card,2572.5
+467fd4d3-9cbf-46a0-b8a7-7f874d51d7e3,2023-09-02,Alex Reyes,Port Donna,Toys,Headphones,1,612.82,UPI,612.82
+6b09ccdf-188f-4c2d-b5a0-a35a661f910b,2023-09-02,Robert Garrett,East Cheryl,Electronics,Smartphone,5,585.98,Net Banking,2929.9
+7a3e1e8c-af71-48c4-a7fc-4a5ccd5f2185,2023-09-02,Jenna Goodman,East Coltonborough,Toys,Smartphone,10,372.27,UPI,3722.7
+8d42ab1f-9723-40e5-90a5-dbb08ce40aff,2023-09-03,Matthew Jackson,Vincentport,Books,Novel,3,941.92,UPI,2825.7599999999998
+f4f91fc1-272b-4f29-b53f-6973382c2f3c,2023-09-03,Mackenzie Hughes,South Tommystad,Electronics,Refrigerator,6,380.2,Net Banking,2281.2
+762cd94d-a9d9-4b9e-8854-7194344ac585,2023-09-04,Mark Barron,Hartville,Electronics,Refrigerator,3,257.18,Cash on Delivery,771.54
+03fba8c8-71af-4283-b588-72d7980be30f,2023-09-06,Sharon Dickerson,West Lauramouth,Electronics,Smartphone,9,56.46,Credit Card,508.14
+1bc0c162-d419-446c-8726-f2112920fa6c,2023-09-06,Chase Butler,Charlesfurt,Clothing,Smartphone,4,397.63,Cash on Delivery,1590.52
+a43af122-1050-40e3-920b-ef3777ae1031,2023-09-06,Michael Davis,West Brian,Clothing,Tablet,2,94.66,Cash on Delivery,189.32
+d82d7108-aef6-4a74-be05-4d3cfa2dd037,2023-09-06,Mr. Omar Chan,Carterside,Home Appliances,Refrigerator,3,82.2,Cash on Delivery,246.60000000000002
+de129aa7-ec83-456d-a10f-02669fd7e5a0,2023-09-06,Sonya Brady,Lake Timothytown,Electronics,Action Figure,5,997.79,Net Banking,4988.95
+dc7b50ff-72c9-4cf3-9a30-61ae957b8cd9,2023-09-07,Michael Knight,Frankside,Books,Tablet,7,37.82,Debit Card,264.74
+4a66b9a5-28b0-45e2-a2bb-566422e7e6da,2023-09-08,Cathy Anderson,Bentleybury,Toys,Novel,8,707.65,Cash on Delivery,5661.2
+bcf873b6-de04-4d1f-9e9a-d4bb61267959,2023-09-09,David Williams,West Williamborough,Toys,Smartphone,1,556.24,Net Banking,556.24
+6656554a-8a4a-4dd7-a477-ee3f287d5e13,2023-09-09,Barry Schmidt,Port Nancy,Toys,Sneakers,8,554.28,Net Banking,4434.24
+339615bb-cfdd-47fc-a714-45b0a7c94b1d,2023-09-09,Jesus Smith,Dianetown,Electronics,Laptop,1,431.64,Debit Card,431.64
+391a7b34-fc87-4b7c-b186-741091200e0b,2023-09-09,Stephanie Wilson,New Thomas,Toys,Laptop,1,623.49,Cash on Delivery,623.49
+578b53dd-57b9-4598-9c45-32f9f3c5d580,2023-09-09,Marcus Craig,Floresfort,Electronics,Blender,10,592.53,UPI,5925.299999999999
+4cb7b08b-4035-441b-8dff-7f83c440cf35,2023-09-09,Eric Smith,Lake Robertview,Books,Action Figure,7,46.29,Net Banking,324.03
+f1adbded-79e6-4163-aaf4-c2e5460a1d42,2023-09-10,Roy Sanchez,Travisville,Electronics,Blender,4,890.88,Net Banking,3563.52
+42ab5f43-f89e-4f90-80bf-2561125818f1,2023-09-10,Sandra Graham MD,Michaelchester,Electronics,Laptop,4,648.91,Debit Card,2595.64
+b1d1cab6-b80b-48fc-ac3d-6e6c298bdffa,2023-09-10,Julie Murray,Millerside,Clothing,Headphones,4,23.76,Debit Card,95.04
+714a803e-602a-47cd-b5e5-6522f013deaa,2023-09-11,Angela Allen,Mcmillanbury,Home Appliances,Action Figure,2,688.27,Cash on Delivery,1376.54
+dbeeaf0c-447e-4815-b729-1d95a1bcdd05,2023-09-12,Xavier Fletcher,West Lonnie,Home Appliances,Novel,1,884.91,Debit Card,884.91
+e22fe8c9-a4d3-4d3d-8233-ea6fd66a489c,2023-09-12,Jeffrey Salazar,East Shannon,Books,Blender,7,690.76,UPI,4835.32
+7853200b-23dd-4c46-866b-ed164f7944e9,2023-09-13,Keith Rodriguez,South Williamport,Books,Novel,7,625.94,Debit Card,4381.58
+71fda8c0-ca27-4f0a-8d64-98469906704b,2023-09-13,Laurie Dunlap,Rivasland,Books,Headphones,9,683.49,Net Banking,6151.41
+0d605001-39ea-4e1a-b90a-da027b7cbd9e,2023-09-13,Richard Mathis,Debrafort,Clothing,Laptop,6,101.48,Cash on Delivery,608.88
+77ad131e-1b36-4a89-a947-79be98a8c087,2023-09-15,Tammie Byrd,Greenebury,Books,Blender,1,238.58,Debit Card,238.58
+0ea5a4b2-6177-43b7-97fe-ff72e35adfba,2023-09-16,Luis Jenkins,Coxchester,Toys,Tablet,6,667.57,Credit Card,4005.42
+9f37b821-6f77-4cd0-accf-e6ad6ddf0025,2023-09-16,Richard Hoffman,Sanchezberg,Clothing,Smartphone,6,217.58,Credit Card,1305.48
+13a3cf91-284e-4301-9cff-8d0539dbc2a7,2023-09-16,Jessica Hill,North Samanthaport,Toys,Novel,10,528.36,Debit Card,5283.6
+2226e17a-a753-4935-a563-05630d79786f,2023-09-16,Debra Wilkerson,New Melissachester,Toys,Action Figure,3,719.6,Credit Card,2158.8
+e64e4865-d518-43bd-8dab-6a655929a41c,2023-09-18,Nicole Tran,Williamsborough,Electronics,Action Figure,6,879.84,Cash on Delivery,5279.04
+f18c7ff0-5148-4ed3-a47e-0ad801697bc9,2023-09-18,Brandon Arnold,New Briana,Clothing,Blender,5,36.87,UPI,184.35
+aca926a9-afaa-4bdc-be3b-170f0574b5e0,2023-09-18,Bernard Hall,Matthewstown,Toys,Headphones,7,663.9,Credit Card,4647.3
+22e4dd3f-aa57-4e63-b624-965449f906af,2023-09-19,Daniel Barnes,Joseville,Books,Sneakers,4,705.54,UPI,2822.16
+e15b4d52-7b31-4240-a916-978468fba1e4,2023-09-19,Mark Green,Molinahaven,Books,T-Shirt,3,167.95,Cash on Delivery,503.84999999999997
+68aa537e-7e84-422e-8296-1abc7e6cf004,2023-09-19,Katie Thomas,Brandonberg,Clothing,Action Figure,5,675.35,Debit Card,3376.75
+779cbbd7-ecf6-4783-ae34-501ea7819224,2023-09-20,Rachel Smith,South Angela,Electronics,Smartphone,2,114.96,Debit Card,229.92
+09cc8b37-c60a-46f6-bec6-fa9922a6991d,2023-09-20,Chad Hawkins,New Curtis,Books,Blender,4,147.84,Net Banking,591.36
+f85f307a-e56e-4b17-b136-26f851c969dc,2023-09-20,Amanda Edwards,Port Karentown,Electronics,Tablet,1,946.7,Credit Card,946.7
+7800a3aa-76b8-43d5-a184-212d97a7199b,2023-09-20,Carly Hayes,New Elizabeth,Electronics,Refrigerator,3,273.53,Net Banking,820.5899999999999
+ff4f1e40-abdd-4bb1-836e-b524366e3887,2023-09-21,Laura Navarro,Moniqueport,Books,Laptop,6,617.26,UPI,3703.56
+1c7d49ad-816f-45a6-9305-2dfe272da686,2023-09-22,Donna Williams,East Johnberg,Clothing,Headphones,4,530.01,UPI,2120.04
+2d6f1fa1-17c1-4800-92c9-d45ba685347a,2023-09-22,Elizabeth King,Lake Stacy,Home Appliances,Sneakers,3,132.4,Debit Card,397.20000000000005
+e6f24633-31b9-42ab-8d57-98272a3ff934,2023-09-23,Kelli Dixon,Port Matthewfurt,Electronics,Sneakers,7,570.23,UPI,3991.61
+a2f9f12d-9e10-40ac-b1c0-f717794aace4,2023-09-23,Jacob Holden,Dakotaburgh,Books,Refrigerator,7,785.59,Cash on Delivery,5499.13
+eef91c46-2b7b-4437-8efa-4c1d917011e1,2023-09-23,Patricia Johnson,Tarastad,Clothing,Blender,6,50.81,Credit Card,304.86
+2776a1ca-9e0a-4d42-b06e-98cd3277eb25,2023-09-24,Alexander Jackson,Nguyenborough,Home Appliances,Sneakers,2,615.47,Net Banking,1230.94
+ebc677f7-463e-4160-857e-193dbb647085,2023-09-24,Shannon Hendrix,New Samanthaport,Clothing,Laptop,7,37.79,Net Banking,264.53
+1c7e120d-7667-478e-9d14-1b5927e460a7,2023-09-24,Mrs. Patricia Rodriguez,Davidmouth,Home Appliances,Headphones,7,435.49,Net Banking,3048.4300000000003
+bbd94398-da10-4d01-af28-3f8933311e32,2023-09-25,Debra Walters,North Gavinmouth,Home Appliances,Headphones,3,695.22,Debit Card,2085.66
+0e3b3f85-0093-4874-a92c-0fd945ceb9cf,2023-09-25,Diane Chapman,North Savannahland,Home Appliances,Laptop,10,565.89,Net Banking,5658.9
+2ab33d7d-a2a5-4d23-b680-83bddcfe1da0,2023-09-25,Tony Fleming,New Kara,Toys,Smartphone,5,500.31,Cash on Delivery,2501.55
+48647e58-a30f-47ab-823c-c2ea6eeb4d37,2023-09-26,Nicholas Hodges DDS,Port Bethany,Electronics,Action Figure,7,739.47,Debit Card,5176.29
+18d40bec-57ec-428d-9fa7-daa4f38fc41b,2023-09-26,Christine Salazar,Stephensonborough,Clothing,Action Figure,4,903.74,Debit Card,3614.96
+16cbe7ab-08cd-4087-9c2e-a39df953acbf,2023-09-26,James Manning,West Michaelburgh,Clothing,T-Shirt,4,797.67,Cash on Delivery,3190.68
+84029f74-e5ae-49d1-8fe4-654ef9c8be8d,2023-09-27,Darren Ray,Lake Jacquelineburgh,Toys,Laptop,3,761.21,UPI,2283.63
+a5df00ff-f2ac-428a-8ce3-f800855a798a,2023-09-27,Mark Morris,Bellborough,Electronics,Refrigerator,3,830.98,Net Banking,2492.94
+6b4620a2-8215-4c32-b4af-977c859528a2,2023-09-28,Derrick Jackson,South Lauratown,Electronics,Action Figure,10,696.91,Net Banking,6969.099999999999
+4049754e-c5ba-42b1-9eb2-25bc9aadf1d8,2023-09-29,Tammie Berry,Richardsonberg,Electronics,Laptop,7,376.06,Credit Card,2632.42
+42f0c061-3ade-4000-83a2-22acf569344e,2023-09-29,Mary Fowler,Port Megan,Books,Smartphone,2,510.44,Debit Card,1020.88
+504d2e01-a79d-4463-baca-1d814446f544,2023-09-30,Mrs. Michelle Mccarthy,Lynchside,Clothing,Smartphone,9,886.38,Debit Card,7977.42
+fcc0562a-1bb1-40ca-8a3b-72199823afa3,2023-10-01,Gerald Dillon,Finleyport,Books,Refrigerator,1,890.08,Cash on Delivery,890.08
+eefda309-382f-41b5-bd5e-c1f5e71701fa,2023-10-01,Daniel Cole,Heidiside,Home Appliances,Smartphone,7,394.14,UPI,2758.98
+9c8018b0-d8af-4e7f-b678-62ff80d97935,2023-10-03,Monica Mueller,Gregoryberg,Electronics,Smartphone,1,734.28,Cash on Delivery,734.28
+f154cfe8-fe58-4f96-beba-1614892dd4f6,2023-10-03,Travis Franco,Port Audreyview,Clothing,Novel,4,181.2,UPI,724.8
+76e13aa3-73fb-475c-8e1e-e619305b46d1,2023-10-03,Eric Thornton,South Lisa,Books,Refrigerator,8,631.97,Credit Card,5055.76
+13025230-6edd-4c08-b5e3-fd73dc6c4bb1,2023-10-03,Dawn Davis,Snyderfurt,Home Appliances,T-Shirt,9,600.03,UPI,5400.2699999999995
+5d37e949-d3d7-46c4-8bd0-4d9e151ba49d,2023-10-04,Sheena Williams,West Amandaton,Home Appliances,Blender,9,47.32,Cash on Delivery,425.88
+de546678-8f52-443f-9891-e34d7985179e,2023-10-04,Robert Fisher,West Dannymouth,Electronics,Action Figure,4,617.51,Net Banking,2470.04
+f8dd3d2a-04d7-41b2-bae3-5cd669ae2dbc,2023-10-04,Debra Brown,Tinaton,Books,T-Shirt,2,854.22,Credit Card,1708.44
+66103793-3656-450c-a77b-df56ab0f921c,2023-10-04,Jamie Johnson,Lake Johnport,Toys,Blender,5,59.88,Debit Card,299.40000000000003
+596fe5c1-3e21-4167-90ca-c6c186f797d4,2023-10-05,Mark Horton,Port Michelle,Toys,T-Shirt,3,491.32,Net Banking,1473.96
+30fb38da-ec88-4593-aa6c-03789664d24f,2023-10-05,Michael Frederick,South Thomas,Clothing,Smartphone,9,698.12,Net Banking,6283.08
+fb3ad15a-6aab-4416-b523-e9bd3dbe436f,2023-10-05,Mrs. Sarah Joseph,Kennethside,Electronics,Tablet,10,82.38,Cash on Delivery,823.8
+da84108a-ae68-4735-a01d-d944bc3bc03c,2023-10-06,Anna Thomas,Roberthaven,Books,Refrigerator,4,186.81,Debit Card,747.24
+6fc3d6d0-cf0a-4ff5-9bd1-12c7e6849059,2023-10-07,Sandy Williams,East Heatherport,Clothing,Sneakers,1,860.68,Debit Card,860.68
+b115c2cb-87cb-40a3-b82d-c53b9e5dc145,2023-10-07,Deborah Bender,Robinsonside,Home Appliances,Smartphone,10,591.34,Debit Card,5913.400000000001
+af9ddb76-fe46-4775-b327-cd9673e5fe64,2023-10-07,Samantha Walker,Michaelmouth,Clothing,Laptop,4,251.8,Credit Card,1007.2
+b91a76a1-2004-4395-b926-b5d29246b088,2023-10-07,Zachary Barton,Bassfurt,Clothing,Tablet,6,337.79,Credit Card,2026.7400000000002
+b5bf7857-e502-4081-ae29-9470dcb9253a,2023-10-08,Emma Hughes,Gonzalezburgh,Electronics,Blender,1,615.64,UPI,615.64
+f4b860af-0751-4703-b342-f358ac436ca6,2023-10-09,Melissa Bradley,West Heather,Clothing,Smartphone,1,117.13,UPI,117.13
+b181fe14-033e-40e9-a041-cd3062ce3d93,2023-10-09,Victoria May,New Christineshire,Books,T-Shirt,1,615.83,Credit Card,615.83
+035d7e47-87cf-4a89-b2c4-794991354890,2023-10-09,Jimmy Hill,Websterland,Electronics,Headphones,6,11.75,Debit Card,70.5
+5dbbcd35-51df-40b4-aa8b-98af0d7d0d2d,2023-10-09,Angela Brennan,Fullerborough,Electronics,Tablet,3,370.1,Net Banking,1110.3000000000002
+55f61b30-8b59-4d7b-b768-e0dbb9ab5eaf,2023-10-09,Rachel Butler,Lake Michelletown,Books,Blender,10,809.14,Credit Card,8091.4
+6b5ba83a-cdbf-4f09-b808-23a9cee97e14,2023-10-10,Heidi Thompson,West Benjaminton,Home Appliances,Tablet,10,391.59,UPI,3915.8999999999996
+4a15f1ff-01eb-4146-b87e-5332c9eca8b9,2023-10-10,Nichole Freeman,Watsonbury,Home Appliances,Novel,2,189.81,Cash on Delivery,379.62
+bb896e20-1b4b-4f1e-abab-029b92f8ea75,2023-10-11,Barbara Suarez,Lake Alicia,Toys,Action Figure,2,674.43,Net Banking,1348.86
+93b8ee7a-81f0-43b8-a9a0-7aeaad7605c6,2023-10-11,Max Jones,Elizabethtown,Toys,Sneakers,6,896.34,UPI,5378.04
+714be27c-1af5-4a21-8362-aaa9c8144450,2023-10-11,Kimberly Oconnell,South Michaelton,Books,Sneakers,1,850.55,Net Banking,850.55
+765c8fdc-cef1-4f04-b952-858bbc1d9253,2023-10-12,Colton Rhodes,Summerborough,Home Appliances,Refrigerator,4,471.79,Debit Card,1887.16
+d375c0cf-13f1-4482-b037-52fea63ce6f8,2023-10-12,Eric Butler,New Julia,Toys,Blender,8,534.25,Cash on Delivery,4274.0
+5fa0a8df-46d3-43cf-9fb9-e8a128dbf1d7,2023-10-12,Heather Garcia,Lake Scott,Electronics,Novel,7,414.43,Cash on Delivery,2901.01
+c6894e01-d60a-4172-8cdb-050448826f54,2023-10-13,Kelly Flores,Shanemouth,Home Appliances,Headphones,10,353.61,Credit Card,3536.1000000000004
+92c0b64b-cd2d-4eba-8231-07638c1c2a79,2023-10-14,Robert Jones,Boyermouth,Electronics,Action Figure,8,257.3,Debit Card,2058.4
+f699ed20-633e-40d9-b831-8de1b621141a,2023-10-14,Brenda Turner,Lake Gary,Home Appliances,Tablet,1,782.31,Cash on Delivery,782.31
+e39da3f1-5fe7-4945-abf5-0f021729ad69,2023-10-15,Brendan Ali,Padillaside,Electronics,Tablet,8,523.9,Net Banking,4191.2
+84b3eb60-4f79-4e92-abc1-5a902a784bad,2023-10-15,Timothy Cummings,South Amber,Electronics,Blender,3,822.78,Cash on Delivery,2468.34
+7fd3c560-1e5b-447f-b72c-82027cd0cf52,2023-10-15,Nicolas Smith,Charlesfurt,Books,Headphones,1,371.28,Cash on Delivery,371.28
+4c98fc59-21f9-4677-89ab-380de85846ea,2023-10-16,Marcus Young,Kathrynburgh,Clothing,Sneakers,10,702.91,UPI,7029.099999999999
+192de565-10e1-44df-8b0d-5902424bcba0,2023-10-16,Lee Mccarty,East Adrian,Home Appliances,T-Shirt,2,553.47,Debit Card,1106.94
+7cab3dec-9c07-466f-afbf-93e1a1f670c3,2023-10-17,Mary Acosta,Tinaport,Clothing,Tablet,8,725.77,UPI,5806.16
+7c60bc5a-742d-46f0-971c-9a2b81493b4f,2023-10-17,Nicholas Wilson,Joannamouth,Home Appliances,Action Figure,4,996.19,Credit Card,3984.76
+cc45ce02-f8a9-4db9-a2c8-66bf5dc780d1,2023-10-18,Ryan Bean,East Ryan,Home Appliances,Tablet,8,366.7,Net Banking,2933.6
+f3dcd3be-c545-4e51-a5ef-a10c24182bef,2023-10-18,Shelby Collins,Catherinefurt,Electronics,Smartphone,1,572.1,Credit Card,572.1
+8eeaa752-5f22-4277-88cf-2b4fd6a40ba4,2023-10-19,Melanie Short,Knappfurt,Books,Action Figure,5,196.74,Cash on Delivery,983.7
+7522a8a5-9cea-44bf-9729-8a3d9541970e,2023-10-20,Mark Hines,Port Tinaside,Home Appliances,Novel,7,660.46,Net Banking,4623.22
+b988f9f2-1b5d-47c8-ba71-c75d8333f4e1,2023-10-20,Zachary Winters,Sarastad,Books,Headphones,9,217.62,Debit Card,1958.58
+160693db-b322-4b79-a36b-648891aa2bb4,2023-10-21,Michelle Torres,Lambertside,Books,Tablet,5,792.05,Net Banking,3960.25
+f9fcd05b-1683-4a4c-96ad-8679741a2ea7,2023-10-22,Edward Hensley,Rileyton,Toys,Smartphone,2,370.83,Debit Card,741.66
+5c9cd915-170f-4867-a3d6-ee90eb6c901e,2023-10-22,Kim Shannon,Tonyfort,Electronics,Headphones,8,118.93,Debit Card,951.44
+40a326af-9d0c-4fd9-894d-7b0ee7a5d030,2023-10-22,Robert Ramos,Huntshire,Toys,Headphones,3,933.31,Cash on Delivery,2799.93
+0aba453e-0e8a-4785-a2b9-2b9721025c15,2023-10-23,Michael Hunter,North Angelafort,Clothing,Action Figure,10,732.5,Cash on Delivery,7325.0
+642f8f13-297b-4f8d-8547-861009d85c55,2023-10-24,Derrick Brown,Port Amber,Toys,Novel,5,118.4,Net Banking,592.0
+c70ff634-b927-43c6-afff-9e8e99dad18b,2023-10-24,Diamond Mooney,Williamtown,Toys,Action Figure,2,101.64,Net Banking,203.28
+ddadfdeb-132e-4a64-a796-3ad5a283ffe9,2023-10-24,Patrick Ward,Port David,Books,Headphones,7,203.11,Credit Card,1421.77
+708e168a-9ac8-4e98-a43c-075383cd76a7,2023-10-25,Thomas Velasquez,Jonesstad,Clothing,Refrigerator,6,742.93,Net Banking,4457.58
+b02b8717-55d8-427b-b07e-a7f11245f959,2023-10-26,Janet Stark,Taraville,Toys,T-Shirt,7,762.26,Credit Card,5335.82
+bcea077e-54d3-49cc-88f9-b769f5d8d1d5,2023-10-26,Bridget Perry,Smithhaven,Electronics,Novel,5,949.3,UPI,4746.5
+bc5d913a-d29e-49c4-8c33-bface0762603,2023-10-26,John Spencer,Scottside,Electronics,Blender,7,287.76,Net Banking,2014.32
+ca0f9b52-58bd-46d3-bdaf-424b67308b80,2023-10-26,Raymond Dunn,Emilyport,Home Appliances,Headphones,7,300.87,Net Banking,2106.09
+a973a4bb-d80b-4c6c-a78f-cf17225c8c5f,2023-10-29,Heather Hutchinson,North Bryanburgh,Electronics,Headphones,3,194.41,Net Banking,583.23
+035abca5-a4d0-4327-a62a-41155455c4c5,2023-10-29,Sarah Ross,New Lori,Home Appliances,Laptop,5,381.03,Net Banking,1905.1499999999999
+377c7af5-1a2d-4c9c-aef2-5d420a5a675b,2023-10-29,Joshua Cuevas,Spencerberg,Home Appliances,Blender,9,525.14,UPI,4726.26
+1c3cf0a9-074c-4769-8382-aaee9cdcecb0,2023-10-29,Randy Walter,Josephfurt,Home Appliances,T-Shirt,2,703.08,Debit Card,1406.16
+0f2eac7a-90f9-4a88-873d-93588142672f,2023-10-30,Mary Rivera,Stanleymouth,Toys,Smartphone,8,275.03,Credit Card,2200.24
+70d169ee-1a10-4c39-99ea-65760582a4b7,2023-10-30,Renee Fox,New Alexanderview,Toys,Headphones,7,761.21,Cash on Delivery,5328.47
+acb7eb83-c20f-48d9-9cdb-41bf227d70fc,2023-10-30,Alejandro Lewis,Smithville,Toys,Tablet,5,744.35,Cash on Delivery,3721.75
+226c7dbe-b6d8-4a16-af6e-37d8e7b98c96,2023-10-30,Charles Mahoney,South Catherine,Electronics,Sneakers,6,182.5,Credit Card,1095.0
+48b7e2f5-b718-4d55-84eb-6c29b83cbd9d,2023-10-31,Michael Morris,West Nicoleport,Home Appliances,Action Figure,2,442.49,Debit Card,884.98
+d050c99d-7aa5-4df6-a694-e1fdd9453703,2023-10-31,Kelly Ward,South Jason,Electronics,T-Shirt,5,11.08,Credit Card,55.4
+f7785a43-dfcd-468b-9074-43bd900ab4c7,2023-10-31,David Weaver,Dickersonborough,Clothing,Refrigerator,8,573.67,Credit Card,4589.36
+6105350e-3193-4ef1-97e6-e8a29690e30a,2023-11-01,Richard Mendoza,Jacksonport,Books,Headphones,3,41.49,Debit Card,124.47
+6a327ba1-d4ed-406f-a480-28d9f051d4d6,2023-11-01,John Morales,Gonzalezberg,Home Appliances,Blender,4,558.43,Credit Card,2233.72
+094f0e97-5f8d-4559-aad7-89496a5d5ae8,2023-11-01,Jennifer Hartman,Gonzalezview,Home Appliances,T-Shirt,9,575.72,Net Banking,5181.4800000000005
+eba072b5-a8ec-425d-b428-bbab60ce5bef,2023-11-01,Bill Wilson,Lake Kristineland,Electronics,Novel,6,455.55,Net Banking,2733.3
+945c8d9e-89ed-4957-a144-a7261f828960,2023-11-02,Nichole Robinson,Port Karentown,Home Appliances,Sneakers,10,302.01,Cash on Delivery,3020.1
+49899b6a-fb10-4e1c-91bf-fbcfdd6b626d,2023-11-03,Phillip Silva,Edwardstown,Clothing,Novel,4,113.66,Credit Card,454.64
+521789b6-3b20-45aa-b109-f4a2fbad4806,2023-11-03,Eric Johnson,Blevinstown,Books,Sneakers,1,197.28,UPI,197.28
+7d906bfe-b2d5-4202-876c-9bd27c3cfed6,2023-11-03,Shawn Hoffman,South Bryce,Electronics,Laptop,6,309.82,Debit Card,1858.92
+08f07f13-7845-4484-b5f4-54e2490ff1ff,2023-11-03,Thomas Martinez,East Charlesport,Home Appliances,Novel,9,464.04,Cash on Delivery,4176.360000000001
+8e01ce3a-9ced-455d-bb5c-ade2d1664ea9,2023-11-04,Isabel Valencia,Olsonberg,Electronics,Tablet,7,433.11,Cash on Delivery,3031.77
+0a013034-7af3-4990-9c7d-5779342820df,2023-11-04,Kelly Jones,Benjaminton,Home Appliances,Novel,10,999.78,Debit Card,9997.8
+d2882bdc-4a91-4292-afba-71455786feac,2023-11-05,Samuel Reyes,Richardsontown,Clothing,Headphones,8,129.38,Cash on Delivery,1035.04
+2cfdf482-a2d3-42e0-9f02-0accb17c3444,2023-11-05,Elijah Sparks,Lake Samanthastad,Home Appliances,Refrigerator,7,686.01,UPI,4802.07
+ca8461ee-408f-4026-8aec-ec7089cafa52,2023-11-06,Kerri Evans,Karenfurt,Books,Headphones,7,757.94,Cash on Delivery,5305.58
+b9858373-c5d7-4fbf-87f8-62fa67230662,2023-11-07,Maria Adams,New Jonathan,Toys,Action Figure,4,294.04,UPI,1176.16
+9de093fb-c716-45ca-81a7-fc70ebe3dd04,2023-11-07,Ashley Mosley,West Teresa,Electronics,Headphones,2,156.77,Credit Card,313.54
+da555f8d-3e86-4529-bee4-fddd06e96ae2,2023-11-07,Rachel Gomez,North Kerri,Toys,Refrigerator,10,443.87,Net Banking,4438.7
+d8128f39-add7-4667-9a17-2f3287cc6b8e,2023-11-07,Corey Williams,Thompsonhaven,Clothing,Blender,4,259.51,Credit Card,1038.04
+8349e6a0-0f7f-4841-ad74-279bb8b5c731,2023-11-08,Jamie Morrison,East Bonnieport,Clothing,Novel,9,908.7,Net Banking,8178.3
+d4ba1f8f-6568-4726-bfbe-6c388350359c,2023-11-09,Stephanie Burke,Robertsbury,Home Appliances,T-Shirt,6,699.62,UPI,4197.72
+e1fac7c0-c23d-4c72-98d8-caa643a10e07,2023-11-09,Brooke Wilson,North Judy,Books,Sneakers,9,462.75,Debit Card,4164.75
+11058efe-d025-4098-baf7-b85792ef9b52,2023-11-10,Victoria Watson,Port Douglasburgh,Clothing,Tablet,8,514.41,UPI,4115.28
+e8d30a8e-a67b-4c35-b81f-295310af2aa0,2023-11-10,Ruth Oneal,Nicolebury,Electronics,Headphones,10,658.71,Net Banking,6587.1
+db38b1c8-b5ed-406a-b9fd-4d3597d80495,2023-11-10,Katelyn Kennedy,Eileenport,Toys,Sneakers,2,18.63,Net Banking,37.26
+b7526bb6-2e10-45ea-a6d6-ce9e13d96a6f,2023-11-11,Thomas Taylor,Hollyburgh,Electronics,Action Figure,8,543.66,UPI,4349.28
+034c7b64-7131-41f9-aefe-a3da36fe5a1f,2023-11-11,Anthony Valencia,Port Jessicaburgh,Books,Sneakers,4,691.48,Net Banking,2765.92
+7196c582-4e6d-4db4-833f-24047b55ca8f,2023-11-11,James Stevens,Michaelside,Clothing,Tablet,4,302.21,UPI,1208.84
+45500127-fc04-4b50-98f4-56c228cc21a5,2023-11-12,Vernon Brady,North Allison,Home Appliances,Action Figure,3,591.15,Credit Card,1773.4499999999998
+e49281ab-b3a9-4565-9781-4b307c6a6753,2023-11-12,Jennifer Christian,South Lukestad,Electronics,Laptop,2,412.02,UPI,824.04
+a62c1175-9848-4037-b941-311df240598a,2023-11-12,Carol Mcguire,Port Peggy,Electronics,Sneakers,2,210.66,Cash on Delivery,421.32
+550503aa-514a-4841-8f31-bb33246d254e,2023-11-13,Jerry Miller,West Nicholasfurt,Home Appliances,Laptop,9,252.01,UPI,2268.09
+985d84c0-0e78-4d51-99b8-1fd8c2d704fe,2023-11-13,Jennifer Miller,Sydneybury,Home Appliances,Refrigerator,10,116.4,Net Banking,1164.0
+42a5fdc0-59df-4d3c-9808-91e7d273dff4,2023-11-14,Daniel Wilcox,Port Travismouth,Books,T-Shirt,9,424.4,Net Banking,3819.6
+33d19b54-41e1-455c-90a4-565c5fd7467b,2023-11-14,Stephanie Jackson,Phillipsview,Clothing,Tablet,4,515.99,UPI,2063.96
+c9a47561-10b3-4d0b-a258-f9f870ba67c0,2023-11-15,Matthew Miller,Katherineland,Books,Novel,7,46.45,Net Banking,325.15000000000003
+9bde0473-28a1-436e-86fa-b40b23aa0a4c,2023-11-16,Rachel Padilla,Sophiaville,Electronics,Action Figure,5,922.03,UPI,4610.15
+d6349a56-fbf5-4b76-9262-e649b83fe257,2023-11-17,Tammy Clark,New Michele,Clothing,Blender,6,760.61,Cash on Delivery,4563.66
+9b0d908c-8b01-45ad-8de8-64d44465bb17,2023-11-18,Michelle Hall,North Christinestad,Toys,Sneakers,7,653.54,Debit Card,4574.78
+d97561d0-aec5-425e-bb15-a2f7e1f26e00,2023-11-18,Bethany Harrison,Fraziermouth,Clothing,Action Figure,5,91.73,Cash on Delivery,458.65000000000003
+8decc302-ba2b-481d-ba5c-385acdb54114,2023-11-19,Carol Wilson,Phillipsbury,Toys,Action Figure,10,436.27,Cash on Delivery,4362.7
+5429f915-ad12-4b8a-a971-3433e38a475e,2023-11-19,Donald Garcia,North Pattyfort,Electronics,Action Figure,10,909.37,UPI,9093.7
+ba67d234-6eeb-40ec-988c-4c0dfb3bd954,2023-11-19,Mary Flores,Port Chasehaven,Books,Novel,5,117.5,Cash on Delivery,587.5
+fbba8993-dbe0-44eb-b989-0548b8a6e1bc,2023-11-20,Jessica Johns,Lake Jennifer,Books,Sneakers,8,637.61,Debit Card,5100.88
+34f6ad16-fb64-4635-8e39-cc30bb300dc6,2023-11-21,Jessica Mathis,Sheafort,Electronics,Headphones,7,607.59,UPI,4253.13
+fffce0c0-8ac9-41e4-acd0-2dc2910b7036,2023-11-22,Michael Martinez,Alantown,Toys,Sneakers,2,532.9,Net Banking,1065.8
+047f89e7-7d5b-4ece-aa7e-788ec5261ff2,2023-11-24,Lisa Lee,Annmouth,Electronics,Novel,4,626.41,Credit Card,2505.64
+ef889de2-5d34-49be-9468-9b0e31467dea,2023-11-24,Kathleen Powell,Wilsonchester,Clothing,Blender,4,240.27,Debit Card,961.08
+541ef61a-196e-4c99-9e7f-682978340ab3,2023-11-24,Jonathan Wiley,South Joshua,Books,Sneakers,9,807.5,Cash on Delivery,7267.5
+10b366dd-f0e9-4ffc-bf67-31c6cd519dab,2023-11-25,Adam Nelson,New Jenny,Electronics,Laptop,6,978.04,Cash on Delivery,5868.24
+30367ebe-6874-4779-ae63-4092c0d1ee34,2023-11-25,Richard Ford,Jenniferview,Books,Tablet,4,889.04,Cash on Delivery,3556.16
+4122e427-a953-4684-8b40-0c43f036d7d5,2023-11-25,Diamond Phillips,South William,Clothing,Headphones,8,989.45,UPI,7915.6
+40cc73de-415c-44ed-aa0b-d3c2a967cfae,2023-11-25,Catherine Murphy,West Davidtown,Toys,Smartphone,2,519.24,UPI,1038.48
+62a737a8-8a16-48e3-9327-54843fe0dcbb,2023-11-26,John Reid,Jerryburgh,Home Appliances,Sneakers,8,798.73,Credit Card,6389.84
+29deb7f2-b552-49be-8e29-e5eec560b22c,2023-11-27,Nicholas Montoya,New Kelliehaven,Books,Blender,6,636.87,UPI,3821.2200000000003
+de0ed2b2-31ef-4001-802b-26c52caa834a,2023-11-27,Jon Fox,Port Paulbury,Home Appliances,Laptop,5,902.83,Net Banking,4514.150000000001
+5a2865d6-fc1c-40c3-a0b4-7f2572b0832b,2023-11-27,Thomas Romero,South Davidton,Books,Novel,4,369.1,Debit Card,1476.4
+a1bb7f7b-b376-4c49-bed1-ebd0bd7f5aa8,2023-11-27,Melissa Rodriguez,Henryfurt,Electronics,Tablet,5,959.39,Debit Card,4796.95
+3decc63d-5e11-4ab3-8e0a-e9e5f5ce399b,2023-11-28,Christopher Thompson,Davisland,Home Appliances,T-Shirt,6,279.82,Debit Card,1678.92
+f898e633-3535-49a3-b743-7da7af35b8bc,2023-11-28,David Simmons,Danielfort,Books,Laptop,6,895.1,Credit Card,5370.6
+0a46ac32-9322-4968-8253-b3d14f9bb33f,2023-11-28,David Powers,Kelseyview,Clothing,Refrigerator,6,64.15,Credit Card,384.90000000000003
+7c3e1b35-9a79-48cb-820e-ca13c1b1180e,2023-11-29,Michelle Johnson,East Paulview,Toys,Blender,9,10.88,Cash on Delivery,97.92
+38216953-0e5f-4c80-bf9d-db82a905727a,2023-11-30,James Benson,Guerraville,Clothing,Smartphone,7,692.6,UPI,4848.2
+0fee6796-105a-4c7e-94c0-f133bc271c17,2023-11-30,Charles Weeks,North Danielshire,Electronics,Blender,2,695.29,Net Banking,1390.58
+c3a4f253-dd70-41bc-a076-d863b30af7b7,2023-11-30,Angel Mcknight,Port Michaelmouth,Books,Smartphone,2,40.64,Cash on Delivery,81.28
+678e50ce-c789-4bd1-a53c-10c929a02b05,2023-11-30,Melissa Blake,Lake Rebekahmouth,Electronics,Smartphone,5,686.35,UPI,3431.75
+63e02abe-c4f7-4894-b7fe-80a4ee464695,2023-11-30,Melissa Young,Robertland,Toys,Tablet,10,938.05,UPI,9380.5
+fd644983-51ba-4d4d-8028-e37457aab5b1,2023-12-01,Richard Young,Lisastad,Home Appliances,Smartphone,6,608.41,Cash on Delivery,3650.46
+3829400b-b9e5-4bcd-ac5a-807456509d90,2023-12-01,Alan Brown,Loweville,Electronics,T-Shirt,3,237.41,UPI,712.23
+8201af96-29b5-4bfb-b907-850dab245e00,2023-12-02,William Richardson,Chadborough,Books,Tablet,4,142.79,Credit Card,571.16
+55921524-7b0f-4893-bc8d-3bb7a2b6baf6,2023-12-02,Joseph Newman,Bethchester,Home Appliances,Action Figure,7,519.63,UPI,3637.41
+68cae19c-980c-4a06-a022-a8f5cbf5c310,2023-12-05,Stephanie Lopez,Jamesbury,Books,Sneakers,9,76.87,Net Banking,691.83
+fafd2bcb-404c-497e-b4a7-38b58d26c3a2,2023-12-05,Sharon Brown,South Tammyfurt,Books,Action Figure,5,910.53,Credit Card,4552.65
+d3d2de8e-b690-44ca-b955-4e777c15b10e,2023-12-08,Shane Davis,Josephmouth,Home Appliances,Blender,1,137.49,UPI,137.49
+1eabf096-29b2-4cfb-b4ff-626506dd1c28,2023-12-08,Amanda Johnson,Bellstad,Home Appliances,Sneakers,6,375.94,Net Banking,2255.64
+3dda6cab-de7c-4047-9c23-85a7e1224550,2023-12-08,Drew Ford,Lake Codyburgh,Clothing,Headphones,3,377.96,UPI,1133.8799999999999
+5de5eee1-9783-4567-86da-964405661749,2023-12-08,Miranda Ford,Williamsside,Toys,Refrigerator,3,937.4,Debit Card,2812.2
+bf04c4a4-3b31-45a2-9eb7-58023a347c1a,2023-12-08,Aaron Lee,East Theodore,Electronics,Action Figure,3,712.17,Debit Card,2136.5099999999998
+2f929800-e451-4f64-9d8d-2c4fab8106b3,2023-12-09,Shawn Mcpherson,Oconnormouth,Clothing,Novel,3,31.06,Cash on Delivery,93.17999999999999
+90f57a5c-2912-4a5a-962d-b0a4b44ebad7,2023-12-09,Raymond Ayala,Stephanieview,Home Appliances,Refrigerator,3,297.79,UPI,893.3700000000001
+2afabf77-1b14-460f-8966-7febf0f5958c,2023-12-09,Laura Murphy,Michaelfurt,Books,Tablet,7,739.81,Cash on Delivery,5178.67
+f4d5a996-beea-4136-a8e9-799f8bc903d4,2023-12-09,Shawn Barber,South Mollybury,Toys,Novel,10,18.5,UPI,185.0
+f4c04820-7c85-47f6-8cbc-fb72f007e3c7,2023-12-13,Hannah Cook,East Granthaven,Toys,Sneakers,2,688.16,Credit Card,1376.32
+3e13a148-be62-40cb-875d-e6b41e1007eb,2023-12-13,Nathan Oneill,Bradleyton,Clothing,Blender,10,516.85,Debit Card,5168.5
+1febf1e1-a2ba-4cd3-98ea-1981290c02cb,2023-12-14,Caitlin Villa,Fuentesshire,Toys,T-Shirt,10,671.06,Debit Card,6710.599999999999
+37120e8d-0443-4a7f-bd1c-c2d9d04f5f72,2023-12-14,Kevin Le,New Kathleen,Electronics,Smartphone,7,436.79,Credit Card,3057.53
+e5a13490-2050-4d94-9129-6557822bd10c,2023-12-15,Mary French,North Nicole,Toys,Sneakers,1,889.25,Credit Card,889.25
+0b9f29c4-cf77-47b2-940e-02d70779301a,2023-12-15,Victor Smith DDS,New Loriberg,Toys,Sneakers,3,296.65,UPI,889.9499999999999
+4b873675-1cb3-427a-ab05-d56433bf6d1d,2023-12-15,Eugene Cooper,East Elizabeth,Electronics,Action Figure,2,295.48,Credit Card,590.96
+c484232e-381f-4d00-85c4-52d91f302e9e,2023-12-15,Anthony Barrett,Port Kristinaland,Electronics,Sneakers,4,723.23,Cash on Delivery,2892.92
+da47bd6e-87e9-4287-adb1-e5b0c370faf7,2023-12-16,Angela Simmons,Port Joel,Books,Sneakers,5,297.27,UPI,1486.35
+968a076c-005f-4b50-8c73-c5f7f18634d3,2023-12-16,Hunter Johnson,Codyfort,Electronics,Headphones,4,706.99,Cash on Delivery,2827.96
+5bbb7156-f152-4ac4-b6c9-e92d1d817728,2023-12-16,Jessica Hopkins,East Josephview,Clothing,Sneakers,6,302.11,Net Banking,1812.66
+d9296ac5-f46f-475e-981a-fa9ce1227525,2023-12-16,George Smith,New Kellichester,Electronics,Laptop,10,942.32,Net Banking,9423.2
+72ef056d-1205-41a8-befb-ce9ad6744bb5,2023-12-16,Cynthia Brown,North Joyce,Clothing,Blender,6,775.91,Cash on Delivery,4655.46
+e7f0a525-2f7d-4661-805e-5eb86edf5179,2023-12-16,Michael Adams,Amyfort,Clothing,Novel,5,731.08,Credit Card,3655.4
+9c174652-44c9-40cb-8b6c-d3b38c02a5c5,2023-12-18,Alejandro Jordan,Rachelville,Home Appliances,Headphones,8,978.71,UPI,7829.68
+450520f8-7538-4e8e-b1ca-43ea31356ef6,2023-12-18,Phillip Edwards,Harrisonborough,Toys,Action Figure,7,133.01,Net Banking,931.0699999999999
+c0055ea1-9ba5-4aea-9d28-69aec0813fa6,2023-12-19,Cody Perkins,South Amanda,Home Appliances,Tablet,5,785.73,Cash on Delivery,3928.65
+54458429-9217-4079-ae8c-37629da8c7b8,2023-12-19,Gregory Turner,East Jill,Electronics,Refrigerator,3,165.9,Debit Card,497.70000000000005
+4c9de97b-6ff5-4315-bc2e-df94edda6de8,2023-12-20,Lee Roberts,Emilybury,Electronics,Sneakers,7,33.12,Net Banking,231.83999999999997
+587b350f-d07a-4542-843a-ba0d3080c93a,2023-12-21,Melinda Hill,Duffychester,Books,Blender,2,452.39,Cash on Delivery,904.78
+054913d3-669f-41a6-90eb-903a94a674c3,2023-12-21,Deanna Copeland,West Lori,Toys,Action Figure,8,833.54,Credit Card,6668.32
+e5c29c01-bdcc-4888-8004-1d200e200463,2023-12-21,John Gilbert,New David,Home Appliances,Smartphone,9,395.8,Credit Card,3562.2000000000003
+c5ab155f-907e-402c-b945-de4897701f56,2023-12-22,Jeanne Sutton,North Carol,Electronics,Laptop,9,303.53,Credit Card,2731.7699999999995
+7bdbae8c-f13b-4222-ac93-6eaf7098ad3a,2023-12-22,Debbie Miller,Port Nancy,Electronics,Novel,5,229.13,Credit Card,1145.65
+53951665-7cc2-468a-ad2d-e81312fefd18,2023-12-23,Luis Washington,Tamaratown,Clothing,Smartphone,2,888.78,Cash on Delivery,1777.56
+4a3a861a-c03c-49e8-8a2c-da59e30cb0e2,2023-12-23,Randy Lee,New Joshuaburgh,Home Appliances,Smartphone,8,290.89,Cash on Delivery,2327.12
+7eb54093-0fb5-4564-a09d-2d988763cfe1,2023-12-23,Brandy Waters,Lake Jessicashire,Clothing,Headphones,2,725.51,Net Banking,1451.02
+a7ac5d93-7220-4732-8cb3-76d5a2050b29,2023-12-24,Deborah Blackwell,New Matthewland,Electronics,Blender,7,464.59,Credit Card,3252.1299999999997
+23849a14-eca0-4690-918f-8b3537295831,2023-12-24,Michael Chavez,Espinozaside,Electronics,Laptop,10,628.77,Debit Card,6287.7
+27575d2c-88c9-48f3-a324-84f4fceae0ea,2023-12-24,Laura Wells,New Frankstad,Books,Refrigerator,2,386.8,Credit Card,773.6
+7c8ac6c7-fdd9-42cc-95d1-fa3353db8f2c,2023-12-24,Danielle Brown,Stevensside,Electronics,Sneakers,1,830.08,UPI,830.08
+a2ba50fe-9245-4e98-9f51-0edcda46a950,2023-12-25,Margaret Baker,Katiemouth,Home Appliances,Smartphone,6,58.31,UPI,349.86
+3fc09587-d8c2-41bf-971a-79e13f6e0c83,2023-12-25,Brian Hahn,Colleenbury,Toys,Headphones,8,104.02,Net Banking,832.16
+368b592a-b179-435f-b9df-d4b330975eb3,2023-12-25,Robert Hernandez,North Martinfurt,Home Appliances,Sneakers,1,535.19,Debit Card,535.19
+5bf45523-1b2e-4df4-b04c-4b27eae8405d,2023-12-25,Joseph Ruiz,Ruizborough,Home Appliances,Laptop,9,486.64,Credit Card,4379.76
+8c7bb98b-8741-477a-a926-e5ba05609a0f,2023-12-27,James Williams,North Jeffreyport,Electronics,T-Shirt,9,365.32,Credit Card,3287.88
+59843808-e7e1-42d7-927f-acd58746d803,2023-12-27,Roger Sanchez,Lake Jay,Home Appliances,Blender,1,970.24,Cash on Delivery,970.24
+3dd89e07-2f9e-4cca-abdd-67dbd345ddaa,2023-12-27,Savannah Thomas,Bensonberg,Toys,T-Shirt,5,71.36,Credit Card,356.8
+e8f59601-0663-4151-add6-fa5d24504bcc,2023-12-28,Elizabeth Barnett,South Reginachester,Electronics,T-Shirt,8,520.48,UPI,4163.84
+07c28557-2b81-420f-8c55-6bfcd19edfca,2023-12-28,Matthew Garrison,Hernandezville,Books,Sneakers,7,786.75,Debit Card,5507.25
+ed06d2a4-8ddb-484b-a06c-16142cae8d63,2023-12-28,Charles Park,Dawnview,Electronics,T-Shirt,7,719.83,Cash on Delivery,5038.81
+bb4d04ed-8c3e-4f1c-8cb1-6f064569aaf2,2023-12-29,Lisa Thomas,Garciaton,Books,Sneakers,3,364.72,Cash on Delivery,1094.16
+b4ca7a22-7d71-405d-8865-8f4242da6a84,2023-12-29,Nathan Cook,West William,Clothing,Laptop,10,521.05,Net Banking,5210.5
+5fef8521-b359-4835-bfc6-33d846efd111,2023-12-30,Mckenzie Norman,West Kristastad,Clothing,Sneakers,4,233.86,UPI,935.44
+1a907ae3-6832-4bcb-92f6-0dc5e930517a,2023-12-30,Eric Jones,Stacyport,Home Appliances,T-Shirt,10,562.71,Debit Card,5627.1
+9782973a-47e6-4922-99b1-587f18979781,2023-12-31,Robin Vincent,South Robin,Home Appliances,Action Figure,10,537.24,Net Banking,5372.4
+3bfd9ce4-d0e6-4a4f-bfe1-77131cc98650,2023-12-31,Vanessa Baker,Deborahtown,Home Appliances,T-Shirt,7,575.88,Cash on Delivery,4031.16
+db5fe404-b340-4b9b-9123-9a332ddb6b57,2024-01-02,Christine Pittman,New Phyllis,Toys,Refrigerator,4,466.99,UPI,1867.96
+a507f220-5ae7-4266-a8fa-1ce74d9f78cb,2024-01-02,Lauren Mcconnell,Lake Tracy,Clothing,Sneakers,1,147.62,Cash on Delivery,147.62
+ce911ea0-a05d-43ad-965f-3513b2830e4b,2024-01-03,Andrea Charles,Josephtown,Home Appliances,Refrigerator,3,716.87,UPI,2150.61
+d106ebdf-f5ff-406d-a8e3-2a61de3ae8c0,2024-01-03,Jennifer Little,North Brittanyborough,Electronics,Laptop,1,436.69,Credit Card,436.69
+b2b0c315-1679-4632-93bf-85b50f54a33f,2024-01-04,Henry Lee,Heathermouth,Books,T-Shirt,1,888.87,Cash on Delivery,888.87
+c3108be2-5956-42c8-9b0a-e340d0830d35,2024-01-05,Michael Smith,Richchester,Electronics,T-Shirt,10,221.39,Debit Card,2213.8999999999996
+c0d72314-bb03-444b-9995-59b54ac828fe,2024-01-05,Robert Collins,Clarkburgh,Clothing,Novel,4,329.26,Net Banking,1317.04
+e28d65b0-bb2f-4501-b268-8ca209d01963,2024-01-06,Kevin Jimenez,West Williamville,Electronics,Laptop,6,546.92,Cash on Delivery,3281.5199999999995
+d1ecdd31-b4d4-42a1-bf55-e20a2adc4282,2024-01-07,Stephanie Jones,New Devon,Electronics,Sneakers,10,362.48,Credit Card,3624.8
+744ab266-cc34-425a-ac52-4b4bbcc58ace,2024-01-07,Andrew Diaz,New Laurenberg,Home Appliances,Headphones,8,930.27,Debit Card,7442.16
+b55ad842-185e-44ce-846d-8665b036c162,2024-01-09,Joe Hobbs,West Cindy,Books,Smartphone,2,646.4,Debit Card,1292.8
+44ed755c-ca08-44da-9f19-ad3beb6bf871,2024-01-09,Lindsay Spencer,New Robert,Electronics,Refrigerator,8,864.14,Net Banking,6913.12
+93472670-9984-47b8-8c47-0e8cc473aaa7,2024-01-09,James Jones,Nancymouth,Home Appliances,Laptop,6,898.97,Net Banking,5393.82
+f39f94e8-8138-4857-9172-58b20809cbbf,2024-01-09,Jennifer Coleman,East John,Electronics,Sneakers,6,222.88,UPI,1337.28
+144f7c51-449a-480e-8ea6-17295872e327,2024-01-10,Cynthia Williams,Phillipstown,Books,Headphones,1,390.81,Net Banking,390.81
+2d361d0a-b389-43bd-b5ec-62bba23eaeea,2024-01-10,Kevin Sims,Kimside,Electronics,Novel,1,710.02,Net Banking,710.02
+7b0653ad-dfa3-42cb-8d1a-e014a46a5f21,2024-01-10,Michelle Robinson,Brandonport,Electronics,Smartphone,10,154.76,Net Banking,1547.6
+428f5a41-e3c3-4b08-8834-9d1d3f67aab6,2024-01-11,Kerri Wells,West Hollychester,Electronics,Tablet,8,999.83,Credit Card,7998.64
+090f44bf-8ce6-4eaf-a850-852f23aa9b0b,2024-01-11,Eric Munoz,Mayermouth,Toys,T-Shirt,8,343.93,Debit Card,2751.44
+36da7d81-5f18-42c7-ade7-c4ec7d5fe011,2024-01-11,Diane Bailey,Ramirezhaven,Home Appliances,Headphones,2,69.02,Credit Card,138.04
+1c5871ca-20e6-4012-b721-d69b5dfeac6a,2024-01-11,Vanessa Jacobs,Cardenaschester,Clothing,Headphones,2,181.27,Net Banking,362.54
+153c6382-aba6-46bf-9479-f10e168f8d97,2024-01-12,Heidi Castillo,Phelpsburgh,Books,Blender,9,966.02,Net Banking,8694.18
+564c2f87-e120-4e0f-ac66-cdc28dac6b46,2024-01-12,Michele Mcneil,Camachotown,Books,Headphones,8,283.37,Cash on Delivery,2266.96
+86bdb7d7-1554-462f-b183-afd7cb9ffffb,2024-01-13,Corey Wilkinson,West Breanna,Home Appliances,Sneakers,9,885.61,Debit Card,7970.49
+461d5641-eff7-4657-bf44-e77dacab7d38,2024-01-13,Jessica Ortiz,Johnburgh,Home Appliances,Sneakers,2,93.48,UPI,186.96
+c433ede7-c575-4926-ac4f-51b599bf6229,2024-01-14,Richard Wong,South Stephen,Electronics,Headphones,2,282.17,Credit Card,564.34
+8406f31a-db6a-45bb-90d6-06c6d7e274a2,2024-01-14,Beverly Ford,South Lindaland,Toys,Smartphone,3,997.7,Cash on Delivery,2993.1000000000004
+cb33012f-2091-4de8-8629-abb1b9d6a109,2024-01-15,Michael Rodriguez,South Darrylside,Books,Action Figure,10,753.41,Debit Card,7534.099999999999
+5ecef8cd-20cd-458f-9715-1e71d11968d4,2024-01-15,Catherine Bauer,Donaldburgh,Clothing,Refrigerator,8,984.12,Net Banking,7872.96
+84eb1acf-b45c-4a75-a8c1-b48869ee4a94,2024-01-15,Darin Baker,New Claudia,Books,Blender,10,843.41,Debit Card,8434.1
+aed42921-9619-4ef6-b106-8b5e2f692e37,2024-01-15,Alan Terrell,North Fredfurt,Home Appliances,Novel,3,743.74,UPI,2231.2200000000003
+7be93e20-f9dd-48cb-b4a8-dedf74b41756,2024-01-15,James Reid,Chavezshire,Electronics,Novel,1,188.5,UPI,188.5
+ac5cda82-0da6-48bb-8b74-2a20598a715c,2024-01-15,Jessica Brown,South Austinville,Electronics,Blender,10,759.62,Cash on Delivery,7596.2
+d60d8068-3f4d-4f55-9bd3-f86217ffe93c,2024-01-16,Samantha Peterson,Jeffreyfort,Toys,Action Figure,3,73.63,Debit Card,220.89
+ef5fc4fe-261a-470f-ba41-75ae707a8877,2024-01-17,Jessica Larson,Herrerastad,Toys,Smartphone,6,744.66,Cash on Delivery,4467.96
+31f1ae7b-f677-4f69-8bf6-5224b29e30e2,2024-01-17,Ryan Gordon,West Jennifer,Electronics,Headphones,4,915.43,Cash on Delivery,3661.72
+cb459a51-fb30-4037-8960-b1ca34e6fe6d,2024-01-17,Dr. Eric Smith,North Paige,Home Appliances,Blender,3,19.91,Credit Card,59.730000000000004
+e41ef96e-fca4-4606-87a3-db0dd9e6236e,2024-01-19,Rebecca Stout,South Stephenville,Clothing,Tablet,4,181.69,Debit Card,726.76
+e240de94-84ce-4bd7-9170-445b5f553cd3,2024-01-20,Christopher Wilson,Port Johnmouth,Toys,Laptop,5,606.36,Credit Card,3031.8
+1ea204d2-5db0-4791-884a-35f85cf9ba8e,2024-01-21,William Silva,Lake Karen,Home Appliances,Novel,1,896.84,UPI,896.84
+d9f36ba3-b623-4ac1-9e74-3885e877caac,2024-01-21,Manuel Alvarez,Joshuachester,Toys,Novel,7,433.36,Cash on Delivery,3033.52
+3aa7c4df-8d89-4cf2-8c73-a244a3536324,2024-01-22,Misty Mccormick,Toddshire,Books,Laptop,4,519.6,Debit Card,2078.4
+f18729d8-9fef-4de3-a842-26ef2651bc8e,2024-01-22,Susan Gomez,South Lisa,Home Appliances,Refrigerator,2,565.01,Net Banking,1130.02
+d4051b17-f83d-403a-bab9-2f2f86195776,2024-01-23,Kim Hester,North Sydneychester,Clothing,Sneakers,2,757.59,UPI,1515.18
+f50e4b8c-957a-4b72-95aa-4fd754442d8d,2024-01-23,David Gross,Lake Molly,Books,Laptop,8,789.99,Cash on Delivery,6319.92
+14160c09-5cf0-4e60-8546-a44d2376ec0d,2024-01-24,Jeffrey Bridges,Danielstad,Electronics,Sneakers,4,280.07,UPI,1120.28
+078eca0e-5fc0-4973-b8d6-a5156389f06e,2024-01-24,Jessica Pearson,Lake James,Toys,Tablet,10,860.44,Credit Card,8604.400000000001
+f7d022de-5f69-4fdb-949d-03c064d525c0,2024-01-24,David Henry,Katherinefort,Clothing,Novel,5,503.08,Debit Card,2515.4
+a4f3c9aa-1342-4ac1-9210-7ed5fc213dc0,2024-01-24,Kyle Gordon,Millerton,Home Appliances,Novel,8,545.11,Cash on Delivery,4360.88
+8854cfd5-abea-4911-b7b8-35b0e5adcad6,2024-01-25,Ashley Hicks,Ortizfurt,Home Appliances,Action Figure,9,144.06,Cash on Delivery,1296.54
+b2a36af3-52c1-4d9e-b341-e7fdec4ea7d9,2024-01-26,Christopher Abbott,East Richardstad,Books,Sneakers,7,146.79,Debit Card,1027.53
+c8ba21a4-b7a2-4ff0-8564-70bffa5c0187,2024-01-26,Megan Jones,Hudsonport,Toys,Tablet,4,477.22,UPI,1908.88
+13e3ce67-8cd6-4136-b3e0-e1e6d859fec5,2024-01-27,Caroline Lane,Aliciatown,Toys,T-Shirt,2,554.49,Debit Card,1108.98
+8faf265e-37af-4fc5-8632-5ced2fc81fbd,2024-01-27,Scott Patterson,Jamesland,Toys,Headphones,10,412.23,Cash on Delivery,4122.3
+1f7d071b-4234-4ead-8deb-63c9bc0a9fa0,2024-01-27,Brian Donovan,Kellystad,Toys,Refrigerator,7,338.05,Credit Card,2366.35
+bcf8bbf2-fd69-4841-a666-0c8e9a1bf667,2024-01-28,Martin Guzman,West Briantown,Toys,Refrigerator,8,876.77,Cash on Delivery,7014.16
+d397d18f-0bdc-4203-b954-c63fd34cd2d2,2024-01-28,Alicia Sanchez,Port Kathryn,Electronics,Action Figure,3,589.66,Debit Card,1768.98
+f300f372-9e05-467e-9979-8091f3758796,2024-01-29,Linda Sandoval,New Matthew,Home Appliances,Smartphone,6,717.74,Net Banking,4306.4400000000005
+026eff70-588e-41e1-a236-e4e701ef0875,2024-01-30,Eddie Rodgers,Vickiechester,Home Appliances,Action Figure,8,300.59,UPI,2404.72
+3f411790-b566-4cff-97f4-8c76b4b11d96,2024-01-30,Perry Blackburn,Adamfort,Toys,Laptop,7,100.51,Cash on Delivery,703.57
+83f5a0fa-bd50-48e7-83db-460bc95a1b0d,2024-01-30,David Kemp,East Denise,Clothing,Sneakers,3,786.67,Net Banking,2360.0099999999998
+4b451492-7b9f-458f-940d-32b6d215f241,2024-01-30,Russell Harris,Barbaratown,Electronics,Novel,10,958.17,Net Banking,9581.699999999999
+47008880-dff1-48b9-90ea-88ca7e3deaf0,2024-02-01,Christine Little,Ayalachester,Toys,Laptop,8,129.62,Debit Card,1036.96
+47ee4927-2764-4cba-a09c-f68bd959d27a,2024-02-02,Donna Martin,South Sandra,Electronics,Sneakers,7,705.02,Credit Card,4935.139999999999
+51adbe7f-ac22-4c22-8f03-ba5142d19c45,2024-02-02,Lauren Nguyen,Rebeccaberg,Clothing,Laptop,9,293.43,Credit Card,2640.87
+7416aa62-8677-4779-89c9-c5d21d38368d,2024-02-02,Ashley Guzman,Ericton,Clothing,Action Figure,1,240.0,Cash on Delivery,240.0
+4cdc2a8e-49e1-4a95-8033-45d254f3df63,2024-02-03,Virginia Rice,Anthonychester,Books,Sneakers,4,576.75,Cash on Delivery,2307.0
+a3ab669e-2bff-4b19-887a-d0724cb0b046,2024-02-03,Amanda Gutierrez,Amandashire,Electronics,Tablet,3,97.36,Debit Card,292.08
+713a3e96-861e-442e-ae92-0b13d1db0615,2024-02-05,Sandra Rodriguez,Jordanfort,Home Appliances,Novel,2,196.31,Debit Card,392.62
+75840721-4ccf-4149-8c52-ef889559c896,2024-02-05,Michael Cox,Lake Pamela,Books,Blender,3,639.34,Debit Card,1918.02
+18ea4525-c381-42d9-ab05-cd1bebf8d48a,2024-02-06,James Brown,Morganland,Electronics,Laptop,4,317.62,Debit Card,1270.48
+c5f05c47-66c9-4dcf-a701-06c2b7e6a9b3,2024-02-07,Carla Cooper,Brianmouth,Books,Tablet,9,164.14,UPI,1477.2599999999998
+af4330c6-2fac-4116-ba39-c6970d744591,2024-02-08,Richard Pham,Jefferyport,Toys,Blender,1,881.75,Net Banking,881.75
+50c593eb-2359-43d5-99e4-b6b9cb355c8e,2024-02-08,Brianna Alexander,Christopherfort,Home Appliances,Tablet,6,516.83,Net Banking,3100.9800000000005
+11347fd4-d1b6-4678-b43e-25c5d6d20b26,2024-02-08,Katrina Wood,South Charlesfort,Electronics,Sneakers,7,615.71,Credit Card,4309.97
+8cf8ebd3-5774-49b9-ab13-a7d46d3f0994,2024-02-08,Robert Norton,New Brendanville,Books,T-Shirt,7,776.96,Credit Card,5438.72
+8356297a-c8a5-4e5f-8e4a-ad42be60a1aa,2024-02-09,Haley Kaufman,Jamesbury,Electronics,Laptop,1,841.35,Cash on Delivery,841.35
+16f6b0d5-140e-4ba1-abe2-ea27c1d36295,2024-02-09,Eric Mcclain,North Randy,Electronics,Novel,9,245.01,Cash on Delivery,2205.09
+f6e73ea3-5f4a-4f4c-977f-21cc09edefa7,2024-02-09,David Morris,Nancyland,Toys,T-Shirt,1,594.06,Debit Card,594.06
+ce5759fd-503f-462b-8098-0b024ed2add6,2024-02-09,Kathy Walker,Hallburgh,Toys,Headphones,1,84.8,Credit Card,84.8
+c2afefdf-5af0-4ba7-966e-a856fb7b3dbd,2024-02-10,Trevor Simpson,Port Donna,Books,Blender,7,170.21,Debit Card,1191.47
+bd159580-09bc-44f7-aac9-32ace0bc395d,2024-02-12,Brianna Byrd,South Andrewside,Electronics,Headphones,4,391.37,Credit Card,1565.48
+cb6d342a-a525-475c-96fa-07982b945a61,2024-02-12,Jamie Garrett,Lake Debbieland,Toys,Tablet,1,963.92,Cash on Delivery,963.92
+c1267c9b-783c-4a86-bbb1-5b507b79b32c,2024-02-12,Amy Koch,West Stephaniestad,Electronics,Refrigerator,7,411.84,Credit Card,2882.8799999999997
+3a530efc-d786-4fb6-a5da-e12a834751ea,2024-02-13,Perry Torres,Lake Christopherton,Books,Action Figure,6,482.69,Cash on Delivery,2896.14
+f5a258c9-b841-4342-8d11-7a6c316ac930,2024-02-13,Meghan Braun,Carrollland,Clothing,Refrigerator,7,684.14,Cash on Delivery,4788.98
+4d7fe720-21e6-4c45-8007-003a72a66553,2024-02-14,Jerry Cook,North Paulfort,Electronics,Headphones,9,387.75,Credit Card,3489.75
+b968de60-f820-4cc8-9aa7-b9f3fa6539f9,2024-02-15,Anthony Goodwin,South Jenniferport,Clothing,Novel,5,320.15,Net Banking,1600.75
+013fdfb4-831a-4749-ac54-45ac1272ec33,2024-02-15,Andrew Holland,Haleyport,Books,T-Shirt,6,670.56,UPI,4023.3599999999997
+68e9c831-a265-4c00-a617-69464065c102,2024-02-15,Karen Hawkins,Yangtown,Toys,T-Shirt,4,629.98,Credit Card,2519.92
+28017110-d3dc-4810-9b3b-5e53f3e5b43c,2024-02-16,Timothy Ryan,Margaretshire,Books,Smartphone,10,274.94,Cash on Delivery,2749.4
+36f66414-7417-4368-8842-2d27e2e1d726,2024-02-16,Frank Cobb,Paulport,Home Appliances,Action Figure,3,875.2,Net Banking,2625.6000000000004
+188590b2-77ce-4620-9e41-1c2f3d6fe316,2024-02-17,Stephanie Wade,East Carlamouth,Home Appliances,Refrigerator,7,116.46,Debit Card,815.2199999999999
+e017ec53-5cfc-46c5-95e2-f01e32cda229,2024-02-18,Timothy Green,Ashleyton,Toys,Action Figure,5,436.45,UPI,2182.25
+e7ec2a1d-993a-4902-9cc2-4f85bf351dde,2024-02-19,Edward Martin,Danielchester,Books,Novel,6,630.89,Debit Card,3785.34
+5f5efc46-893a-4763-b51e-3201369f566a,2024-02-20,Melanie Bentley,Port Staceymouth,Electronics,Refrigerator,8,803.72,Net Banking,6429.76
+0fa592c7-464f-4adf-a135-31f658dc9852,2024-02-20,Eric Davis,Davisville,Home Appliances,Laptop,8,399.16,UPI,3193.28
+6c56adc5-43a6-405c-98b2-c1ab55f5547d,2024-02-21,Kelsey Hernandez,New Patriciamouth,Electronics,Novel,9,793.12,Credit Card,7138.08
+c9577b7c-5edb-4d5d-a5d8-4a87d2d502f5,2024-02-21,Dennis Dougherty,Floresport,Toys,Action Figure,9,723.64,Debit Card,6512.76
+c0183814-f107-4bf9-8831-855c7fee51a2,2024-02-22,John Montgomery,Jessetown,Electronics,Headphones,7,863.2,UPI,6042.400000000001
+51c916db-c784-4c40-a787-f0a108b8dcb2,2024-02-22,Olivia Martin,Lake Michellebury,Clothing,Smartphone,1,163.97,Net Banking,163.97
+d3589fb8-e49c-4cf9-90c4-37b332295fe3,2024-02-22,Mark Green,Lake Samuel,Books,Blender,4,695.67,UPI,2782.68
+6ff9d8b2-895a-4c63-8843-0f72edae9636,2024-02-23,Christina Carter,Davistown,Toys,Blender,8,299.2,UPI,2393.6
+db6faeaa-293b-4bd8-b3b1-45c7952690d8,2024-02-24,Robert Brady,Wendybury,Clothing,Sneakers,6,639.99,Credit Card,3839.94
+63427fa8-cbf5-4b14-a620-628057039686,2024-02-24,Morgan Cannon,North Brian,Electronics,Refrigerator,1,941.46,Cash on Delivery,941.46
+ba13d13b-075b-4cf7-bbde-8196c5e06790,2024-02-25,Donna Moran,Priceside,Electronics,Smartphone,4,939.52,Net Banking,3758.08
+3b8cb738-7381-4f91-9fe1-42533d817b5c,2024-02-25,Michael Hicks,Lake Stephenfort,Clothing,Smartphone,2,394.59,Debit Card,789.18
+49332a5f-4c80-4181-ac71-2b7f2ecd39de,2024-02-25,James Bowman,South Matthew,Books,Headphones,3,540.12,UPI,1620.3600000000001
+4efc5a14-e7b2-4bcf-b2c4-dbed3cf470bf,2024-02-26,Dr. Barbara Peterson,Jacquelinebury,Electronics,Action Figure,5,827.47,Credit Card,4137.35
+f312dec7-3edf-4a70-8893-5ba24c750fc6,2024-02-26,Keith Gray,Loganside,Home Appliances,Novel,3,827.56,Net Banking,2482.68
+729f4590-a26d-4ada-a6f9-8dc7ef13b7d0,2024-02-27,Amber Lewis,East Jamie,Books,Laptop,1,108.95,Credit Card,108.95
+5d15cd5f-d08d-400c-80c5-796973a55e79,2024-02-28,Ashley Dalton,Cooleyshire,Toys,Novel,9,449.43,Debit Card,4044.87
+a85f3b02-9635-403c-a8fa-a15e382e45cb,2024-02-28,Blake Avery,New Danielchester,Books,Sneakers,4,66.31,Cash on Delivery,265.24
+67f8adb0-3ee2-4cf2-bb23-95866c052b52,2024-02-28,Stephen Smith,Port Jesus,Home Appliances,T-Shirt,8,390.31,Net Banking,3122.48
+56ea501c-133b-40ae-894f-91f0da1dc578,2024-02-28,Lindsay Taylor,Elizabethborough,Toys,T-Shirt,5,914.42,Credit Card,4572.099999999999
+d1fa173a-c99c-47ea-a112-5703ff59bbe1,2024-02-29,Russell Dudley,Port Melissa,Home Appliances,Tablet,3,885.96,UPI,2657.88
+d2aeaf0f-aedd-4a16-ab8c-0989b775dd0a,2024-02-29,Bonnie Cooper,North Johntown,Books,Novel,5,972.97,Credit Card,4864.85
+9db506da-d4b0-4f05-8830-d85c2b8256f1,2024-02-29,Mariah Rodriguez,Jessicafort,Books,Laptop,4,368.12,Credit Card,1472.48
+8820878e-9eef-4a30-850e-7702ae10c353,2024-03-01,Tracey Cruz,Lake Vanessahaven,Toys,Action Figure,6,53.28,Cash on Delivery,319.68
+0181c39d-691a-4d0d-84c4-8556cf58457a,2024-03-01,Mary Acevedo,Lake Roy,Electronics,Novel,7,760.96,UPI,5326.72
+509bba6c-ab62-4664-ac23-e38971e0b397,2024-03-01,Paul Burton,Lopezberg,Electronics,Sneakers,9,932.89,Cash on Delivery,8396.01
+85174ae3-2d84-4978-9f58-dcd0423dcf6e,2024-03-03,Mary Riggs,North Jill,Clothing,Novel,3,734.0,Debit Card,2202.0
+7b33b360-1d8e-4130-835e-47c6cbc90d49,2024-03-03,Brittany Garcia,North Jessefort,Clothing,Sneakers,8,922.58,Cash on Delivery,7380.64
+84029270-2563-47e4-8746-7b4f3a136204,2024-03-05,Stephanie Little MD,Curtisport,Books,T-Shirt,8,782.56,UPI,6260.48
+ac14e5ae-482a-4139-8c2f-83c05f85c5aa,2024-03-06,Amanda Randall,South Steven,Home Appliances,Action Figure,7,227.89,Cash on Delivery,1595.23
+9c4c62d1-4137-476f-bc8a-2dd750ae6410,2024-03-06,Antonio Jackson,West Rachel,Electronics,Headphones,6,312.42,Credit Card,1874.52
+f0d9e245-d812-412b-b3de-4b39df9b2575,2024-03-06,Samantha Mays,North Jeanette,Home Appliances,Action Figure,7,279.38,Net Banking,1955.6599999999999
+1c3b4898-71e2-466c-8e8e-e538491eccd1,2024-03-06,Jaclyn Frazier,Garyfurt,Electronics,Refrigerator,3,975.22,UPI,2925.66
+a5880f18-b15e-4e34-9ae9-0601f8d7e355,2024-03-07,Jenny Rivera,Patrickstad,Home Appliances,Smartphone,10,648.02,Debit Card,6480.2
+9d3502b3-47ae-4580-9721-e314dab1ca4c,2024-03-08,Manuel Cline,Smithmouth,Books,Smartphone,4,896.74,Cash on Delivery,3586.96
+54b387c6-f01d-460d-bb72-73ca3c051665,2024-03-09,Misty Shannon,South Jose,Toys,Headphones,3,118.63,Net Banking,355.89
+01102815-d0ae-4a4d-aeb0-1b6d59612654,2024-03-09,Cynthia Smith,Guerrerotown,Books,T-Shirt,8,386.07,Net Banking,3088.56
+00846cd9-a4a2-4eb5-9193-0e74077d09d6,2024-03-09,Caitlin Brown,Christineside,Books,Laptop,4,980.87,Credit Card,3923.48
+73189a37-7a9d-41a5-ace0-5605fa537126,2024-03-10,Nicholas Martinez,West Kimberlybury,Clothing,Laptop,7,72.99,Net Banking,510.92999999999995
+10559bfc-9c3d-4552-91d4-26525147c968,2024-03-10,Lindsey Wilson,East Lindaside,Home Appliances,Laptop,8,312.19,Net Banking,2497.52
+649f9390-6a51-40d7-a7f1-6aebd7b542b1,2024-03-10,Jerry King,Parrishtown,Clothing,Blender,2,968.39,Cash on Delivery,1936.78
+3d124102-30e0-40a1-821a-877733f755ab,2024-03-11,Jennifer Chang,North Jillianview,Toys,Tablet,4,669.51,Debit Card,2678.04
+2af745a1-9c7a-4b60-8b3e-310c6c2c0a02,2024-03-12,Sandra Williams,Wrightborough,Clothing,Tablet,2,667.58,Cash on Delivery,1335.16
+af297bc4-8db6-43b1-abb9-7cf9269d8e38,2024-03-12,William Kramer,Smithtown,Toys,T-Shirt,7,987.21,Credit Card,6910.47
+304f87e4-ef09-4462-b4cc-ef15bbaa061e,2024-03-12,Susan Jimenez,South Michael,Toys,Refrigerator,5,204.2,Net Banking,1021.0
+b0b34010-384e-40f5-ad1e-f50674294b1a,2024-03-13,Ronnie Diaz,Julietown,Toys,Blender,4,760.65,UPI,3042.6
+9f20d508-d7d0-4326-973a-844fff9d13e8,2024-03-14,Linda Cobb,North Benjaminville,Books,Action Figure,8,38.2,UPI,305.6
+841e0d15-c6f7-47a3-aadd-55c89f330bb0,2024-03-14,Marie Jensen,East Kevinview,Home Appliances,Tablet,7,807.66,Debit Card,5653.62
+6aeb2c5f-d1bb-416e-94b0-95d69dce647f,2024-03-14,Kayla Kaufman,New Bradley,Clothing,Laptop,3,877.35,Cash on Delivery,2632.05
+62b8cfc1-9e9a-4a86-a4ea-7bcf567f0c1a,2024-03-14,Terry Carson,Robinberg,Books,Tablet,1,399.88,UPI,399.88
+1521d268-b55f-4491-91d7-9051d7e17aa8,2024-03-15,Thomas Thompson,Zacharychester,Home Appliances,T-Shirt,4,775.27,Debit Card,3101.08
+93061036-693e-4f41-8098-2320b75935a4,2024-03-15,Steven Chavez,North Donald,Clothing,Smartphone,3,693.66,UPI,2080.98
+671f02c3-20a5-4266-b0c3-129d2286493f,2024-03-15,Richard Allen,East Jeremy,Books,Blender,3,12.64,Cash on Delivery,37.92
+f495b63d-3a14-4cb9-aa0d-f1120e1169d3,2024-03-17,Katrina Harrington,Parkerbury,Electronics,Headphones,2,553.01,Debit Card,1106.02
+a110e749-6ff6-48ce-8a2b-37410c87ba17,2024-03-17,Samantha Thompson,Rogersport,Books,Tablet,6,809.46,Net Banking,4856.76
+c43fa712-db6f-4645-8cd6-50b6fe6fa319,2024-03-18,Michael Bond,Larrytown,Clothing,T-Shirt,6,913.67,Net Banking,5482.0199999999995
+fc3c9fe6-47f4-4540-953f-7d4ff29969bb,2024-03-18,William Larson,Jonathantown,Books,Tablet,8,213.58,Debit Card,1708.64
+1e05c10a-391c-41fb-896b-16cf34224127,2024-03-18,Nicholas Gay,Andersonland,Electronics,Laptop,6,811.31,UPI,4867.86
+7ef9f3e3-21ca-4462-96ec-db69d4530e04,2024-03-20,Donald Hinton,Port Michaelfort,Books,Sneakers,2,802.07,Credit Card,1604.14
+51433069-9be7-467b-bd4b-d8bcf7158c85,2024-03-20,Jamie Douglas,Taylorborough,Electronics,Sneakers,6,618.44,Cash on Delivery,3710.6400000000003
+1eb3b315-7c2b-4704-870d-2a4a14c4057e,2024-03-21,Ian Mcintyre,Clarkestad,Clothing,Headphones,4,531.0,UPI,2124.0
+e821d825-fbf9-44e9-95dd-ff77b5934b9e,2024-03-21,Allison Malone,North Timothy,Books,Tablet,9,358.91,Cash on Delivery,3230.19
+cc0a9038-0071-480c-a57f-354baf5afd17,2024-03-21,Andrew Maldonado,North Crystal,Clothing,T-Shirt,1,803.47,Debit Card,803.47
+1f4926d1-474d-41eb-aee8-794d1808eb3a,2024-03-22,Ashley Rubio,Port Peterburgh,Electronics,Headphones,4,927.62,Credit Card,3710.48
+b18b405c-068a-4a5e-9edf-8909cbfec1b5,2024-03-23,Lauren Jones,South Heather,Home Appliances,T-Shirt,7,537.93,Net Banking,3765.5099999999998
+d405024b-24b2-48e0-871b-29083be904a3,2024-03-25,Connie Cook,Michelleside,Books,Refrigerator,10,303.83,Net Banking,3038.2999999999997
+74c1a33a-e899-42e1-981f-a082ea04fa69,2024-03-26,Martin Mccoy,Manueltown,Books,Headphones,6,452.27,Cash on Delivery,2713.62
+5dcfb5e3-5f5a-4636-9609-2888b7c80773,2024-03-27,Raymond White,Kimberlyview,Toys,Action Figure,2,229.01,UPI,458.02
+0ae70c5a-69f4-4d7b-bc5c-7be59fb98005,2024-03-27,Tommy Howard,Lake Suzanne,Books,Sneakers,4,609.99,UPI,2439.96
+aa4136cf-e7cc-44bd-8299-46b42a8328b2,2024-03-27,Philip Hicks,South Marcus,Toys,Sneakers,7,520.64,Credit Card,3644.48
+6bcdf00d-3e79-4661-bdbb-3b0fce32b341,2024-03-28,Barbara Boone,Port Todd,Books,Action Figure,6,885.62,Debit Card,5313.72
+7a036112-91ae-4aae-a18e-380e75cbad2f,2024-03-28,Michelle Smith,Travisville,Toys,Sneakers,9,187.39,Debit Card,1686.5099999999998
+63f2c721-8be5-4b1f-93f1-17e3ab0c72bd,2024-03-29,Karen Singh,Tanyatown,Books,Smartphone,6,67.37,UPI,404.22
+5ddf8d78-412a-478e-98f8-894980b87889,2024-03-29,Kathleen Randolph,Dixonburgh,Books,Novel,7,955.38,Debit Card,6687.66
+77f32e3c-b873-46eb-b805-e9097cd3ff7c,2024-03-29,Joseph Fields,North Jonathan,Toys,Smartphone,9,494.81,Credit Card,4453.29
+bb8cedc9-25c4-4853-8e52-252f9d4ad73f,2024-03-30,Amanda Weber,East Katherineshire,Toys,Refrigerator,2,832.02,Cash on Delivery,1664.04
+83ed97d2-32cd-4003-b86b-bbf9a95aa5cd,2024-03-30,Matthew Hall DDS,Lake Amymouth,Home Appliances,Blender,2,404.39,UPI,808.78
+55d38ca6-6f5a-4fea-a9ee-6501ff023a1c,2024-03-31,Eric Ross,Erinbury,Toys,Tablet,9,251.41,Net Banking,2262.69
+fc6d5279-e4d1-443e-97cd-c519d15f1016,2024-04-02,Laura Scott,Lynchborough,Clothing,T-Shirt,10,769.17,Debit Card,7691.7
+f424b681-97d9-435a-b8fa-07536dbb0c2c,2024-04-02,Peter Wilson,Janetburgh,Home Appliances,T-Shirt,5,214.02,Debit Card,1070.1000000000001
+f7ed7b46-b36e-463d-98e3-9d4349618f86,2024-04-02,Ashley Smith,Stevenburgh,Electronics,Blender,5,299.22,Debit Card,1496.1000000000001
+b25336eb-0ed8-423c-b2bd-f4fe06e48e8c,2024-04-03,Andrea Graham,Port Elizabethmouth,Home Appliances,Sneakers,5,249.81,UPI,1249.05
+c2f8293f-91ab-4da9-a85f-5d398a6414d2,2024-04-04,Daniel Martin,Anthonyside,Clothing,Headphones,2,621.97,Debit Card,1243.94
+71916e75-1b17-4ce6-92f9-45eb07ce400e,2024-04-05,Gabriela Johnson,Rebeccamouth,Electronics,Laptop,3,370.16,Cash on Delivery,1110.48
+92d48c77-9856-40c2-818b-325045351943,2024-04-05,Isaac Tapia MD,North Jameston,Electronics,Novel,4,970.3,Cash on Delivery,3881.2
+ff9ba88a-b645-42be-98ba-09abade0bda1,2024-04-05,Charles Dickerson,Lake Jillbury,Books,T-Shirt,6,50.58,Cash on Delivery,303.48
+911ec383-2bea-448c-a54c-5d74774692fe,2024-04-06,Jacob Mccormick,West Heather,Clothing,Action Figure,6,964.77,Cash on Delivery,5788.62
+124b8e26-8492-497a-8668-d1d5de245a2b,2024-04-07,Mrs. Elizabeth Taylor,Hoffmanhaven,Books,Tablet,2,202.67,Debit Card,405.34
+207d79af-efdf-4484-bd2f-ee73596d67ac,2024-04-07,Michaela Kim,New Davidtown,Electronics,Blender,6,885.81,Debit Card,5314.86
+c4cf01c9-314a-4066-9638-173f10ab0c5d,2024-04-09,Hayden Caldwell,West Debraport,Books,Smartphone,1,464.56,Net Banking,464.56
+6985d86a-0677-49db-96bd-9a6b0efa20fa,2024-04-10,Melissa Robinson,North Annmouth,Toys,T-Shirt,2,488.91,Net Banking,977.82
+534c64a0-8aaf-4d21-a5e4-9f83dd561b40,2024-04-10,Ashley Lee,South Peterhaven,Home Appliances,T-Shirt,3,164.92,Net Banking,494.76
+be55993b-4d85-442c-a0e0-32ff7d4ae3e1,2024-04-10,Beverly Turner,North Nicholasstad,Clothing,Novel,9,708.72,Credit Card,6378.4800000000005
+16da7cfa-1f1e-4c45-a8a6-075e8ac2e4e7,2024-04-11,Tara Rivera,New Randy,Clothing,Sneakers,7,269.13,UPI,1883.9099999999999
+184a052d-8410-4937-87eb-0f3d05e9148d,2024-04-11,Victoria Anderson,Martinezshire,Home Appliances,Laptop,2,134.11,Net Banking,268.22
+5d2af4d8-389c-4d97-8976-8733bbf92216,2024-04-11,Jason Robinson,East Leroy,Books,Smartphone,5,983.13,Cash on Delivery,4915.65
+82288290-3598-49f9-a3b3-8c2c4bb39d74,2024-04-12,Tanya Quinn,Jonathanton,Books,Smartphone,10,928.89,Cash on Delivery,9288.9
+43d95b07-e90d-4bdb-b570-69b71835d647,2024-04-12,Julie Rogers,Cervantesshire,Clothing,Laptop,4,701.97,Credit Card,2807.88
+d3ea6f5b-c143-41ec-ba21-57e28ce8b168,2024-04-12,Elizabeth Aguilar,Smithview,Home Appliances,Novel,9,927.46,Credit Card,8347.14
+88686d68-eca8-4602-b2f2-5b7a7b78327a,2024-04-15,Shane Lyons,East Daltonstad,Home Appliances,Headphones,3,381.5,Credit Card,1144.5
+1853f786-cbc8-44ad-b254-3b4ca943cf0d,2024-04-16,Shaun Wilson,Evansshire,Clothing,Refrigerator,10,457.32,Cash on Delivery,4573.2
+080d03dd-06ce-4189-9f0b-14dc1d3df35c,2024-04-16,Nichole Sweeney,Scottville,Books,Refrigerator,4,814.03,UPI,3256.12
+4f72d1f9-93a1-487f-8c37-368130fe166d,2024-04-17,Mary Smith,West Teresamouth,Home Appliances,Blender,5,147.4,UPI,737.0
+91d86fae-44d7-49bd-91dc-20bc1934f643,2024-04-17,Janet Garcia,South Sharonstad,Toys,Blender,1,161.41,Net Banking,161.41
+a0048a91-4c1c-4015-a018-9b96209236ec,2024-04-17,Katherine Gibson,Chasestad,Books,T-Shirt,2,498.1,Credit Card,996.2
+c5aa5e1d-931f-4e93-919f-3843b1f982a5,2024-04-18,Jose Osborne,Alejandraside,Books,Novel,1,868.05,Cash on Delivery,868.05
+af031175-f809-46fe-b20c-98a048dc3b70,2024-04-19,Jane Gutierrez,East Craig,Clothing,Laptop,8,990.09,UPI,7920.72
+287c71d3-f14b-4128-9761-3ce68a71835a,2024-04-19,Wayne Martin,North Michael,Clothing,T-Shirt,7,405.95,Cash on Delivery,2841.65
+28e60f07-4d1c-4e59-8331-2cafa6f91fbe,2024-04-19,Alison Park,Ericabury,Books,Tablet,9,380.43,Net Banking,3423.87
+b21420cd-a99a-4107-8020-87e88e3b7773,2024-04-19,Andrew Garrett,Wardshire,Clothing,Sneakers,2,859.53,UPI,1719.06
+5c092f63-c10c-4f32-b372-c371ae54d061,2024-04-19,Daniel Olson,Lake Cliffordhaven,Clothing,Action Figure,5,619.75,Cash on Delivery,3098.75
+1be6ee31-d425-4d44-975a-43b2758c49ab,2024-04-20,Patricia Clark,Kevinton,Toys,Headphones,2,361.27,Credit Card,722.54
+4f3641f4-e90c-4d35-8f04-dc67e2c4620a,2024-04-20,Brian Walker,Fieldsville,Toys,Action Figure,3,161.49,Cash on Delivery,484.47
+ecd3ccdb-14a7-4aa7-8ba8-afd9f6a6f3f9,2024-04-20,Michael Fernandez,Katiemouth,Toys,T-Shirt,2,736.46,Debit Card,1472.92
+fd63f854-5d55-4986-8af0-60e14e97f91d,2024-04-21,Stefanie Hamilton,Harrellfurt,Clothing,Action Figure,6,947.19,Debit Card,5683.14
+77826cc7-1a46-46b8-8cce-136efbefb425,2024-04-21,Eric White,Lake Gavinstad,Books,T-Shirt,1,82.75,Net Banking,82.75
+7f3d3e64-ed55-4ac5-9ccf-7259df9884c0,2024-04-23,Sydney Rivera,New Ashley,Clothing,Action Figure,1,927.37,UPI,927.37
+82055d0d-6dd8-4085-8957-1eac7900315e,2024-04-23,Thomas Bird,Port Sean,Clothing,Action Figure,2,568.44,Net Banking,1136.88
+b6bc9786-5325-4b8a-8363-e14de65028d5,2024-04-23,Daniel Vaughan,Joshuaborough,Home Appliances,T-Shirt,5,38.33,Cash on Delivery,191.64999999999998
+f5be3fc3-2d40-4643-a651-1ac5d7a7ad70,2024-04-23,Patricia Robles,Harrisonburgh,Electronics,Novel,8,412.82,Cash on Delivery,3302.56
+3e0f02d5-9cc1-4b14-82af-8e3e88946c18,2024-04-24,Jason Chan,Lake Stephaniestad,Books,Laptop,10,943.27,Net Banking,9432.7
+914244bd-9073-4daa-a925-136201a98491,2024-04-24,Tamara Washington,Edwardburgh,Toys,Action Figure,3,646.62,Cash on Delivery,1939.8600000000001
+a42d8d1c-0925-48de-8d8b-e5288aab618d,2024-04-25,Michelle Graves,South Leslie,Clothing,Headphones,7,882.36,Cash on Delivery,6176.52
+18fd3c74-42e1-45ae-89d6-97b451599333,2024-04-25,Christine Sawyer,Jonesside,Clothing,Headphones,3,583.83,Net Banking,1751.4900000000002
+341ac992-b9cd-49e1-987f-fb316871a3b4,2024-04-26,Caroline Smith,Joshuaside,Books,Sneakers,5,688.12,UPI,3440.6
+d370ba97-781b-4540-900e-5f5ccf984c43,2024-04-26,Julie Rodriguez,South Colin,Clothing,T-Shirt,6,59.31,UPI,355.86
+171c9b1c-661d-417c-9ed7-21935d4a786c,2024-04-27,Joseph Bowen,Smithborough,Clothing,Blender,8,599.53,Debit Card,4796.24
+efb97b02-f3a5-475f-9bb1-36c67d4e65a9,2024-04-27,Peter Dixon,Cervantesstad,Books,Tablet,9,946.99,Credit Card,8522.91
+bd42592a-b2a2-4fbf-886d-97fc6a1e55c2,2024-04-27,Patricia Bowen,West Franciscoshire,Home Appliances,Action Figure,7,957.38,Debit Card,6701.66
+e770fc40-40a6-4039-9598-d5dd3bca6654,2024-04-28,Eric Werner,Johnsonside,Electronics,Headphones,3,68.5,Debit Card,205.5
+4a9337b8-75b4-4d27-bbe7-045bbef795cb,2024-04-29,Kathryn Haynes,New Jeffrey,Books,Laptop,2,868.32,UPI,1736.64
+106aaebd-e64a-4092-92e2-853d7ec0af28,2024-04-30,Jessica Williams,Rodriguezburgh,Home Appliances,T-Shirt,4,981.76,Debit Card,3927.04
+64a7a46f-0fd5-4757-b929-42caf2c5f689,2024-05-03,Monica Scott,Singhchester,Toys,Laptop,3,712.11,Net Banking,2136.33
+2ef63b36-2a2d-4488-8b8e-50570c676313,2024-05-03,Tiffany Townsend,Danielmouth,Toys,Action Figure,10,153.15,Net Banking,1531.5
+fd114874-6d03-4a86-97a3-82bb5c56ed77,2024-05-03,Julie Fuller,Pachecoport,Toys,Blender,3,71.26,Debit Card,213.78000000000003
+87916ac6-2728-4e4c-a703-ce8afc9e235c,2024-05-03,Brooke Drake DDS,Phillipstad,Clothing,Novel,8,51.76,Net Banking,414.08
+c0735996-d280-4a8d-9d4c-8b4c30f00573,2024-05-03,Catherine Harper,Brianaton,Electronics,Novel,9,114.05,Debit Card,1026.45
+08ef86bd-20cb-48d9-904e-f68065a5ddb5,2024-05-03,Jake Blackwell,Denisehaven,Electronics,Blender,4,542.01,UPI,2168.04
+d63b24e3-f20d-4ccb-987d-488522f12c88,2024-05-04,Mrs. Kendra Perez,Lake Beckymouth,Clothing,Action Figure,2,249.99,Cash on Delivery,499.98
+c3da7d14-1bdc-4974-b02c-817da261cff9,2024-05-04,Crystal Jimenez,Lake Kimberly,Electronics,T-Shirt,5,907.53,Credit Card,4537.65
+fe4034c3-ad6c-48cd-a33a-1889785db166,2024-05-07,Matthew Dominguez,Lake Christopher,Home Appliances,Novel,7,294.59,Debit Card,2062.1299999999997
+ad9d76b8-4605-476c-9cac-3fedcf02123a,2024-05-07,Matthew Bishop,South Faith,Toys,Laptop,9,843.97,Cash on Delivery,7595.7300000000005
+abcac3e1-a9f1-4dbe-967c-2c9867988563,2024-05-08,Nancy Simmons,East Ericview,Home Appliances,Tablet,10,335.31,Net Banking,3353.1
+66f893ef-2f8f-438d-bef7-13db4eabcac2,2024-05-08,Jeremy Jackson,Lake Debbie,Toys,Refrigerator,6,371.07,Net Banking,2226.42
+d095c2f6-c98d-4624-8e0d-2caf5a861654,2024-05-08,Christina Ramos,Teresaport,Books,Refrigerator,9,265.51,Cash on Delivery,2389.59
+82ebbd8c-1e73-4e7a-ad8a-172432d6c01a,2024-05-09,Sean Holmes,Boydchester,Electronics,Sneakers,8,47.31,Net Banking,378.48
+d3b736d9-faa4-4be0-a818-59f9ea90616c,2024-05-10,Christian Case,Beardshire,Clothing,Sneakers,3,951.4,Net Banking,2854.2
+ec5015b1-57f5-42d5-a582-bfa51504b396,2024-05-11,Jason Rogers,Port Paige,Electronics,Laptop,8,71.3,Debit Card,570.4
+af7b77e6-926d-4284-8402-689188d230f8,2024-05-11,Samantha Clark,Alyssaville,Home Appliances,Blender,7,911.15,Debit Card,6378.05
+3cfd6376-d3f8-43ea-bcaa-de611cd14a10,2024-05-11,Steven Fox,New Diamond,Electronics,Blender,3,685.25,Debit Card,2055.75
+a69b5e89-421b-4993-93a6-92b6ec4b6cda,2024-05-11,Steve Kennedy,Timothyland,Electronics,Sneakers,5,326.5,Cash on Delivery,1632.5
+178dadd3-5e7d-4e26-93f7-16cbc4005413,2024-05-12,Curtis Lee,East Margaret,Home Appliances,Action Figure,8,603.33,Credit Card,4826.64
+d05de9d6-ccb6-46e7-bf9b-1cef45e1a66b,2024-05-12,Ronald Wilson,New Shannonton,Home Appliances,Sneakers,7,825.44,Credit Card,5778.08
+5cd68a8f-cca6-43a3-9a79-701a13644918,2024-05-12,Christopher Palmer,South Cindy,Books,Smartphone,3,124.01,Cash on Delivery,372.03000000000003
+306aef5b-99ca-4425-ba31-632ad3b7f0b3,2024-05-12,David Wyatt,Jacobsport,Books,Novel,3,450.25,UPI,1350.75
+628de167-375c-4ab3-9f0b-abf9031af92c,2024-05-13,Laura Green,Millerstad,Electronics,Refrigerator,3,971.16,UPI,2913.48
+316e88b8-0f70-479b-8982-9cb9042c4de7,2024-05-13,Leah Riley,Brownmouth,Home Appliances,T-Shirt,3,76.51,UPI,229.53000000000003
+e0fe0b9a-c8dd-476c-bbee-367e58395314,2024-05-13,Olivia Herrera,North Brianna,Home Appliances,Sneakers,6,181.91,Net Banking,1091.46
+732614b8-de13-45b9-abdf-d9f2691b5a42,2024-05-14,Alex Spencer,West Tara,Electronics,Novel,9,955.49,Credit Card,8599.41
+8fe4e869-49c5-4159-8c8b-c7c5c01d8270,2024-05-14,Mark Gordon,Nancyhaven,Home Appliances,Novel,8,618.12,Debit Card,4944.96
+8fe470d4-ac88-415f-b20e-04b8993fa303,2024-05-14,Jennifer Parker,Foxhaven,Clothing,T-Shirt,6,366.49,Cash on Delivery,2198.94
+a898874e-f8a3-4030-822b-e58ca250ecdc,2024-05-14,Cindy Wolfe,Jenniferland,Clothing,Smartphone,2,889.94,Cash on Delivery,1779.88
+8ccb6e13-4be6-49d5-b2f7-dcbb0625318a,2024-05-15,Rhonda Brown,Hopkinsport,Toys,Novel,9,477.98,Cash on Delivery,4301.82
+90cc862e-b36b-4bb3-af89-1e0c9cfa4a1c,2024-05-16,John Williams,Rioston,Clothing,Novel,5,901.84,Net Banking,4509.2
+1452c5a6-14d1-4468-99fb-f70e4d2cc265,2024-05-16,Katherine Ellis,Rhondastad,Toys,Tablet,2,601.77,Net Banking,1203.54
+b0784097-1f8e-4869-9586-46cfb4be8261,2024-05-16,Zachary Brown,East Paulborough,Clothing,Laptop,4,531.32,Cash on Delivery,2125.28
+73aac85a-dcc8-4641-9c4b-97cfce4540df,2024-05-17,Lisa Wolf,North Denisetown,Home Appliances,Headphones,7,888.32,Cash on Delivery,6218.240000000001
+70fc2951-7d2a-487b-a5ba-df85b388bc9c,2024-05-17,Karen Smith,Stephenchester,Electronics,Tablet,8,344.11,Debit Card,2752.88
+44aa4029-2510-4577-be85-50d942630be2,2024-05-17,Eric Stafford,East Natasha,Toys,Action Figure,10,22.52,Credit Card,225.2
+5c337901-7a2b-4c63-89c4-d8652899e044,2024-05-19,Dr. Emily Mitchell,Port Amy,Electronics,Action Figure,7,87.28,Credit Card,610.96
+89952c35-67e3-4139-996d-22bc2ee1db77,2024-05-19,Paul Nelson,Lake Anna,Home Appliances,Sneakers,4,287.24,Debit Card,1148.96
+dde4612f-b245-4a50-bc7f-745b307d9ff9,2024-05-20,Kathryn Flores,East Raymondview,Clothing,Sneakers,9,483.32,Credit Card,4349.88
+3113861a-5517-476c-b9b3-f3192233ca8d,2024-05-20,Gabrielle Roberson,Amystad,Electronics,Action Figure,5,388.82,Cash on Delivery,1944.1
+5729796c-2906-4eb2-ac10-2cdd79651449,2024-05-20,Scott Rivera,New Joshuatown,Clothing,Action Figure,3,572.18,Credit Card,1716.54
+c3228dc5-406e-4d46-b6ca-cb49ede7af9e,2024-05-21,Richard Walton,Rayview,Home Appliances,Novel,2,199.11,Credit Card,398.22
+e2c72a76-f14b-41a1-948d-621b217e2be2,2024-05-21,David Brown,Andrewmouth,Home Appliances,Laptop,9,706.43,Net Banking,6357.87
+8b68ede7-b813-4a1e-9ce8-978adc4a2f53,2024-05-21,Kayla Rodriguez,Lake Aliceberg,Home Appliances,Smartphone,1,412.03,Cash on Delivery,412.03
+2e42c02a-a045-4b68-90cf-d529f5f9557b,2024-05-22,Kevin Patel,Nancymouth,Home Appliances,Sneakers,4,71.65,Debit Card,286.6
+6b897e81-fa70-47db-bd95-c8259101df71,2024-05-22,Rachel Hernandez,Hawkinsside,Clothing,Novel,10,636.82,Cash on Delivery,6368.200000000001
+826289f5-ec2b-4a02-b7f8-64ce10ca8b00,2024-05-22,Ms. Lisa Bush,Meyertown,Electronics,Headphones,9,926.56,Debit Card,8339.039999999999
+1ec34c12-027e-4163-8fee-514634cac54e,2024-05-23,Chelsea Rice,New Jessica,Toys,Headphones,6,321.57,Debit Card,1929.42
+f8eac89a-178d-4446-8323-da3b47689b9a,2024-05-23,Lauren Alvarez,New Andrew,Electronics,Smartphone,10,462.68,Cash on Delivery,4626.8
+f2e3f710-5501-4d5d-b4bb-306e631a5eac,2024-05-24,Breanna Wilson,Port Denise,Home Appliances,Blender,7,274.96,UPI,1924.7199999999998
+2f44632b-8f36-4b0e-b86d-2bb2b129b1f8,2024-05-24,Kimberly Smith,New Megan,Clothing,Refrigerator,9,238.05,Credit Card,2142.4500000000003
+59c6c968-8eda-4193-a0e7-3d6e95b40687,2024-05-25,Christine Harrell,Ricebury,Home Appliances,Action Figure,6,25.35,UPI,152.10000000000002
+b738b272-30dd-439d-b921-c039360d1af4,2024-05-25,Grace Avery,Cameronport,Toys,Sneakers,10,477.23,Debit Card,4772.3
+2f69d14d-e3c0-4052-9969-d8678581f16f,2024-05-25,Richard Chapman,Port Christopherville,Books,Laptop,4,183.03,Debit Card,732.12
+35e54481-716d-4dd7-a270-880b1f6ab72a,2024-05-28,Vicki Bradshaw,Kathrynville,Home Appliances,Sneakers,5,333.38,Debit Card,1666.9
+fc0a29de-fff1-471e-81ce-b46e2baa7e40,2024-05-29,Samantha Perez,Williamville,Toys,Tablet,2,706.53,Net Banking,1413.06
+caa411d0-ebe5-4bcf-b569-7e9c6b9f1ea6,2024-05-30,Marissa Cook,West Amy,Electronics,Tablet,1,393.39,Credit Card,393.39
+c79c7d26-18fd-47bb-ae2b-4a898ada3c92,2024-05-30,Elizabeth Schmidt,Port John,Clothing,Action Figure,6,31.6,Cash on Delivery,189.60000000000002
+47f1687f-428a-489b-a401-2001468fbf1f,2024-05-30,John Wells,Hancockville,Clothing,Refrigerator,7,635.12,Net Banking,4445.84
+acef2e7e-9830-4267-b1b9-323cfd578d17,2024-05-30,Travis Carter,Port Tonyhaven,Books,Smartphone,9,571.08,UPI,5139.72
+d5825df8-7b4e-4910-9fb0-8967fbce534d,2024-06-01,Richard Espinoza,Millerside,Clothing,Laptop,2,98.77,Net Banking,197.54
+2bc45638-4cbb-42e7-8652-22ff812c6cb2,2024-06-01,Joshua Hill,Smithhaven,Toys,Refrigerator,7,381.14,Net Banking,2667.98
+f9d55cc3-0914-4eb0-bb9b-b436c6409688,2024-06-01,Kathryn Tucker,Wademouth,Books,Refrigerator,8,240.79,Net Banking,1926.32
+33d0643d-d703-4130-9db1-369c1b9ea5d2,2024-06-01,Stacey Perez,Hannahview,Toys,T-Shirt,1,369.72,UPI,369.72
+fc449447-3865-4e1b-aad1-108988bef9f6,2024-06-01,Monica Bonilla,North Tinahaven,Clothing,T-Shirt,4,342.12,Cash on Delivery,1368.48
+b9c7fd61-fc76-467d-ab85-f97b8352a4e5,2024-06-02,Thomas Wilson III,North Richard,Toys,Smartphone,2,637.78,Debit Card,1275.56
+8683aaff-4294-4bdd-b974-42dcd21a1bf5,2024-06-02,Michael Cabrera,Anthonymouth,Books,Tablet,10,74.44,UPI,744.4
+b8e110f4-be1c-4ca6-869b-74902fd9106a,2024-06-02,Jessica Bartlett MD,Christineland,Toys,Novel,4,766.99,Net Banking,3067.96
+f10c2131-2969-4a99-b05e-3d499c465290,2024-06-02,Kristen Pope,Sarahburgh,Electronics,Headphones,7,532.59,Net Banking,3728.13
+d3a94337-15ab-47c2-8172-45acdb56d283,2024-06-03,Jennifer Wilson,Harmonmouth,Toys,Action Figure,5,598.31,Debit Card,2991.5499999999997
+fd6bf89a-d25a-40c6-a91a-2619a1254802,2024-06-04,Robert Schultz,Lake Michaelborough,Clothing,T-Shirt,5,721.55,Net Banking,3607.75
+cbe84e85-d159-4238-979c-c447d926c1ea,2024-06-04,Sarah Little,Port Joshualand,Toys,Tablet,6,92.64,UPI,555.84
+d89be16c-09a6-4b07-b5df-8b5a6e27ab15,2024-06-04,David Norris,Wellsville,Clothing,Sneakers,6,39.33,Debit Card,235.98
+2d7f721b-d16b-4419-8758-41f064489c4b,2024-06-04,Jill George,Port Curtis,Books,Novel,8,950.33,UPI,7602.64
+fb0afab3-0b45-4ddc-aea0-cdfcf5b10aed,2024-06-05,Joseph Ruiz,North Katrinastad,Electronics,Laptop,2,204.43,Debit Card,408.86
+cce17ee9-3373-45f0-9a4b-861a526cd5d8,2024-06-06,Brian Miller,New Lukebury,Electronics,Headphones,2,431.69,Net Banking,863.38
+8be4ed17-8ff6-42e6-9aad-7f8ec52b7425,2024-06-06,Craig Charles,Emilyberg,Home Appliances,Refrigerator,9,807.54,Debit Card,7267.86
+d43b61b0-83ba-4787-900f-9c24db77f85e,2024-06-07,Nathan Johnson,Simmonsshire,Books,Tablet,9,613.02,Net Banking,5517.18
+36ad6bf8-db9f-4e0b-b4f1-be63e7cc3efd,2024-06-07,Lauren Colon,West Kurt,Home Appliances,Novel,9,827.95,Cash on Delivery,7451.55
+0da38980-294f-43dc-a7ed-bb7c22783220,2024-06-08,Mark Fisher,North Rickhaven,Electronics,Headphones,5,976.49,Cash on Delivery,4882.45
+67eea719-8c3f-414c-a242-67f7f761f002,2024-06-09,Tricia Morris,Leahside,Home Appliances,Tablet,7,862.64,UPI,6038.48
+2b534e96-e959-4474-98a3-6f02f97b97f9,2024-06-09,Sophia Morrison,Smithchester,Toys,Tablet,7,800.27,Credit Card,5601.889999999999
+2d632ca9-80d0-4d6b-9f8f-7034b531ae0c,2024-06-10,Monica Nolan,Courtneymouth,Toys,Novel,3,56.19,Net Banking,168.57
+35f6b392-41c2-4e72-b786-a37190a4d16d,2024-06-10,Hayley Dennis,South David,Toys,Refrigerator,10,601.31,UPI,6013.099999999999
+b1d773e0-9531-4132-9755-642de2b0b82b,2024-06-10,Bridget Bailey,North Seanberg,Clothing,T-Shirt,6,271.62,Credit Card,1629.72
+6daa6dfc-188e-4544-b8ab-d7d66cd08551,2024-06-12,Charles Sosa,Shawnberg,Books,Blender,6,886.39,Credit Card,5318.34
+f6b771ba-3952-434e-9fa2-ac89e3df58ed,2024-06-12,Jennifer Greene,New Jasmine,Toys,Action Figure,5,235.93,Credit Card,1179.65
+961d2c6b-fed9-404b-b676-5c34262d3ff7,2024-06-13,James Brown,East Blaketon,Toys,Laptop,7,689.98,Cash on Delivery,4829.860000000001
+4d8bfeeb-00e7-40f0-8b6d-a62b72f28300,2024-06-13,Zachary Perez,South Jamesburgh,Clothing,Headphones,3,703.88,Credit Card,2111.64
+d35a7682-e839-4bf4-af03-9bf299adb179,2024-06-13,Nathan Braun,Shawnberg,Electronics,T-Shirt,7,416.09,Net Banking,2912.6299999999997
+48e28ae0-b7a1-43a7-9b22-fa8cd4c73374,2024-06-13,Kenneth Moore,Jamesport,Electronics,Headphones,8,68.3,Net Banking,546.4
+e3e4ad98-ab36-42c9-9d83-aaca2d4e557f,2024-06-14,Michael Levine,South Richard,Books,Action Figure,5,394.31,Cash on Delivery,1971.55
+6867a024-898f-4e25-bcd1-48b6c96d3e2b,2024-06-15,Dustin Castillo,Adrianaborough,Electronics,Headphones,8,104.62,UPI,836.96
+fd0e72ab-7dbd-4234-8cf7-2ab95d627def,2024-06-15,John Doyle,Morrisshire,Clothing,Blender,8,690.6,Credit Card,5524.8
+01eca135-91ab-47e0-8238-b5a2a787181e,2024-06-16,Pamela Hernandez,Johnland,Electronics,Sneakers,5,215.65,UPI,1078.25
+f52e10da-6958-4e9f-b1fd-6a0e9bcf5c31,2024-06-16,Caitlin Nunez,Port John,Electronics,Smartphone,3,190.04,Cash on Delivery,570.12
+b4d92cbf-f94a-405e-87bc-e3b26ab5f61e,2024-06-17,Leslie Crawford,Robersonfurt,Books,T-Shirt,6,752.18,Credit Card,4513.08
+f6723fd8-2f6b-4efc-a367-3f917991965f,2024-06-18,David Kane,South Richardstad,Home Appliances,T-Shirt,1,718.03,Cash on Delivery,718.03
+9ac6c069-93f3-44dd-b46f-f871b0eca78d,2024-06-18,Gloria Buchanan,North Douglas,Books,Blender,7,586.22,Cash on Delivery,4103.54
+78ae202a-da15-4608-96f4-e2ca70e03da9,2024-06-18,Mario Kim,Johnsonside,Clothing,Smartphone,4,77.43,UPI,309.72
+3aef2566-17aa-4c4f-bc67-3f58417fbba2,2024-06-19,Angela Horne,West Jason,Home Appliances,Refrigerator,8,105.58,Credit Card,844.64
+42e4f09b-29b2-4f32-a78b-7aad1abd38b3,2024-06-19,Sarah Gonzalez,Robertstad,Electronics,Smartphone,6,238.04,UPI,1428.24
+57fd7a32-4d92-4143-a390-4ab491182b87,2024-06-19,Wayne Deleon Jr.,Douglastown,Books,Headphones,6,621.4,Cash on Delivery,3728.3999999999996
+8f8d3ba1-7249-42fc-b1be-8a62a4c49a6e,2024-06-19,Blake Roberts,Scottport,Home Appliances,Tablet,6,792.1,Cash on Delivery,4752.6
+d1910dd3-c833-449c-bb67-7cc349cd050d,2024-06-20,Dr. Russell Hatfield Jr.,Jenniferfort,Electronics,Smartphone,1,105.7,UPI,105.7
+d9c7fa6b-6889-40b7-bc67-f9ed558c23c2,2024-06-21,Justin Moore,Rebeccashire,Toys,Laptop,2,354.51,UPI,709.02
+7df565bf-85a2-40f5-a9ce-df42511c7d19,2024-06-21,Kyle Steele,Goodfurt,Home Appliances,Blender,5,458.9,Net Banking,2294.5
+cf1457fa-bea6-4bea-b1b4-0202c1d6785a,2024-06-22,Yesenia Wong,Lake Devinborough,Toys,Headphones,5,482.55,UPI,2412.75
+3778fae5-e7e3-488d-a6bd-3e5b78c6ebf2,2024-06-23,Douglas Cox,West Robert,Electronics,T-Shirt,2,312.11,UPI,624.22
+943c649e-907d-4b89-be61-f515e2b7ab39,2024-06-23,John Shaw,Lake Kimberlystad,Home Appliances,Smartphone,3,768.71,Credit Card,2306.13
+cda56028-f9d9-4058-a025-786cbd312984,2024-06-23,Brittney Wilson,Alexisport,Books,Smartphone,1,362.58,Credit Card,362.58
+fee8e63a-6987-4b12-b071-9a89ef499b8e,2024-06-23,Juan Warren,Wendyville,Clothing,Sneakers,1,302.67,Credit Card,302.67
+f50d4e30-5089-45ab-8869-ed1eb414259e,2024-06-23,Michelle Reed,Lake Brian,Books,Blender,3,822.25,Debit Card,2466.75
+cadcaf58-4f64-40bd-9f63-6783a2e8b189,2024-06-24,Anne Williams,Port Veronica,Electronics,Tablet,7,374.13,Cash on Delivery,2618.91
+40fdf8a2-0c74-4f01-abcf-7d6762c3b511,2024-06-24,James Garcia,Lozanoton,Electronics,Blender,8,117.37,Net Banking,938.96
+a8d70b6a-62f3-4c34-a90b-be5747a7813a,2024-06-24,Willie Romero,West Sharonhaven,Clothing,Smartphone,8,465.36,Credit Card,3722.88
+c4493661-6e6e-42b7-b543-25c7211acffa,2024-06-25,Christopher Hawkins,East Nicole,Toys,Sneakers,9,58.82,Net Banking,529.38
+0f9f9a6b-18d4-495b-9fb9-12cd7b0ed4f1,2024-06-25,Joshua Armstrong,Taylorville,Clothing,Tablet,3,610.61,Net Banking,1831.83
+7293a0ef-9707-4f5e-8e2c-311ee9ca5d66,2024-06-25,Dr. Jorge Good MD,Port Brandi,Home Appliances,Refrigerator,8,28.43,Cash on Delivery,227.44
+d9bc8660-5442-47f1-be9a-45219fa4c879,2024-06-25,Todd Johnson,Smithview,Books,Smartphone,8,695.73,Cash on Delivery,5565.84
+673d12cc-4c33-487c-9e26-369d6712512f,2024-06-25,John Morris,Howardport,Electronics,Smartphone,8,283.55,Debit Card,2268.4
+a2e0d1f9-4da9-4223-903b-4a6077d6967a,2024-06-26,Gary Terry,West Ronald,Clothing,Smartphone,9,86.74,Net Banking,780.66
+d7a35775-1e3c-4ac3-97d1-c5d4a58b1398,2024-06-26,Gregory Berger,North Susan,Toys,Tablet,9,154.78,Debit Card,1393.02
+e2c392d1-bb88-429f-bc8f-05ccfa548e38,2024-06-26,Cody Perez,Brooksside,Home Appliances,Novel,3,482.31,Net Banking,1446.93
+bf269992-5819-417d-ada0-f9cca7436737,2024-06-26,Brian Moore,New Thomas,Books,Refrigerator,5,564.76,Credit Card,2823.8
+1d46e1fb-4402-46ac-a298-c6cc0bfa027d,2024-06-26,Tiffany Pratt,Longland,Clothing,Action Figure,2,874.44,Cash on Delivery,1748.88
+eb09ab31-9c51-4178-9b67-0b775e92cb27,2024-06-27,Scott Brown,New Brittany,Toys,Laptop,4,948.37,Credit Card,3793.48
+6c619b5c-e7a8-4744-afff-b44ef395980f,2024-06-27,Christine Cook,New Jamesmouth,Books,Tablet,7,728.89,Cash on Delivery,5102.23
+a9021935-7653-4bb8-b4cd-f06e6e719838,2024-06-27,Bobby Gross,Annetteburgh,Clothing,Headphones,1,391.81,Debit Card,391.81
+3e8eba36-3032-4fb5-942e-120151ce7ecc,2024-06-28,Amber Potter,Port Jennifer,Toys,Blender,10,815.65,Credit Card,8156.5
+90e3195e-432a-4e41-8a0e-1fb746801f74,2024-06-29,Victoria Walsh,Port Jose,Toys,Blender,5,863.81,UPI,4319.049999999999
+2d9491d4-6b3a-43a6-b1e2-3a33faafc567,2024-06-29,Harry Burns,Greenland,Books,Smartphone,10,252.74,Cash on Delivery,2527.4
+c93c0037-71c0-4b67-9c72-fb82e7886879,2024-06-30,Holly Deleon,West John,Books,Refrigerator,2,956.29,Cash on Delivery,1912.58
+2592ef31-7528-4ca8-bd25-0cae5526c895,2024-07-01,Theresa Lee,Prattmouth,Toys,Tablet,2,695.23,Net Banking,1390.46
+49a054db-be63-4378-baae-33e6e3b196ce,2024-07-01,Kristy Murray,Crossmouth,Electronics,Headphones,9,838.15,UPI,7543.349999999999
+75f00ff8-3e52-4e8a-8913-63d23baf81d2,2024-07-02,Kelly Warner,Kennethshire,Home Appliances,T-Shirt,10,826.13,Debit Card,8261.3
+20adf7ba-f8bb-43bb-a704-c8df90aa63ab,2024-07-02,Joseph Wells,North Cynthia,Toys,Action Figure,8,35.44,UPI,283.52
+51d3ff8c-8a16-4ee9-85f2-e45176adc4d5,2024-07-02,Natalie Best,Haneyburgh,Electronics,T-Shirt,8,793.47,Debit Card,6347.76
+805a6a2e-90c3-40dc-b425-f98f9d434f84,2024-07-03,Donna Woodward,New Ricardotown,Books,Blender,6,164.93,Net Banking,989.58
+0cb3cdf0-5253-48b9-966c-d46ba8071ccc,2024-07-03,Theresa Burke,Piercechester,Toys,Sneakers,1,105.62,Debit Card,105.62
+aef6142a-1efc-4819-ba9a-5ee910b18ef0,2024-07-05,Danielle Carter,Lake Kelsey,Home Appliances,Headphones,3,600.56,Debit Card,1801.6799999999998
+fd29078f-a29c-4bf5-bd9f-351ceae95d74,2024-07-06,Joseph Williams,Lake Catherine,Clothing,Tablet,7,483.09,Net Banking,3381.6299999999997
+e974d143-0546-46c0-a317-482875817e13,2024-07-06,Edward Hobbs,Sethberg,Toys,Blender,8,891.29,Debit Card,7130.32
+99116a25-590f-4b98-870e-a201e5b77257,2024-07-06,Mr. Robert Williams,East Jessicastad,Home Appliances,Action Figure,9,623.47,Cash on Delivery,5611.2300000000005
+71adbf18-ba32-499b-b8a7-7a1e41825130,2024-07-07,Dawn Dunlap,North Emilymouth,Books,Blender,9,788.41,UPI,7095.69
+8a30fd7a-8499-43ec-8522-01850b89e28e,2024-07-07,Robert Castaneda,West Jacobmouth,Toys,Refrigerator,3,991.86,Net Banking,2975.58
+7f415e94-8b5e-4c36-b63a-1f71fc606c3f,2024-07-08,Paul Bullock,North Christinaport,Home Appliances,T-Shirt,3,755.76,UPI,2267.2799999999997
+01199561-654e-4694-a5a2-d78f2371c44c,2024-07-08,Justin Waller,West Stephanie,Books,Sneakers,9,886.45,Credit Card,7978.05
+43b4b02d-4a94-4a81-bdc2-37973da6cabf,2024-07-08,Dan Campos,Shepherdtown,Home Appliances,Action Figure,8,759.13,UPI,6073.04
+a7154287-fa4b-472e-91a1-fe55a7cccb80,2024-07-08,Lisa Jennings,South Crystal,Home Appliances,T-Shirt,6,482.95,Credit Card,2897.7
+54b0d5cb-fa81-47e9-a2d5-11a39da133d2,2024-07-08,Donna Tucker,West Thomas,Home Appliances,Blender,10,906.38,Cash on Delivery,9063.8
+cd176d4b-9ad7-4005-a3b7-c83b0ed20fc7,2024-07-09,Dr. Amy Howard MD,New Patricktown,Toys,Blender,10,72.53,Debit Card,725.3
+cb84a7ca-648e-47c5-9f2b-2838350750d9,2024-07-09,Christopher Ramirez,New Thomastown,Books,Blender,6,311.24,Credit Card,1867.44
+9f3ceb94-86f0-4ca0-a111-18bd0e22b71a,2024-07-10,Michael Lopez,West Robert,Toys,Blender,6,469.59,Cash on Delivery,2817.54
+84437855-980c-4b75-ada7-d7a4329bbbf6,2024-07-13,Amanda Green,North Joe,Electronics,T-Shirt,2,342.15,Credit Card,684.3
+a1ccd16b-9e87-4fe5-8366-499deb2bbff5,2024-07-14,Kristen Rodriguez,New Laurenfort,Electronics,Sneakers,3,652.94,Cash on Delivery,1958.8200000000002
+ba96b03d-d31a-4676-9a8a-3f5092335454,2024-07-15,Elijah Anderson,New Julianton,Home Appliances,Sneakers,9,459.31,Cash on Delivery,4133.79
+6281eff8-fb04-4833-8cb8-8d9e76f4a8f3,2024-07-15,Charles Peterson,Pinedabury,Home Appliances,Blender,1,36.92,Credit Card,36.92
+6da96ce2-a2ed-4a5c-9d52-7657bd0ac7f4,2024-07-16,Samuel Franco,Tiffanyhaven,Clothing,Refrigerator,1,525.99,Net Banking,525.99
+6e76ab70-e99a-4e9a-a914-f12ff2896bfc,2024-07-17,Lynn Chapman,Janeland,Home Appliances,Action Figure,9,404.94,Net Banking,3644.46
+9d5be833-d362-4795-a666-6257e471ad12,2024-07-19,Larry Vega,Aaronshire,Clothing,Action Figure,4,27.01,UPI,108.04
+e2599954-1c08-4437-9be2-25c7f09e8ff6,2024-07-20,Patrick Richardson,North Alexisbury,Electronics,Blender,10,392.39,Cash on Delivery,3923.8999999999996
+46921802-d025-4082-b598-840e848ae6db,2024-07-21,Jacob Brewer,North Joshuaborough,Toys,Smartphone,8,565.42,Cash on Delivery,4523.36
+4be3b120-d9ca-4a65-ad31-503ccd24ae54,2024-07-23,Scott Peters,New Derrick,Clothing,Sneakers,9,178.62,UPI,1607.58
+d0d26b9a-65ac-4181-9cd2-8ec9181ee67a,2024-07-23,Mark Butler,Charlestown,Books,Laptop,5,629.08,Cash on Delivery,3145.4
+75982ad6-0d2b-4032-aa78-3fcc679a59ce,2024-07-24,Kathleen Parker,North Aliciafurt,Clothing,Blender,2,205.51,Debit Card,411.02
+098b2f9f-f313-407f-aa39-4821c7ad2323,2024-07-24,Stephanie Morris,Camposburgh,Clothing,Refrigerator,4,441.83,Net Banking,1767.32
+6cf958f9-63bb-4293-b1be-45908a386867,2024-07-24,Jennifer Parker,Campbellside,Home Appliances,Smartphone,2,686.66,Cash on Delivery,1373.32
+0539ada8-eae6-4d56-ae46-21a7ab8b1eab,2024-07-25,Cynthia Kim,Matthewland,Books,Novel,10,203.98,Net Banking,2039.8
+95492369-1f72-4a37-ba97-37422e2bec8a,2024-07-25,Rachel Villegas,Codyside,Clothing,T-Shirt,1,32.59,Credit Card,32.59
+ce9e4a27-d7e2-47c5-a012-ae7eb4abfe0e,2024-07-26,Gregory Stevens,Lake Michelleville,Clothing,Action Figure,9,558.06,UPI,5022.539999999999
+5d20ba4f-dc92-48ec-b9a8-3fe2e16f4bc5,2024-07-26,Mr. Alan Stanley,Robinsonshire,Toys,Refrigerator,5,920.24,Cash on Delivery,4601.2
+7a3d0c8e-7b0e-418c-9294-0afd7e9d67ef,2024-07-26,Alexandra Acevedo,Brownview,Toys,T-Shirt,1,763.27,UPI,763.27
+466aadfb-fef6-4b83-b6d4-8a816209633c,2024-07-27,Lisa Allen,East Georgeland,Electronics,Tablet,2,426.3,Net Banking,852.6
+eda9bf37-b793-4d51-94d4-c343104b8a40,2024-07-27,Christina Gonzalez,North Benjaminmouth,Clothing,Refrigerator,5,218.18,Cash on Delivery,1090.9
+dcfee5e7-9dec-4a71-b177-f6e5dafb5454,2024-07-27,John Carter,South Tonyburgh,Electronics,Sneakers,2,142.56,Net Banking,285.12
+40910b0d-8721-4b6c-95fb-19f95377e44c,2024-07-27,Jorge Smith,Farleyshire,Books,Laptop,10,981.74,Cash on Delivery,9817.4
+1ae45c1e-bba3-41b0-b8fb-3347cfc7b4d9,2024-07-28,Karen Watson,West Nicholas,Electronics,Laptop,2,108.29,Credit Card,216.58
+35ff7449-5adf-48bd-bf88-b002b17e8d51,2024-07-30,Ashley Hall,North Melissafort,Toys,Smartphone,4,263.58,Debit Card,1054.32
+fdacd710-b19a-4462-8e10-bba91201b017,2024-07-30,David Carlson,Ramirezland,Home Appliances,Laptop,5,674.35,Debit Card,3371.75
+781fee3a-99b8-45c1-a0b9-014ace2be82b,2024-07-30,Jeffrey Johnson,North Michaelfort,Electronics,T-Shirt,8,744.12,UPI,5952.96
+b79230bf-33b7-46c7-8de6-a13ffbf1dd5b,2024-08-01,Brandon Williams DDS,Anthonyhaven,Home Appliances,T-Shirt,7,206.51,Credit Card,1445.57
+c395179b-1504-48bb-8e56-c8b332bb8944,2024-08-02,Sean Arroyo,Mooreberg,Books,Headphones,1,538.19,Cash on Delivery,538.19
+1faa19d3-93b5-423b-bb5d-1172dfa9aa7a,2024-08-02,Robert Cervantes,East Matthewton,Electronics,Refrigerator,9,924.26,Credit Card,8318.34
+c7231897-52a0-4ef6-a53c-64baaee8af8b,2024-08-02,Frederick Farmer,Lestermouth,Books,Headphones,9,878.41,Net Banking,7905.69
+ecbaa7c7-d270-4853-91fe-2955a2f492b5,2024-08-02,Kevin Matthews,Port Kevin,Toys,Novel,5,848.72,UPI,4243.6
+c00e115c-12fa-425a-8e42-3e73b34994e2,2024-08-03,Joanne Strickland,East Davidview,Clothing,Action Figure,1,339.02,Credit Card,339.02
+40d6d682-08aa-478a-8e44-c95585f8f804,2024-08-03,Dr. Anthony Grant III,West Vickiview,Clothing,Laptop,6,819.7,Cash on Delivery,4918.200000000001
+da37f593-3f2a-4e94-9309-6efe290184a5,2024-08-03,Brittany Arroyo,North Kellyport,Home Appliances,Headphones,5,186.93,Credit Card,934.6500000000001
+9c0d1399-8959-4bfe-a89b-8bf1e317fc4b,2024-08-03,Aaron Obrien,Lake Carriechester,Home Appliances,Sneakers,9,641.27,Debit Card,5771.43
+246d3f90-1d97-4a0e-812f-46014f2d4d6d,2024-08-04,Kevin Brooks,Port Kayla,Toys,Action Figure,8,108.27,Cash on Delivery,866.16
+68c39de4-1aa2-4e8c-8a30-59c6e72cc6b6,2024-08-04,Michael Smith,East Pamelaport,Electronics,Novel,7,200.84,Debit Card,1405.88
+747f7fb3-cc20-437e-9623-85bc6868482c,2024-08-04,Melissa Mann,Milesside,Home Appliances,Headphones,10,250.07,Credit Card,2500.7
+9a7046d8-d16c-41cf-b40e-e3d3efe5ca18,2024-08-06,Jordan Perez,Lake Travisbury,Clothing,Novel,3,327.06,Credit Card,981.1800000000001
+3b701c4a-03ba-4f30-8ac3-6b228eea41dd,2024-08-06,Kevin Salazar,Nguyenview,Electronics,Blender,8,395.14,Net Banking,3161.12
+68ff0e5c-af3a-4240-b397-7449f2ff26cc,2024-08-06,Christina Trevino,Olsonbury,Electronics,Smartphone,6,573.23,Debit Card,3439.38
+334f50dc-fdc4-4255-8c79-09aa8b1b84f9,2024-08-07,Katrina Martinez,New Alexismouth,Home Appliances,Refrigerator,3,668.69,Cash on Delivery,2006.0700000000002
+79577364-3d70-4dfc-9bcd-c329840d0552,2024-08-08,Robin Spence,East Benjaminmouth,Toys,Refrigerator,3,646.04,Net Banking,1938.12
+dcdd67b0-e953-41c5-bd92-205ced624f85,2024-08-08,James Kane,North Saraport,Clothing,Sneakers,3,423.84,UPI,1271.52
+0a5a37aa-04ee-4484-9602-33beac8b9357,2024-08-09,Erica Powers,Port Robertport,Books,Tablet,1,101.93,Debit Card,101.93
+387655cb-3ebd-42fd-87a6-270c665c8439,2024-08-09,Gabriela Sandoval,South Eric,Toys,Tablet,7,871.29,Credit Card,6099.03
+a2305daf-51f7-4c83-ad8f-6dddf78414d2,2024-08-11,Terry Bowman,South James,Books,Sneakers,1,194.65,Cash on Delivery,194.65
+cd1a077b-aa06-4fb0-acd4-acf3b35de535,2024-08-12,Amanda Hayes,New Markburgh,Toys,Smartphone,10,125.38,Net Banking,1253.8
+a3316b97-ee50-4982-865b-8e406889da2f,2024-08-13,Joshua Smith,South Charles,Toys,Blender,5,644.82,Debit Card,3224.1000000000004
+4c961b3f-5e16-4f74-a957-a0f4b62a6dfa,2024-08-13,Susan Palmer,South Meganville,Toys,Action Figure,3,580.47,UPI,1741.41
+9c8990cc-9023-45b5-8aeb-87ff17bda185,2024-08-13,Rebecca Whitaker,Lorishire,Toys,Blender,2,727.14,Credit Card,1454.28
+a9b99fa4-6235-48a7-a030-02535bfe301b,2024-08-13,Casey Williams,Lake Jill,Electronics,Headphones,2,397.41,Debit Card,794.82
+dce9ee5a-37ff-41c9-a027-2018d5fe884f,2024-08-14,Michael Sanders,Meganport,Books,Tablet,4,543.12,Cash on Delivery,2172.48
+58a1fb41-c96f-4a50-a98b-f5216da3fd63,2024-08-14,James Turner,Aaronport,Electronics,Refrigerator,6,670.49,Credit Card,4022.94
+08128209-ce0a-4f8d-8531-1d6a7e4f9b2a,2024-08-15,Brian Bolton,North Monicaborough,Home Appliances,T-Shirt,9,113.22,Credit Card,1018.98
+832061a7-9200-434f-ade2-342fd36fdca4,2024-08-15,Rachel Francis,Williamton,Electronics,Headphones,10,665.07,UPI,6650.700000000001
+a815b2fd-3def-4498-9a1a-8f43980ddec8,2024-08-15,Nicole Ingram,Kelseyshire,Toys,Action Figure,4,412.57,UPI,1650.28
+eb0d34bf-584b-4ca0-a6d4-f1f23bcac307,2024-08-16,Shannon Kelly,South Manuelton,Home Appliances,Headphones,9,672.79,Net Banking,6055.11
+44e57a13-05ee-4e86-a3cc-c46dc7405bd9,2024-08-16,Gabriel Morales,West Katie,Home Appliances,Smartphone,10,249.87,UPI,2498.7
+88df5dde-4738-4ebc-94e8-d82a6f788745,2024-08-18,Brittany Barry,Ronaldberg,Home Appliances,Laptop,1,898.85,Net Banking,898.85
+c5013631-8b09-4300-8f0d-701dc49ecb75,2024-08-19,Dale Morris,East Kristintown,Toys,Tablet,4,565.33,Net Banking,2261.32
+98af7bf7-469f-4369-b19e-2423e6f3a8ad,2024-08-19,Frank Vargas,Duffyside,Toys,Blender,1,26.4,Cash on Delivery,26.4
+98ea03f0-139a-4137-a7df-c7cc407fcad0,2024-08-19,Maria Flores,New Ethan,Home Appliances,Smartphone,8,908.38,Credit Card,7267.04
+3f742fc9-2d72-4074-8319-e62dddde7f12,2024-08-20,Brian Lopez,North Glennhaven,Home Appliances,Tablet,4,619.02,Net Banking,2476.08
+6dfdc516-55e9-4d11-9ef6-b9ed93dd365e,2024-08-20,Lisa Lynch,Mercadostad,Books,Headphones,7,483.92,Cash on Delivery,3387.44
+273c68d8-c6d0-4bf8-a71d-35548d568182,2024-08-21,Melissa Davis,South Nicholasmouth,Electronics,Refrigerator,8,138.4,Cash on Delivery,1107.2
+a1080512-2283-4f77-86a8-770465b98011,2024-08-21,Patricia Ballard,Haleyhaven,Clothing,Sneakers,1,406.48,Debit Card,406.48
+80edac01-8361-4648-8d52-4be11796dca7,2024-08-21,John Taylor,Port Rodney,Electronics,Blender,7,476.26,Cash on Delivery,3333.8199999999997
+f782c28d-2d8f-4a16-a166-5d5cbce73e45,2024-08-21,Joseph Walker,Rebeccashire,Electronics,Tablet,9,409.58,Cash on Delivery,3686.22
+454895d3-4cbf-43b7-908b-8286e40f7217,2024-08-21,Daniel Hart,Haydenmouth,Books,Smartphone,7,852.84,Debit Card,5969.88
+8f5fd99c-a787-4a3f-bbcd-d0973cebbdea,2024-08-22,Jean Anderson,Caitlynport,Clothing,Novel,7,172.46,UPI,1207.22
+36b741d5-37ea-4197-bb25-95908b71bb4a,2024-08-22,Mrs. Brandy Moody,South Victoria,Toys,Blender,4,30.62,Debit Card,122.48
+9e87b492-a3cf-4140-a395-10453cf858bf,2024-08-22,Robert Harrell,Wesleytown,Electronics,Blender,10,371.19,Credit Card,3711.9
+7a8657eb-3918-401b-8b52-8bfe1e8f7cbb,2024-08-23,Nichole Nolan,Lauraton,Electronics,Blender,7,417.63,Credit Card,2923.41
+33c2b250-5577-441b-a8d7-3235eca21aff,2024-08-27,Alyssa Watkins,Lake Mitchell,Toys,Headphones,10,760.77,Credit Card,7607.7
+d78d8024-efd9-4b08-ae66-4feb71a27187,2024-08-27,Monica Wolfe,New Loriside,Books,Tablet,7,562.36,Net Banking,3936.52
+ed21e7c3-c32d-4f78-95bf-1a0a1d0a3caa,2024-08-27,Gerald Fisher,New Andrewside,Toys,Headphones,3,779.21,Net Banking,2337.63
+ca8aed86-faab-4529-8b31-e5e9d26a61ef,2024-08-27,Mark Reyes,Laneton,Electronics,Refrigerator,3,661.29,UPI,1983.87
+3243ab56-a9f3-4482-a696-355a0798f344,2024-08-27,David Mendoza,Holtberg,Clothing,Sneakers,7,704.26,UPI,4929.82
+b941ad76-448c-4765-ade7-59c1f0913588,2024-08-28,Karen Jackson,Lovebury,Home Appliances,Headphones,7,606.98,UPI,4248.860000000001
+585f6093-91e0-4258-a8a8-edbd5a48dd29,2024-08-28,Mrs. Tiffany Cardenas,North Rhonda,Books,Laptop,6,761.27,Cash on Delivery,4567.62
+9b196388-7050-4124-bbbc-d5d4c25e2182,2024-08-29,Ronald Burke,Lauramouth,Electronics,Novel,3,337.24,Debit Card,1011.72
+97b403d8-dff8-4d65-88ba-0a9f1d14243e,2024-08-29,Monica Cain,New Marcia,Books,Smartphone,8,637.14,Net Banking,5097.12
+ef0ff759-ff49-4ec0-95c8-7759b5c95115,2024-08-29,Jonathan Wolfe,Brittanyburgh,Home Appliances,Smartphone,1,319.02,Credit Card,319.02
+324f9bea-c112-4843-8698-8961b12e5412,2024-08-30,Yvette Cruz,West Nicholas,Home Appliances,Action Figure,10,80.27,Credit Card,802.6999999999999
+941e03cb-6b1f-4dcc-9f12-4c1f71374f99,2024-08-31,Christopher Carter,South Robinchester,Clothing,Smartphone,1,805.7,Credit Card,805.7
+5060f547-838d-4e95-9e40-8ac8e43bc78a,2024-08-31,Roger Ruiz,Brandiburgh,Toys,Action Figure,2,84.33,UPI,168.66
+0090dd6e-3806-4f45-847f-07f7e9915115,2024-09-01,Morgan Baxter,Sharpfurt,Electronics,Sneakers,5,24.38,Cash on Delivery,121.89999999999999
+c49c0591-48d4-4ecd-995a-2269597c4e77,2024-09-02,Angela Odom,Port Christopher,Toys,Refrigerator,3,92.11,Net Banking,276.33
+640d92bb-7bd5-4605-a977-5834313d5836,2024-09-02,Lori Armstrong,Hectorborough,Home Appliances,Novel,7,659.09,Debit Card,4613.63
+e2012ac7-2661-4b4f-8908-c230df5d7a7f,2024-09-02,Rebecca Reed,West Ryanview,Electronics,Tablet,9,825.51,Credit Card,7429.59
+2e1250a2-f37a-4b66-b299-86348d157fec,2024-09-03,Daniel Jones,Morganberg,Home Appliances,Novel,1,658.79,Credit Card,658.79
+8448ead7-7437-4887-9588-50a81602f1b1,2024-09-03,Laura Sawyer,New Bobby,Clothing,T-Shirt,10,290.09,Debit Card,2900.8999999999996
+2ef384b5-4ffd-42e1-a6f1-dc1749aa64df,2024-09-04,Paige Hatfield,Lindaview,Home Appliances,Refrigerator,9,671.34,Cash on Delivery,6042.06
+4db90645-4e11-44c1-8d40-a42208b80603,2024-09-05,Emma Robertson,West Caseychester,Toys,Novel,3,588.82,Cash on Delivery,1766.46
+15f7ee4e-effa-4ab2-9e9a-7911c8e646e0,2024-09-05,Pamela Smith,West Taylorberg,Home Appliances,Action Figure,5,75.41,UPI,377.04999999999995
+22a1a920-b45b-48d4-af9d-efae059b3c5e,2024-09-05,Matthew Guzman,New Christopherhaven,Home Appliances,Blender,10,660.9,Credit Card,6609.0
+1a8a0138-6a6c-476e-b613-583750a66ac6,2024-09-05,Crystal Williamson,Garnerchester,Electronics,Refrigerator,2,143.27,Credit Card,286.54
+02e85075-aae0-4fa5-a517-bdb5435bdffe,2024-09-05,Lauren Orr,Jasonmouth,Books,Tablet,2,717.8,Cash on Delivery,1435.6
+d640f6bb-de82-4609-958e-623691fda8fa,2024-09-06,Daniel Rivera,Lynnburgh,Home Appliances,Blender,4,929.41,Cash on Delivery,3717.64
+69d3fece-3221-42ae-aabf-c8c87c9a1aaf,2024-09-06,Michael Greer,Lauraville,Electronics,Sneakers,5,855.03,Debit Card,4275.15
+2df1fec7-d69e-41ee-bea6-88eb435e451d,2024-09-06,Todd Villa,Jessicaside,Toys,Headphones,1,97.05,Cash on Delivery,97.05
+e8b746bb-6ba6-4862-b452-14731a2afcaa,2024-09-06,Nathan Jenkins,Port Pamela,Clothing,Action Figure,10,552.39,Cash on Delivery,5523.9
+7b539525-5185-447b-8da8-da35ced04d5b,2024-09-06,Jessica Benton,North Josephville,Books,T-Shirt,2,924.72,UPI,1849.44
+6163ad84-0201-4617-95ac-62da9e968a11,2024-09-07,Tara Carey,Stevenview,Books,Blender,9,282.05,Cash on Delivery,2538.4500000000003
+76886e3e-ef03-4acc-99de-106b3a616eb8,2024-09-09,Kelsey Williams,Port John,Home Appliances,Tablet,3,440.3,Net Banking,1320.9
+df785123-c6e5-4b32-9ee4-5cd4f44e1036,2024-09-09,Kevin Scott,Riverafurt,Electronics,Sneakers,7,72.58,Debit Card,508.06
+9e4c3067-c8bc-472e-9fcc-438029419712,2024-09-10,Abigail Bender,West Jodiberg,Electronics,Smartphone,8,230.52,Cash on Delivery,1844.16
+d566385b-987d-4b92-9353-c155725f1574,2024-09-10,Kimberly Contreras,West Cynthia,Toys,Laptop,4,889.69,Cash on Delivery,3558.76
+4e19e7e5-dc7b-43b2-9506-549992c4dc96,2024-09-10,Todd Thomas,Lisaview,Clothing,Tablet,10,34.47,UPI,344.7
+09f1e26b-e3ec-4e3b-a346-b409d37b895f,2024-09-10,Anthony Moore,Hoganside,Clothing,Sneakers,6,593.08,Debit Card,3558.4800000000005
+81487e15-88fa-4b77-a79a-3a6ae87eb27e,2024-09-10,Elizabeth Welch,Suttonfurt,Home Appliances,Headphones,10,612.02,UPI,6120.2
+702e6fa5-05f0-4051-a777-b3177020fe2c,2024-09-11,Nicole Thompson,Port Benjamintown,Home Appliances,Sneakers,5,244.62,UPI,1223.1
+62469d1f-5fd7-4c77-b5fe-50bacc083ba9,2024-09-12,Dana Thompson,South Christopherberg,Books,Tablet,4,60.79,Debit Card,243.16
+8d8ef967-dbac-448d-a68d-ec3013a62255,2024-09-13,Kimberly Scott,New Adam,Clothing,Blender,5,697.98,Net Banking,3489.9
+3e97c86f-d792-4cb5-a06e-a7d16a083fd2,2024-09-13,Amy Fernandez,North Lynnbury,Home Appliances,Tablet,10,601.01,Debit Card,6010.1
+959f6b37-3eb5-40eb-867f-f937ca181861,2024-09-13,Jonathan Patterson,West Adam,Home Appliances,T-Shirt,2,461.71,Credit Card,923.42
+f89f0e71-146b-4ce4-a3ef-4bf86a2b2e01,2024-09-14,Martin Morgan,Sandrabury,Toys,Headphones,3,285.85,UPI,857.5500000000001
+c3d16c3c-8598-42ee-91f8-fb36aa0838f2,2024-09-14,Katelyn Figueroa,Yorkfurt,Home Appliances,Action Figure,5,285.26,Debit Card,1426.3
+6e3083c1-0799-4345-adc1-143a0e08895c,2024-09-14,Alexandra Mitchell,Whiteville,Electronics,Headphones,8,970.12,Net Banking,7760.96
+f51b31b9-65f5-4b5a-9312-5128c286b61f,2024-09-15,Nancy Estrada,Dawsonview,Home Appliances,Blender,9,152.38,Cash on Delivery,1371.42
+5ff3a542-93be-4cbc-923b-57461fd50da0,2024-09-15,Jason Ward,Port Robert,Books,Smartphone,10,37.42,Credit Card,374.20000000000005
+09595771-dc8b-4e2b-88ce-69e1aeab611f,2024-09-16,James Simon,New Josephville,Electronics,Smartphone,3,250.39,Credit Card,751.17
+263ba076-14a6-4d13-ae00-bcf8c7ea6131,2024-09-16,Cynthia Andrews,East Jennifer,Clothing,Novel,6,296.07,Credit Card,1776.42
+7742cfff-d463-49a9-85a5-1bf118b53685,2024-09-16,Timothy Morrison PhD,Robertsport,Home Appliances,T-Shirt,6,799.33,Cash on Delivery,4795.9800000000005
+151aa9fe-b8d5-44d7-883a-43436dc13487,2024-09-17,Michael Schneider,Lake William,Clothing,Action Figure,4,361.0,Cash on Delivery,1444.0
+c5c73ebb-c6c6-449b-87b0-9df0492f1358,2024-09-17,Jessica Ellison,Lake Calvin,Electronics,Headphones,6,99.2,Debit Card,595.2
+03b7120d-83d3-4795-a129-8b97bfde2875,2024-09-18,Benjamin Pratt,New Jenniferfurt,Home Appliances,Action Figure,3,484.08,Net Banking,1452.24
+3321810f-ffcb-4566-9f17-92dd350368a7,2024-09-18,Benjamin Fisher,Christopherborough,Books,Smartphone,2,462.13,Net Banking,924.26
+74a49821-316b-4855-8fd8-b993c181b016,2024-09-18,Timothy Fields,Samuelview,Books,Blender,4,741.21,UPI,2964.84
+24ee3af4-f1bd-490c-8ebe-a93245d313b2,2024-09-19,Edward Hardy,Lake Colebury,Books,Sneakers,1,202.56,Debit Card,202.56
+123f8bb0-e74b-4922-a68f-af59a4ed4815,2024-09-19,Michael Pineda,Lake Heatherberg,Toys,Blender,4,613.1,Cash on Delivery,2452.4
+3ac1be72-5727-421a-a2d8-d9979e09f6a0,2024-09-19,Rodney Allen,Daniellechester,Books,Tablet,2,764.29,Debit Card,1528.58
+b92fe74a-c9d1-4144-9936-37ad9770a6df,2024-09-19,Veronica Jackson,Lake Melindachester,Toys,T-Shirt,4,273.97,Debit Card,1095.88
+09a27ecf-ebc6-4b25-a61d-6e7ee61da5cf,2024-09-20,Stephanie Molina,Chenview,Toys,Sneakers,1,695.48,UPI,695.48
+3e7600d2-f026-4a42-833a-e2c78a7e7451,2024-09-21,Arthur Acevedo,Davishaven,Toys,Tablet,10,910.09,UPI,9100.9
+d40f0fd5-de63-4219-8926-090031630dad,2024-09-22,Heather Davis,South Ryanmouth,Electronics,Laptop,6,531.5,Debit Card,3189.0
+35953978-46e8-4bde-b46f-03dc40084c95,2024-09-23,Donna Cole,East Tiffanyton,Home Appliances,Action Figure,2,278.99,Credit Card,557.98
+6d2a52c8-b02c-4dc4-8a2e-714b7cdb9416,2024-09-23,Jeffrey Smith MD,North Julieberg,Books,T-Shirt,9,379.31,UPI,3413.79
+7d587b57-9580-4eca-95ee-d325fa3c4f6a,2024-09-23,Andrew Glenn,South Melissafurt,Books,Sneakers,8,507.35,UPI,4058.8
+87ec433f-9f6c-4b1b-9a40-0c3b8d000cc5,2024-09-24,William Davis,Shawchester,Books,Tablet,6,398.14,Debit Card,2388.84
+2a19e069-8768-4e4f-ac60-d5569adf31e6,2024-09-25,Kimberly Foster,East Michaelchester,Clothing,Tablet,1,809.17,Credit Card,809.17
+58db2fbe-4a31-4e10-8c95-bade80900f3b,2024-09-25,Casey Henry,South Marymouth,Clothing,Refrigerator,10,152.42,Cash on Delivery,1524.1999999999998
+4bde5fd4-d7c4-4d31-a95f-b761122529b2,2024-09-26,John Davis,Debrahaven,Electronics,Novel,10,852.23,Cash on Delivery,8522.3
+c6f8d6b2-c94b-432a-833e-e74adc46c2dc,2024-09-27,William Young,East Kayla,Books,Sneakers,9,707.26,Credit Card,6365.34
+df04943d-78f7-4a81-b5bc-3f859dcd19d0,2024-09-27,Michael Moon,Port Thomas,Toys,Action Figure,3,967.03,Debit Card,2901.09
+64036e11-73cf-4f09-814e-e120023ccf3b,2024-09-28,Shelly Peterson,Williamborough,Home Appliances,Smartphone,1,291.96,Debit Card,291.96
+ecc9c3e7-edef-4f00-ad78-83588703f2c0,2024-09-28,Charles Key,Port John,Electronics,Action Figure,5,597.85,Net Banking,2989.25
+aebb0941-20bd-4d13-9aca-ddaadf788d51,2024-09-28,Mark Snyder,Moraleston,Books,Blender,7,327.32,Cash on Delivery,2291.24
+7cd5e8f2-96f0-4024-8e1d-1de7fdcd9130,2024-09-28,Bryan Green,Torresmouth,Home Appliances,Laptop,1,490.2,Cash on Delivery,490.2
+06c3192c-3542-4915-94a7-754891c5cee2,2024-09-29,Brandon Williams,Kennethchester,Books,Blender,6,974.62,Credit Card,5847.72
+c6b70cdd-9e2d-42b8-b68c-df5ea664d778,2024-09-30,Christina Gray,Corymouth,Electronics,Tablet,4,672.2,Credit Card,2688.8
+adbd97c6-db5a-4f76-a3fa-b0132a197baf,2024-09-30,Erin Kelley,New Ryanstad,Electronics,Blender,4,475.41,UPI,1901.64
+867b5228-e2c7-43d7-8d4d-6f86d10935d0,2024-09-30,Michael Murphy,South Richard,Books,Laptop,4,585.41,UPI,2341.64
+52553a06-178c-45e5-b326-6654778ce4e9,2024-10-01,Nichole Gomez,Port Reginaberg,Electronics,Headphones,5,366.31,Cash on Delivery,1831.55
+3e94a229-a8d6-4a06-95bf-adc3b51800bd,2024-10-01,Elizabeth Green,West Alejandraburgh,Home Appliances,Headphones,9,209.67,Credit Card,1887.03
+fbbb6dd9-6d65-41e1-8e5a-956605417843,2024-10-02,Terry Ochoa,Mercadoshire,Home Appliances,Refrigerator,7,790.14,Cash on Delivery,5530.98
+4bcba4d9-a65f-48f8-aee7-b6f83ff858a9,2024-10-02,Jessica Boyd,Perezside,Home Appliances,Laptop,6,86.69,UPI,520.14
+83a809e2-7d2a-4a2e-bb1b-b5509b0f678a,2024-10-02,Eddie Perez,North Robertside,Books,Refrigerator,6,871.52,Net Banking,5229.12
+df7c0bef-2940-4748-ae1d-c2ea4ec8ac54,2024-10-04,Lauren Alvarez,South Emily,Electronics,Smartphone,3,903.68,UPI,2711.04
+984c684b-48e2-41ee-8b10-921bd80b8ca9,2024-10-04,Paul Osborn,Williamtown,Toys,Novel,7,549.44,UPI,3846.0800000000004
+a3376dc3-ed42-4971-ace0-02b7a6a92ff7,2024-10-05,Gina Larson,Davidburgh,Electronics,Refrigerator,2,250.78,Credit Card,501.56
+5d4705bb-fa37-4799-bac3-ee0aeb0a1cd7,2024-10-06,Michael Ramirez,Kennethberg,Toys,Laptop,7,840.59,Credit Card,5884.13
+787db4b4-daa6-4e99-8ba5-cc05ad4ad592,2024-10-06,Kayla Reed,Hernandezview,Clothing,Novel,2,713.84,Cash on Delivery,1427.68
+93441b54-a859-439f-9cca-a8475971e4c2,2024-10-06,Barbara Wilson,Hendersonmouth,Books,Novel,4,104.71,Credit Card,418.84
+9b92bfc9-c593-46bc-a312-36f122605e49,2024-10-07,Harry Rice,North Patriciaville,Electronics,Blender,1,919.9,Debit Card,919.9
+677475b6-a54c-4a00-a59d-48b35317fe67,2024-10-07,Kelly Young,North Kristyberg,Books,Smartphone,8,933.01,Debit Card,7464.08
+47fabc3b-03f3-4d65-95c0-a916419a23e9,2024-10-07,Mr. Ryan Evans,Andrewmouth,Books,Blender,7,500.7,Net Banking,3504.9
+d1b8a0ea-f2bb-4f58-abbb-de473afa48bb,2024-10-07,Kimberly Avila,West Michael,Electronics,Headphones,3,661.33,Net Banking,1983.9900000000002
+932c238a-c69f-4d74-b376-305474ddab6f,2024-10-07,Wesley Thompson,Howellfurt,Books,Laptop,3,216.7,UPI,650.0999999999999
+1397100a-3d26-43c1-b53b-208205290abc,2024-10-08,Mr. Sean Davis,Dawnmouth,Books,Blender,8,733.56,Credit Card,5868.48
+e6e8485f-eb58-4654-a2c5-8b0e01d0fe79,2024-10-09,James Holland,Cainview,Books,Novel,10,73.83,Cash on Delivery,738.3
+822dcd1b-67cc-4549-b817-e8f8e9a27594,2024-10-09,Edward Johnson,Lisaland,Clothing,Smartphone,5,72.93,Cash on Delivery,364.65000000000003
+db9c8434-548a-4868-a9e4-dbd80eb8caef,2024-10-11,Allison Miller,Port Nancy,Clothing,T-Shirt,5,272.2,Credit Card,1361.0
+df1a9d12-2a62-4c74-ac07-94a9fcc1a462,2024-10-12,James Barajas,New Jessicaton,Toys,Tablet,1,944.9,Debit Card,944.9
+f5b1ab12-7a7d-4027-9822-8acd595db669,2024-10-13,Bradley Roberts,Lake Melissaville,Books,Blender,6,910.56,Credit Card,5463.36
+d2ceca2f-7434-445b-a066-c086cdc2c69f,2024-10-13,Audrey Cox,Gwendolynmouth,Home Appliances,Blender,10,359.18,Debit Card,3591.8
+9bcaa83e-d09a-4e3f-8852-72e15daa6e5e,2024-10-14,Danielle Mclaughlin,South Rachelstad,Clothing,Action Figure,6,44.68,UPI,268.08
+e08639e4-4419-4638-ab7d-bd3d21219540,2024-10-14,Diane Hawkins,Josephland,Books,Refrigerator,10,471.17,Cash on Delivery,4711.7
+f9e8181a-d4d7-4e9a-9be7-c47060b1623c,2024-10-15,Fernando Lambert,South Brittanyview,Books,Refrigerator,4,178.47,Debit Card,713.88
+26e1e16c-fd06-437a-bc4c-3ef06b3a2452,2024-10-17,Patrick Davis,Chambersmouth,Electronics,Headphones,6,929.15,Credit Card,5574.9
+269fbb9e-98a9-437c-a73e-f8c68fd0f9dc,2024-10-17,Jennifer Aguirre,Williamsberg,Books,Sneakers,3,732.53,UPI,2197.59
+eda73cd4-c2d8-4add-b625-f99faad4a56b,2024-10-17,Carla Perry,Lake Timothy,Toys,T-Shirt,8,952.06,Debit Card,7616.48
+ae289efe-27d6-43e9-ac71-1c006bdde45e,2024-10-18,Vincent Robertson,South Kevin,Clothing,Headphones,5,937.43,Net Banking,4687.15
+60e31b0b-63f2-47ed-aee3-5f2bf398ab7a,2024-10-18,Sara Potts,New Stephenberg,Clothing,Sneakers,2,954.14,UPI,1908.28
+69a9a0cc-cf9d-4b0c-940c-9b3397f17902,2024-10-18,Kimberly Ellison,Lake Juan,Electronics,Tablet,4,966.67,Cash on Delivery,3866.68
+31cfe6d2-4446-4f54-a631-cdc00bfa6484,2024-10-18,Bryan Hart,Ashleyfurt,Home Appliances,Smartphone,10,899.14,UPI,8991.4
+fa07a551-30a4-4635-9c4b-1ca5c071a81b,2024-10-19,Travis Obrien,Deanberg,Toys,Laptop,4,390.11,Debit Card,1560.44
+3f288983-9e35-446a-8313-5b7b10cd788c,2024-10-19,Melanie Mora,New Danaburgh,Home Appliances,Sneakers,6,597.83,Net Banking,3586.9800000000005
+41a3b0f5-d303-4746-9f33-9ef1c90a9072,2024-10-19,Jill Russell,North Bryanburgh,Electronics,Headphones,7,101.97,Cash on Delivery,713.79
+ab8a77a1-6711-4d69-8a27-e8057cbb1ead,2024-10-20,Megan Hart,Lake Nancyborough,Home Appliances,Refrigerator,8,360.59,Net Banking,2884.72
+cf42ad73-67cf-4756-9daa-e9b124ef0482,2024-10-21,Christina Smith,Lake Jennifer,Home Appliances,Action Figure,10,645.7,Credit Card,6457.0
+062150e4-e5d3-4dbd-af57-cdcfe35f4a66,2024-10-21,Shirley Wilson,Lisafort,Toys,Smartphone,9,719.72,Cash on Delivery,6477.4800000000005
+08340e72-0b89-465f-9156-64b84c93c88d,2024-10-22,Michael Waters,Jamesview,Books,Sneakers,2,381.39,Credit Card,762.78
+14599f3f-b510-4531-bf47-5485464211af,2024-10-22,Whitney Baker PhD,Bonniemouth,Home Appliances,Blender,3,786.26,UPI,2358.7799999999997
+a2f0e37e-4b12-4a16-9718-c92de36f6d58,2024-10-22,Harry Morrison,South Michael,Home Appliances,T-Shirt,10,614.15,Cash on Delivery,6141.5
+a433e024-f4d4-46cf-989f-272276201ac3,2024-10-24,Ryan Johnson,New Jacob,Books,T-Shirt,4,199.77,UPI,799.08
+776ced53-7adc-49ac-a238-675a1d4fd0df,2024-10-24,Meredith Mcgee,Geraldborough,Home Appliances,Sneakers,4,904.09,Credit Card,3616.36
+fa36ca11-c671-4010-a223-2f50297fafef,2024-10-24,Ariel Johnson,Scottton,Electronics,T-Shirt,9,584.08,Credit Card,5256.72
+40934a3e-db4e-4e69-9270-3b96faec4bbf,2024-10-25,Tina Gregory,New Mollyport,Home Appliances,Novel,6,652.57,Credit Card,3915.42
+4ad8e77f-905d-4d39-9c6d-420b00b85287,2024-10-25,Tony Brown,New Sara,Clothing,Blender,2,577.37,Net Banking,1154.74
+6631104a-875b-41e3-97d5-59c1b276b302,2024-10-26,Alicia Nguyen,North Kimberlytown,Home Appliances,Novel,3,940.45,Net Banking,2821.3500000000004
+8ee5b22e-e4ef-4058-a489-d0ba55bb16aa,2024-10-26,Micheal Petersen,Andersonside,Electronics,Smartphone,2,637.55,Credit Card,1275.1
+18dcfbd8-91cf-4ed8-a2c4-e426c351c5e4,2024-10-26,Amy Allen,Phillipsview,Toys,Smartphone,5,596.73,UPI,2983.65
+bc29b5a7-f1d8-4023-a5c1-fb9edbb1eaf4,2024-10-26,Jennifer Watson,Lake Sergioton,Toys,Laptop,3,657.22,Debit Card,1971.66
+17d3b821-a65b-4206-83da-e63d9c5dc0eb,2024-10-28,Gregory Christian,Jeffreytown,Home Appliances,Action Figure,7,686.72,UPI,4807.04
+a966a41a-fd5f-41f2-acfc-3bd2baffd698,2024-10-29,Richard Boyd,Banksland,Home Appliances,Refrigerator,2,810.49,UPI,1620.98
+c349a7ff-d852-4531-a5a3-932dae6d696b,2024-10-29,Jeffrey Jones,New Josephshire,Books,Blender,7,770.87,Debit Card,5396.09
+9119d1ab-e0c5-44c4-a964-2e064ce248a2,2024-10-30,Patricia Raymond,Lake Mikefurt,Books,Blender,5,213.45,UPI,1067.25
+4734d2d0-d36e-458b-adbb-bdf2a6258745,2024-10-30,Andrea Reid,Sanchezhaven,Toys,Refrigerator,7,687.0,Cash on Delivery,4809.0
+3caeb3c7-8678-410a-b153-7c739e684e06,2024-10-31,Gabriel Roth,Port Anna,Toys,T-Shirt,2,23.72,Net Banking,47.44
+ad23569b-aba5-4074-a00a-3d46e0f14bf4,2024-11-01,Deborah Hatfield,Bishopfort,Clothing,Laptop,6,94.8,UPI,568.8
+64825f6f-378f-47cf-ba5e-cfd5180751c5,2024-11-02,Jamie Gonzalez,North Frederick,Home Appliances,Refrigerator,3,678.0,Credit Card,2034.0
+52e3e6e7-2d0c-4315-9696-932b10d24c03,2024-11-02,Crystal Mcclure,Lake Josestad,Clothing,Novel,4,74.92,Cash on Delivery,299.68
+471d0aff-8534-4239-865f-a4a5656c80f8,2024-11-02,Diana Benjamin,New Monica,Home Appliances,Smartphone,7,267.74,Credit Card,1874.18
+13c6e5cc-068b-4cab-9e10-f1a3a2796fda,2024-11-02,Lindsay Steele,New Ashleyberg,Books,Tablet,3,112.39,Debit Card,337.17
+45a612f0-e24e-4888-970b-8074842203af,2024-11-03,James White,East Julia,Electronics,Laptop,9,272.58,Net Banking,2453.22
+fe875a91-348f-447c-86cb-f6f828bba96e,2024-11-03,Benjamin Johnson,Cynthiamouth,Home Appliances,Blender,10,27.08,Debit Card,270.79999999999995
+fa78bee4-fc20-41c8-802f-dba8ca2bda28,2024-11-04,Kimberly Hughes,New Kathleen,Electronics,Refrigerator,5,666.56,UPI,3332.7999999999997
+02c32bf1-73ca-4519-8043-d82057dc6316,2024-11-04,Carolyn Wilson,Port Latoyafurt,Clothing,Laptop,2,579.08,Credit Card,1158.16
+0aef2998-7b13-4921-a42a-00833f36d6e0,2024-11-05,Jessica Ballard,Derrickburgh,Clothing,Sneakers,4,476.46,Cash on Delivery,1905.84
+1c3ded31-0bb9-4b79-898f-3d64ac832e6a,2024-11-08,Amanda Williams,North Johnborough,Clothing,Action Figure,3,715.27,Debit Card,2145.81
+a7f889e2-ed64-4be3-87b8-dbd4abbb8e02,2024-11-08,Sierra Murray,East Robertfort,Clothing,Action Figure,6,703.96,Debit Card,4223.76
+0ccc9338-6916-4a82-96c1-347941ed2adc,2024-11-09,Justin Anderson,North Christopherland,Clothing,Novel,8,65.04,Cash on Delivery,520.32
+21d2890d-1987-4de9-b16a-559cb542e843,2024-11-10,William Franklin,Mirandachester,Toys,T-Shirt,10,836.85,Net Banking,8368.5
+23b01aee-398a-4ed7-aa9f-0e920273044f,2024-11-10,Denise Bell,East Amytown,Clothing,Novel,1,845.32,Net Banking,845.32
+32f79c10-69c7-4c34-a599-6046a2cc5038,2024-11-10,Stacey Li,Shepherdberg,Clothing,Tablet,3,854.66,Credit Card,2563.98
+7c80e6ba-a483-49ab-beec-d61a229db215,2024-11-10,April Hinton,Juliemouth,Electronics,Smartphone,4,270.23,Debit Card,1080.92
+beb6e34c-490d-4e73-9230-60a4f5fa8ad8,2024-11-10,Jody Robinson,Port Jodibury,Clothing,Sneakers,4,695.13,Credit Card,2780.52
+dfc87fc9-ea64-437c-9a95-befc75f141a1,2024-11-11,Tracy Escobar,Lake Jamesshire,Toys,Action Figure,9,471.78,UPI,4246.0199999999995
+5c22ad3a-9116-41b1-a3de-aa8592cbd860,2024-11-12,Susan Ibarra,Paulstad,Clothing,T-Shirt,6,549.27,Cash on Delivery,3295.62
+9f54a462-b9c3-49bc-ab11-ee21fe2ff7b0,2024-11-13,Donna Bennett,Craigbury,Clothing,T-Shirt,2,488.99,UPI,977.98
+6c31a978-51df-499d-b732-55b69b0607b4,2024-11-13,Eric Mcclure,West Selenastad,Books,T-Shirt,8,408.91,Net Banking,3271.28
+45dba10e-a1d6-4838-894c-90696f546bdd,2024-11-13,Ethan Castaneda,South Collinport,Electronics,Refrigerator,7,372.49,Debit Card,2607.4300000000003
+1961f361-7d12-4181-ba58-d1d1beaea3a5,2024-11-14,Abigail Smith,Williamstown,Home Appliances,Blender,3,197.21,Debit Card,591.63
+07fe27b4-e756-4c84-aac4-1d004bba8b65,2024-11-15,Dr. Chelsea Alexander,Carterhaven,Clothing,Smartphone,5,713.22,UPI,3566.1000000000004
+197a1cf4-5370-4008-8039-954eda61afe2,2024-11-15,Pamela Williams,Melissatown,Electronics,Headphones,9,729.01,Net Banking,6561.09
+b6afd68c-22ed-490b-b846-ebe7961407c2,2024-11-15,Brian West,North Melaniehaven,Home Appliances,Blender,7,434.11,UPI,3038.77
+e212e66f-4e80-4146-a13c-872c975b7b0d,2024-11-16,Jacqueline Webb,Campbellville,Books,Blender,10,426.1,Credit Card,4261.0
+95d02a7e-fcf1-4b04-8880-fc82d1273c0a,2024-11-17,Michelle Sampson,Port Ryanstad,Home Appliances,Novel,4,204.49,Net Banking,817.96
+c7b1e73a-3cb0-48e7-89f3-3681f8096e3f,2024-11-17,Gina Peters,South Frankborough,Books,Blender,4,552.15,UPI,2208.6
+2b936206-c48d-4623-9cc9-9144c7d4b11b,2024-11-18,Stephanie Russell,East Roger,Electronics,T-Shirt,9,557.73,Net Banking,5019.57
+5fb6297e-2639-4bcc-96cf-d5782700c164,2024-11-18,Kendra Olson,Meghanshire,Home Appliances,Action Figure,6,390.59,Debit Card,2343.54
+65e4a0f6-90db-4169-9e3d-8bdc0f787b23,2024-11-18,Natalie Brooks,Kellystad,Toys,Tablet,7,702.19,Net Banking,4915.33
+cd0a0e86-45f1-43c5-a3f1-09e054fb4591,2024-11-18,Brian James,Nicolefort,Books,Action Figure,2,566.79,UPI,1133.58
+e7d2dc68-ceb9-4b2e-bd5f-3dfd9aec79a5,2024-11-18,Misty Harper,Jamesfort,Books,Novel,5,931.81,Debit Card,4659.049999999999
+96f57fd3-cab4-48a9-9381-c13ce7b6647f,2024-11-19,Mary Mcbride,Juliaville,Home Appliances,Smartphone,1,590.3,Credit Card,590.3
+ae88ef8e-aa09-45d9-8dd1-e2d533ce3aa2,2024-11-19,Thomas Fry,East Sarahton,Home Appliances,Blender,1,863.53,Cash on Delivery,863.53
+bced45a2-d064-4640-b940-395b2846f7f1,2024-11-19,Joshua Morales,Ashleyland,Clothing,T-Shirt,1,353.9,Cash on Delivery,353.9
+dbcafd61-9a42-47f2-a83f-67f6049aefd1,2024-11-21,Jonathan Carter,Gilbertfurt,Clothing,T-Shirt,3,667.18,Debit Card,2001.54
+998c094b-e3bf-4d85-9aca-fcbee0a2de1e,2024-11-21,Tyler Graham,Cooperstad,Books,Tablet,6,160.69,Net Banking,964.14
+361dac79-edab-4d1b-9845-e5316eaf4a2e,2024-11-22,Earl Lane,Jenniferstad,Home Appliances,Tablet,10,676.9,Cash on Delivery,6769.0
+2a8f9edc-727a-49da-b974-6155f06e64d2,2024-11-23,Steven Cox,Christinemouth,Toys,Blender,7,937.69,Net Banking,6563.83
+f4888406-3195-42e3-ad4f-4ff0e277a125,2024-11-23,Erin Weaver,West Lauriebury,Toys,T-Shirt,10,942.24,Debit Card,9422.4
+892e14e8-d919-45f7-b233-c0d64baf0b06,2024-11-23,Kevin Hall,Lake Brent,Electronics,Headphones,3,557.18,Debit Card,1671.54
+1a4b1248-e97f-458c-8026-15d585ad475d,2024-11-24,Anne Bennett,West Emily,Home Appliances,Sneakers,6,22.41,Debit Card,134.46
+b7827f2e-819c-4fc9-8cd5-2034df744b6c,2024-11-24,Manuel Price,Lake Seanport,Toys,Blender,7,673.44,Credit Card,4714.08
+faba630d-28cf-4718-8f15-7fa89f5bb98a,2024-11-24,Steve Jones,Lewisberg,Toys,Tablet,8,308.94,UPI,2471.52
+823e1d6d-9635-43ca-bd81-eec01f6657d3,2024-11-25,Amy Brown,Port Meghan,Toys,Novel,8,356.59,Net Banking,2852.72
+acb9c109-10dc-4124-bef3-c38e328faa7f,2024-11-25,Dennis Clark,Robertshire,Home Appliances,Action Figure,10,352.86,Credit Card,3528.6000000000004
+3c45fc75-122d-4150-ae19-0d3af34e91f2,2024-11-26,Joe Roberts,Lake Catherinehaven,Books,T-Shirt,1,468.86,UPI,468.86
+65b5de1c-52e6-4345-95fd-e6ab1b7abf7a,2024-11-26,Sue Anderson,Tammyfurt,Toys,Smartphone,10,826.13,Net Banking,8261.3
+21b951f8-fb47-4462-bf77-a9a18d33c7e5,2024-11-27,Beverly Livingston,Cynthiatown,Books,Blender,10,74.41,Debit Card,744.0999999999999
+00d9c3f5-44a4-4c73-9b1b-eab3eafa897a,2024-11-27,Susan Perez,Lake Billy,Books,Smartphone,6,771.75,Net Banking,4630.5
+fe0fb7ab-b5dd-4c0d-82ac-89c1ff650c8c,2024-11-27,William Stevens,Port Lisa,Books,T-Shirt,9,148.31,Net Banking,1334.79
+0b209e92-0744-4dd6-a142-f7dc51f6cd02,2024-11-28,James Olson,Janetburgh,Electronics,T-Shirt,5,915.51,Net Banking,4577.55
+0a6239b7-db4f-41d6-ba5c-f01ec5e4e3d3,2024-11-28,Justin Boyle,Millerview,Books,Blender,4,121.93,Cash on Delivery,487.72
+62785530-fc41-48b9-84b9-ba0d36e2455c,2024-11-28,Marie Smith,Carrburgh,Toys,Headphones,6,600.27,Credit Card,3601.62
+3f50016c-59f2-44a7-add4-2135fce9f60a,2024-11-29,Ronald Estes,Leonville,Clothing,Blender,6,82.28,Cash on Delivery,493.68
+08a413b9-6942-4040-b3bc-f2929aae76bb,2024-11-29,Katherine Davis,Robertshire,Toys,Blender,3,830.18,Cash on Delivery,2490.54
+f36ea3f7-7d39-44dc-95dc-b77fdfbfafdb,2024-11-29,Mr. Andrew Hanna MD,East Josephstad,Toys,Novel,7,526.49,Cash on Delivery,3685.4300000000003
+3e7db158-24c4-463b-a897-78bb42259573,2024-11-30,Kevin Pacheco,Lake Marco,Electronics,Headphones,8,844.35,UPI,6754.8
+33740a1a-359b-428c-a59b-187ec48b689d,2024-12-02,Brian Hall,East Abigail,Toys,Blender,8,578.73,UPI,4629.84
+21f1c20b-b6da-41d0-aa53-c5043b001359,2024-12-02,Jordan Pearson,Port Jordan,Clothing,Blender,9,560.05,Debit Card,5040.45
+319bd73a-d9e2-47ba-9f12-84a15bc18bbd,2024-12-03,Laura Horn,North Joel,Toys,Headphones,5,981.48,Debit Card,4907.4
+15a55085-7559-46b7-8d52-1590506d63c9,2024-12-04,Brittany Armstrong,Port Emma,Books,Laptop,4,768.93,Debit Card,3075.72
+6fbcb777-d84e-4523-b34c-7d8312615027,2024-12-04,Brenda Fisher DDS,North Jared,Clothing,Blender,7,554.08,Cash on Delivery,3878.5600000000004
+412a950e-ac04-4c36-9985-216fe79c5f19,2024-12-04,Ricardo Martinez,Moralesshire,Clothing,Blender,7,970.64,UPI,6794.48
+daa9cc75-c350-4070-a90b-eec88f1e55ad,2024-12-06,Paige Welch,Mooreview,Toys,Refrigerator,4,633.84,Credit Card,2535.36
+920ac9fe-49e1-4a1a-bb30-220bb638e986,2024-12-07,Evelyn Clark,Valenciastad,Home Appliances,Novel,6,344.78,Debit Card,2068.68
+756011ed-ea02-41a1-9d45-0db6e2d1be76,2024-12-07,Bruce Mooney,Riveraside,Toys,Smartphone,7,343.32,UPI,2403.24
+e0adf67e-4cc3-4c73-9004-4df21be9c0e2,2024-12-08,Christine Hester,Richardshaven,Toys,Sneakers,8,491.19,Credit Card,3929.52
+a581cc88-2fd4-4909-b05e-6d82c72e8c23,2024-12-08,Daniel Long,Michaelbury,Home Appliances,Smartphone,3,751.41,Net Banking,2254.23
+8a52fba1-9abf-4c05-9d98-d511d345d352,2024-12-08,Tanya Lin,North Mark,Home Appliances,Laptop,2,571.54,Credit Card,1143.08
+b42d8c1e-3f1b-41ad-90f0-f901eb39e087,2024-12-09,Chris Miller,Lake Valerieburgh,Electronics,T-Shirt,8,809.78,Credit Card,6478.24
+74a19bc2-5e98-4d88-b401-d96dbdced377,2024-12-09,Christopher Nguyen,Harrisview,Home Appliances,Sneakers,6,520.31,Credit Card,3121.8599999999997
+2515a5ae-b9d8-4881-b1c5-7290fdd99edf,2024-12-09,Carlos Rodriguez,New Monicaberg,Electronics,Headphones,4,283.35,Cash on Delivery,1133.4
+c555b282-9e34-4fbf-857b-7c2fda9cc42e,2024-12-10,Antonio Aguilar,New Sherry,Home Appliances,Novel,10,62.98,Cash on Delivery,629.8
+db1f1d8f-9df2-49f8-b423-e9ea8ed225fc,2024-12-11,James Jenkins,North Nicole,Toys,Refrigerator,9,865.21,UPI,7786.89
+4642897d-f53a-4433-ae81-f41d4c61876e,2024-12-12,Mr. Brian Collins,Katelynview,Books,Laptop,1,166.19,Credit Card,166.19
+14ad0d1c-bbfb-4f25-a6dc-62a3bd252412,2024-12-12,William Jones,East Ambertown,Books,Action Figure,9,935.42,UPI,8418.779999999999
+1ebb5225-1bad-43d4-9d93-da57007e5500,2024-12-12,Sarah Baird,West Victorfurt,Clothing,Laptop,6,676.22,Cash on Delivery,4057.32
+3fb1b379-8558-4d24-af34-0e4991ff3a6f,2024-12-13,Lisa Hernandez,Patriciatown,Clothing,Sneakers,10,793.83,Net Banking,7938.3
+55e29624-b892-4b69-91b9-b9bce76f3dac,2024-12-13,Mary Sanford,Scottfort,Electronics,Smartphone,1,372.35,UPI,372.35
+37014775-1512-4568-92de-886c5a945a4c,2024-12-13,Shelly Williams,Fisherbury,Toys,T-Shirt,6,520.56,Net Banking,3123.3599999999997
+fe15a9de-4ed2-4ed8-9460-5443fa53598d,2024-12-13,Jennifer Rush,Lake Mollymouth,Home Appliances,T-Shirt,2,805.86,UPI,1611.72
+c9a3d111-1ec7-4dd6-992d-456462ab1db9,2024-12-14,Joshua Hancock,Robertsberg,Clothing,Sneakers,10,70.37,UPI,703.7
+6e91c956-3eea-4dfb-a14b-f705d618d1f9,2024-12-15,Andrew Nguyen,Riveraview,Home Appliances,Blender,3,722.8,Debit Card,2168.3999999999996
+95408aef-834c-499d-a86c-d40698f96574,2024-12-15,Blake Porter,West Christopherland,Home Appliances,Smartphone,8,422.86,Credit Card,3382.88
+9e8ac316-a7c4-42ee-939a-90e7cf69b49f,2024-12-15,Jeremy Robbins,Christopherfort,Home Appliances,Action Figure,4,753.31,Net Banking,3013.24
+eb079b44-352c-4b6b-8425-8cc67e818078,2024-12-16,Peter Reed,Lopezburgh,Clothing,Tablet,4,119.27,Credit Card,477.08
+73eead8f-bea1-4ffa-8429-2a9e2399716f,2024-12-16,Rebecca Anderson,North Mary,Clothing,Tablet,10,283.79,UPI,2837.9
+35fb2754-d825-435d-a5a0-b9a43f4e2166,2024-12-17,Ashley Hines,Samuelchester,Electronics,Laptop,6,216.55,Cash on Delivery,1299.3000000000002
+39d6e483-1d6a-49f6-87b3-0f4286a07290,2024-12-17,John Butler,East Robertbury,Books,Laptop,5,819.25,Credit Card,4096.25
+25237753-9239-45ef-a1c0-58af55e8298c,2024-12-17,Casey Anderson,Smithfort,Toys,T-Shirt,3,912.78,UPI,2738.34
+61eb276f-7bf8-4c79-9243-f74f03ed91be,2024-12-18,Nicole Henry,Tinamouth,Books,Tablet,2,935.44,Net Banking,1870.88
+467e6f14-8dbf-4fb1-8879-73d886179949,2024-12-18,Dustin Martinez,South Rebecca,Home Appliances,Tablet,4,309.19,Net Banking,1236.76
+4e1dc011-568f-4490-9165-87dcedd9f7d8,2024-12-19,Jose Roman,South Mark,Electronics,Refrigerator,4,115.23,Credit Card,460.92
+d0e25c46-9ec2-4770-92f3-a1be365dbf70,2024-12-19,Joann Carney,Georgeton,Home Appliances,Tablet,9,237.89,Cash on Delivery,2141.0099999999998
+ed462f41-b430-4848-addb-6e51e8dcca66,2024-12-19,David Sandoval,West Matthewville,Electronics,Novel,6,481.03,Net Banking,2886.18
+ff60e98a-3cf0-4309-aa24-5eb386d1862d,2024-12-20,Matthew Schaefer,West Marilyn,Books,Action Figure,7,725.05,Cash on Delivery,5075.349999999999
+474df6f6-3928-4e55-bef8-cf84d38d068f,2024-12-21,Virginia Harris,Stanleychester,Electronics,Laptop,4,697.3,Net Banking,2789.2
+f4ef3c4c-c9c8-4f77-9792-2d50908dfb94,2024-12-21,Anthony Stewart,Elizabethland,Toys,Refrigerator,4,786.2,Cash on Delivery,3144.8
+c0c5a1dd-4bed-48a0-a0ff-13855e2bbbde,2024-12-22,Deborah Garcia,West Troyfort,Electronics,Laptop,7,882.29,Credit Card,6176.03
+684c7ac7-c385-47f5-83e1-469c363c4c4c,2024-12-22,Yolanda Garcia,Johnsonberg,Home Appliances,Tablet,10,269.49,Cash on Delivery,2694.9
+fe61ce6f-4877-4f15-a504-2cde794b804a,2024-12-23,Nancy Marsh,Tuckerton,Toys,Smartphone,5,398.01,Debit Card,1990.05
+370aa2dc-e43a-44eb-810b-38c3496adcba,2024-12-23,Joshua Williams,Tateside,Clothing,Sneakers,2,692.57,Cash on Delivery,1385.14
+38a18163-4594-4430-9dfc-74d9decd9650,2024-12-23,Abigail Meyers,Quinnburgh,Home Appliances,Headphones,6,279.11,Credit Card,1674.66
+c549180a-1a77-4ee3-b11b-fdd4db09d2d0,2024-12-24,Joseph Rodriguez,Cannonstad,Books,Laptop,7,583.38,Debit Card,4083.66
+ddcc3f54-86e5-4750-bfa2-6bb97802d1b6,2024-12-24,Debra Frey,East Lisa,Home Appliances,Refrigerator,10,422.7,Net Banking,4227.0
+fc6575d5-e6b6-42da-aeec-c3cea3f8f95e,2024-12-24,John Moore,South Ashley,Home Appliances,Sneakers,2,890.01,Net Banking,1780.02
+5b667d96-bb3e-49ca-af14-ca6a14d31f5d,2024-12-25,Brittany Allen,Port Lesliechester,Electronics,Headphones,1,226.88,Credit Card,226.88
+38368fd5-f3bb-43b3-8395-451c95c6044e,2024-12-25,Kimberly Santiago,Gloverside,Toys,Blender,2,776.78,Credit Card,1553.56
+1b731c04-37fd-49f7-a83b-668b314ec19f,2024-12-26,Stephen Hudson,Jamesside,Toys,Novel,6,263.72,Net Banking,1582.3200000000002
+1ad768e0-bf6f-463e-ba8a-53d3c561ca20,2024-12-26,Mr. Daniel Collier,New Michaelborough,Books,Novel,8,823.26,Credit Card,6586.08
+9d50dc36-63f4-4a0a-8860-52e7e0251f70,2024-12-27,Derrick Young,Livingstonbury,Home Appliances,Smartphone,10,697.1,Credit Card,6971.0
+11ed951f-5546-429c-a5f4-354709fb5b71,2024-12-28,Charles Sanchez,Wendyside,Home Appliances,Sneakers,5,473.06,Net Banking,2365.3
+681faf3f-289c-42a3-86d8-b4dcfaf26723,2024-12-29,Jamie Thornton,Ramosborough,Electronics,Tablet,3,753.68,Credit Card,2261.04
+52b69cd7-93d8-481f-b9f1-18f8576ae7ab,2024-12-29,Stephanie Lopez,New Taraview,Books,Sneakers,1,540.51,Cash on Delivery,540.51
+90155c1e-e86d-4c01-82c8-c2e809656177,2024-12-30,Joshua Juarez,Wangburgh,Books,Refrigerator,3,241.91,UPI,725.73
+5f30bf10-a4ac-4e4b-8dc1-2a9a40c8539e,2024-12-30,Melinda Jacobs,Michaelmouth,Books,Action Figure,8,326.76,Debit Card,2614.08
+609f3d93-f52d-4486-aee7-d1704221a9f4,2024-12-31,Thomas Alexander,Davidport,Toys,Tablet,7,12.54,UPI,87.78
+2a240932-f6c1-4183-94b6-ec2193ad1397,2025-01-01,William Adams,Michaelmouth,Books,T-Shirt,2,841.45,UPI,1682.9
+026783c5-6209-43bf-90e8-71abe8fc7fb5,2025-01-01,Nicholas King,West Kelly,Books,Tablet,7,64.66,Credit Card,452.62
+3ae73337-9e71-42ea-9321-94233480bbab,2025-01-01,Christine Johnson,Martinshire,Books,T-Shirt,9,745.8,Cash on Delivery,6712.2
+bca444a6-82e4-46e5-90ac-86f4d42ac77a,2025-01-01,William Perez,East Fred,Clothing,Action Figure,2,910.77,Debit Card,1821.54
+315fb01c-1b23-4133-ba89-4b00b2ec44ce,2025-01-01,Stuart Michael,Nicholsville,Home Appliances,Action Figure,8,868.29,Debit Card,6946.32
+88f94d9a-6967-45f2-9c8a-a2c99493fe08,2025-01-02,Valerie Adkins,Port Kyle,Home Appliances,T-Shirt,4,652.06,Net Banking,2608.24
+7d4015a1-53e0-49b2-8837-39ed319ce5fe,2025-01-02,Derrick Lin,Princeport,Clothing,Refrigerator,3,793.6,UPI,2380.8
+74b4f2e1-8d63-4daa-bde5-a41b4f768fa9,2025-01-02,Stacy Soto,Theresatown,Electronics,T-Shirt,5,211.84,Cash on Delivery,1059.2
+8313e288-3683-4e6a-b53b-63de9abb7fef,2025-01-02,Jason Brooks,Vegabury,Toys,Headphones,5,21.04,Debit Card,105.19999999999999
+2bde7492-0844-4c53-a08d-8fe9b5062e48,2025-01-02,Christopher Schroeder,Lake Maryfort,Electronics,Laptop,3,888.48,Debit Card,2665.44
+b3b9159a-a03f-4676-9828-5b2968540217,2025-01-03,Brooke Brown,Youngfurt,Clothing,Refrigerator,9,698.37,Cash on Delivery,6285.33
+ade51216-ea96-4934-99aa-8b520143e821,2025-01-04,Audrey Duke,Greenburgh,Electronics,Novel,5,979.89,Debit Card,4899.45
+1724f6d2-c634-47b5-8742-754bc53f5708,2025-01-04,Kimberly Roberts,Port Stephen,Books,Novel,8,417.02,Cash on Delivery,3336.16
+22267b8d-9e31-4ebb-94ed-e0b6ec4fef65,2025-01-04,Cody Ferguson,Miguelburgh,Home Appliances,Novel,9,230.24,Cash on Delivery,2072.16
+88b0add1-d905-4455-92f2-e9d76ab23f99,2025-01-05,Kenneth Cox,New Jessica,Toys,Smartphone,3,600.45,Debit Card,1801.3500000000001
+3f3b6fa6-8e5b-4e63-a332-528dad055d95,2025-01-05,James Hill,Jaclynborough,Clothing,Novel,9,892.5,UPI,8032.5
+47e122eb-4ff5-4a10-8601-080b10922c46,2025-01-05,Kevin Rhodes,Lake Stephanieton,Books,Action Figure,7,77.81,Net Banking,544.6700000000001
+15f35b42-9a48-4616-b806-54db48a85868,2025-01-06,Samuel Wilson,Morrisonchester,Electronics,Smartphone,1,803.45,UPI,803.45
+11d5af13-bc37-4fc6-a0fe-3f31ee891f9b,2025-01-06,Mary Higgins,Georgeshire,Books,Tablet,3,864.14,Net Banking,2592.42
+bc666117-1eab-49ce-a87b-8ff2f65cc214,2025-01-07,Carolyn Wilcox,North Nathanville,Clothing,Headphones,9,613.95,Credit Card,5525.55
+060bde82-e510-4baf-a601-7310f7efc6fd,2025-01-07,Jacqueline Barnes,Kingshire,Electronics,Laptop,3,184.21,Cash on Delivery,552.63
+a5ea88c0-8ba1-41c0-b47c-5741e3a5621c,2025-01-08,Destiny Haynes,Alanhaven,Clothing,Refrigerator,4,855.3,Debit Card,3421.2
+a235449e-5082-42e9-8df8-d434512aad5f,2025-01-08,Kelsey Krause,Hamiltonfort,Electronics,Action Figure,9,217.87,Net Banking,1960.83
+6f8d6155-72da-41fa-84a4-47f18186bea3,2025-01-08,Dr. William Peters,Johnsview,Clothing,Refrigerator,8,855.76,Credit Card,6846.08
+cec5cfab-73fb-46ad-9e22-df415193a9f9,2025-01-08,Benjamin Dickerson,Aaronfort,Toys,Laptop,7,834.96,Credit Card,5844.72
+e5251b65-7070-4c0c-9c87-93ea6fba4362,2025-01-09,Michael Johnson,Cruzville,Books,Action Figure,10,89.83,Credit Card,898.3
+30c03761-6625-40e3-a6dc-dcc1722d7116,2025-01-09,Rachel Kennedy,Whiteview,Books,Sneakers,7,986.52,Debit Card,6905.639999999999
+2e88454b-2fe8-442f-8d38-7ca68351cd60,2025-01-10,Felicia Green,Andersonborough,Home Appliances,Headphones,3,186.27,Cash on Delivery,558.8100000000001
+825b4803-a67b-4117-bf9d-90e8d4889e04,2025-01-10,Natasha Roberts,Desireebury,Electronics,Smartphone,4,930.12,Net Banking,3720.48
+6c84f20d-262e-4883-b41b-4e0d5f61ab63,2025-01-11,Brandon Spence,East Sherri,Toys,Smartphone,2,538.73,Cash on Delivery,1077.46
+4c728e97-52a0-4678-9b10-a60c1d77ce72,2025-01-12,Shane Castro,Lake Jonathan,Books,Laptop,7,235.02,Cash on Delivery,1645.14
+93a26678-fa13-462e-9b40-851dd8e199fb,2025-01-12,Jared Harris,West Paul,Books,Blender,2,781.71,Credit Card,1563.42
+abfb0794-9373-4721-89a7-e14177202757,2025-01-12,Kelsey James,Port Randy,Home Appliances,Novel,3,515.04,Debit Card,1545.12
+ecd9c78f-035c-4350-8dc5-e6b616232bf2,2025-01-12,Shelly Robinson,Maxhaven,Electronics,T-Shirt,7,284.6,Debit Card,1992.2000000000003
+4e6bed26-5927-47b7-ab4c-8afb35116bcd,2025-01-13,Holly Martin,South Vanessa,Home Appliances,Headphones,10,933.63,UPI,9336.3
+0d220653-8f16-45cc-aa48-318051c9bf6d,2025-01-13,Heather Mann,North Laurafurt,Toys,T-Shirt,3,131.79,UPI,395.37
+4d5c354e-809b-48f7-a25e-0509f8919982,2025-01-13,Joel Reid,Henrybury,Electronics,Smartphone,5,132.34,Cash on Delivery,661.7
+48e67795-8013-4250-a006-7d28a70cd155,2025-01-14,Anne Lewis,New Felicia,Toys,Action Figure,3,582.65,Net Banking,1747.9499999999998
+46f41546-ae55-4342-b04d-bb32c398fa09,2025-01-14,Jacqueline Parker,Natalieville,Books,Headphones,7,401.82,Debit Card,2812.74
+df24f912-04fe-47c7-ac81-6a91c23118c2,2025-01-15,Michelle Fletcher,Meyerland,Clothing,Smartphone,3,698.78,Net Banking,2096.34
+14cb82f5-68fb-47f8-96ca-69f4edc42d6f,2025-01-15,John Roth,East Robert,Electronics,Action Figure,1,374.56,Net Banking,374.56
+1735fb2b-c3a3-4695-8589-7dbf91d18e44,2025-01-16,Michael Riley,New Stephanie,Books,T-Shirt,10,293.99,Credit Card,2939.9
+df5a7a7a-fba6-45a2-9e74-de4394c07bba,2025-01-16,Molly Chavez,Michaelburgh,Books,Laptop,7,715.57,Cash on Delivery,5008.990000000001
+855556d5-e855-43e8-a8a3-af1da43002ba,2025-01-17,Tracy Douglas,Ericton,Clothing,Tablet,1,323.54,Net Banking,323.54
+dafb6f74-37d8-4c5c-a750-46bd94ec864e,2025-01-17,Jasmine Cantrell,Perezchester,Clothing,Action Figure,10,498.41,Net Banking,4984.1
+8d2a5857-412b-4d08-980f-4d3dab850754,2025-01-17,Janice Carter,West Peterland,Electronics,Tablet,4,450.41,UPI,1801.64
+3b2c0b99-2689-4258-814a-9d3e82546797,2025-01-18,James Johnson,East Mark,Books,Action Figure,4,633.64,UPI,2534.56
+6977bb25-fc0c-46d2-a8fe-6a1d581d42c8,2025-01-18,Spencer Green,North Dennis,Clothing,Laptop,5,84.11,Cash on Delivery,420.55
+ec6a8053-4b9c-40ef-a2af-ab4bdeb64770,2025-01-18,Dakota Taylor,North Mark,Toys,Headphones,7,617.44,Credit Card,4322.08
+e8709ff1-8fa1-43a5-9373-9364247bf6ca,2025-01-18,Mary Buckley,West Nicholas,Toys,Smartphone,6,243.03,Cash on Delivery,1458.18
+5c23b10e-6b2c-4532-bb25-c4cdbed06901,2025-01-18,Tyler Boyd,South Daniel,Electronics,T-Shirt,4,760.87,Cash on Delivery,3043.48
+31193979-2e1d-4790-b82e-e2f14b0a0f2c,2025-01-19,Kelly Medina,Port Kathleenmouth,Clothing,Tablet,5,402.65,UPI,2013.25
+18c52972-296e-4835-96c3-8a2344c15721,2025-01-20,Philip Hernandez Jr.,Thompsonmouth,Toys,Action Figure,9,109.68,UPI,987.1200000000001
+705db9e4-f2ac-4d28-b1e8-877ef1092c9a,2025-01-20,Scott Moore,Tammymouth,Books,Headphones,4,255.22,Credit Card,1020.88
+62c472b5-18ff-406a-bd05-07e17b8a2a12,2025-01-20,Tommy Clay,Beckborough,Clothing,Novel,9,311.19,Credit Card,2800.71
+5e480593-f0d8-4c47-b78e-b47d56cbfb7a,2025-01-21,Angela Marshall,West Brian,Clothing,Action Figure,9,980.08,Net Banking,8820.720000000001
+8cc0d2de-92b7-4986-901e-9aceeab7a465,2025-01-22,Charles Sims,East Gregorybury,Home Appliances,Refrigerator,4,738.13,UPI,2952.52
+9fd6ae46-c361-4789-b33b-ff6136d89d38,2025-01-22,Paula Gardner,West Gregoryburgh,Clothing,Refrigerator,2,984.99,UPI,1969.98
+96f19136-3094-4fad-a11d-5abaa3560d00,2025-01-22,Alexis Gonzalez,North Brian,Books,Headphones,10,379.37,Cash on Delivery,3793.7
+e87e7fc0-7cdc-46c2-90e0-4a9c28786644,2025-01-23,Matthew Briggs,Robertstad,Clothing,Blender,2,520.32,Net Banking,1040.64
+b444d02c-a3ae-44cd-8341-b6315fb23e45,2025-01-23,Emily Valencia,Joneschester,Clothing,Headphones,7,258.23,UPI,1807.6100000000001
+f194dc46-94e3-4f4a-80a8-7f673ace3f10,2025-01-23,Daryl Thompson,West Codyhaven,Books,Smartphone,4,529.27,Debit Card,2117.08
+face5c41-6bed-4aef-a338-f939f16bd18b,2025-01-24,Andrew Kennedy,Adamsburgh,Electronics,Laptop,3,367.71,Net Banking,1103.1299999999999
+2a1f1dff-1ba5-47e1-a6c2-0394cbbdc7e6,2025-01-26,Jordan Oconnor,Port Michael,Books,Novel,1,616.76,Credit Card,616.76
+907b40ac-44a6-417b-884e-a95e53b0e32b,2025-01-28,Kerry Rogers,Fieldsside,Toys,Tablet,8,927.4,Credit Card,7419.2
+64e80c12-770d-4fd6-ae6d-5e705730a628,2025-01-28,Christine Knight,Lake Brandonville,Electronics,Refrigerator,1,942.38,Cash on Delivery,942.38
+bcae2610-9aa7-4e9a-bc59-638652d1d461,2025-01-28,Ryan Bush,Christensenside,Toys,Sneakers,9,284.69,Credit Card,2562.21
+d05d7cb7-d51a-4511-8c2c-052bb981398b,2025-01-28,Susan Morton,Mirandaburgh,Books,Smartphone,5,931.4,UPI,4657.0
+2633aa06-db1e-4dd8-b795-6bf7f8ae11a0,2025-01-30,Crystal May,Arnoldshire,Home Appliances,Smartphone,4,215.45,Credit Card,861.8
+8aa89d2f-00ce-4fcb-acd1-85a9ec2db124,2025-01-31,Lisa Elliott,South Janetmouth,Books,Smartphone,9,593.94,Debit Card,5345.460000000001
+dc2ccf8e-70fa-4f92-9ef1-6c685f7b5552,2025-01-31,Kelsey Galvan,Parksstad,Toys,Novel,10,555.45,Debit Card,5554.5
+ac4fc191-43da-4dba-b486-d2c299ecefd5,2025-02-01,William Morrow,Cooperchester,Books,Action Figure,6,665.54,Net Banking,3993.24
+3dd6a781-353f-4bcf-bb2c-78554f698012,2025-02-01,Rachael Morrison,Joshualand,Books,T-Shirt,4,240.75,Debit Card,963.0
+f2cb0dbf-eef9-40d1-bfc7-4b5608b83035,2025-02-01,Kathleen Evans,Colefurt,Clothing,Sneakers,2,522.87,Cash on Delivery,1045.74
+66f0beed-6bd9-4b83-b580-43f1a2511a97,2025-02-02,Joe Beard,Rosaleschester,Home Appliances,Laptop,1,582.85,Credit Card,582.85
+ce4b3775-1733-46a8-bd62-b33b12f28f92,2025-02-03,Mary Vargas,New Jacobview,Clothing,Blender,4,53.5,Credit Card,214.0
+fb30065d-9db9-49a6-a1e0-6adfab93fd4a,2025-02-03,Christopher Ortiz,Oscarfurt,Books,Blender,6,916.26,UPI,5497.5599999999995
+c5becf0b-bd08-44e3-bf53-e2e833d4a27f,2025-02-03,Keith Joseph,Port Angela,Clothing,Action Figure,6,965.69,Net Banking,5794.14
+869999c1-52d3-44ad-a433-f3c762855fcf,2025-02-03,Paul Ray,Port Kellie,Electronics,Novel,7,882.55,UPI,6177.849999999999
+8c07d4e0-5b99-406a-a81e-6a3358bf60ec,2025-02-03,Robert Phillips,North Kevin,Toys,Headphones,2,143.96,Net Banking,287.92
+565558bb-e2bd-4d63-928c-ac29ed92068b,2025-02-04,Gabriel Kennedy,East Jonathanburgh,Clothing,Blender,9,835.22,Debit Card,7516.9800000000005
+2f53c048-a5e4-479a-b782-bdc0b0a3e082,2025-02-04,James Burke,Crawfordstad,Home Appliances,Sneakers,10,105.31,UPI,1053.1
+5fc17a8a-19b6-4262-b91d-812975e0de1a,2025-02-05,Shannon Strong,West Johnport,Clothing,Headphones,4,54.67,UPI,218.68
+f921d3bb-5a7a-4907-8ce5-11ce9efa6cc7,2025-02-05,Amy Warner,Tammyfurt,Home Appliances,Smartphone,10,961.18,UPI,9611.8
+3a024019-5f49-4db3-8bba-b13951694138,2025-02-06,Julie Collier,Meganchester,Home Appliances,Laptop,1,923.78,Net Banking,923.78
+6bd84f43-42a9-4978-bd94-8d9efd1a3972,2025-02-06,Sarah Velasquez,South Shannon,Toys,Novel,9,774.86,Net Banking,6973.74
+0fc957bb-9fae-49c1-8d8e-c72e6b3c9ba3,2025-02-06,Jessica Strickland,Allisonborough,Home Appliances,Novel,3,253.15,Cash on Delivery,759.45
+89084691-4b72-4812-84e0-69bc3e478fa5,2025-02-07,Amanda King,Cynthiaside,Toys,T-Shirt,4,176.44,Net Banking,705.76
+5e46db88-f73d-4f1a-9a43-33fd6098c551,2025-02-07,Chris Goodman,Lake Johnfort,Electronics,Smartphone,7,144.86,Cash on Delivery,1014.0200000000001
+4ffbe78d-306f-4e0b-abf5-0cfff383619e,2025-02-07,Brittany Martinez,Spencetown,Clothing,Refrigerator,5,564.69,Net Banking,2823.4500000000003
+53f6b724-daaa-4b00-86d5-672a8b40fabe,2025-02-07,Phillip Nolan,North Barbaraview,Toys,Refrigerator,1,311.13,Cash on Delivery,311.13
+5f6f6c41-cda9-40be-8fa3-1ed488907b43,2025-02-09,Kevin Brown,East Kristinafort,Electronics,T-Shirt,2,815.6,Debit Card,1631.2
+6744eabe-1980-46c7-8267-d291053da381,2025-02-09,Mr. Christopher Moss,New Allison,Clothing,Action Figure,2,567.37,UPI,1134.74
+23c81ff5-5e0d-4818-a9db-2da1a5dff6d2,2025-02-09,Krystal Allen,North Brittany,Electronics,Refrigerator,4,407.91,Credit Card,1631.64
+c8a2ba66-a38e-465d-89df-591955a251b5,2025-02-10,Brian Clark,South Johnny,Books,Headphones,2,12.84,Credit Card,25.68
+a764aaba-4320-4e95-ab7d-456124fd0a73,2025-02-11,Patrick Lewis Jr.,Cohenstad,Clothing,Smartphone,4,966.62,Debit Card,3866.48
+3b554c6b-1ed3-4780-b7ab-45446b4b95c0,2025-02-12,Jonathan Yoder,Port Jill,Clothing,Blender,4,762.38,Cash on Delivery,3049.52
+ab3cbc32-fbb3-4967-8dd8-65763354221e,2025-02-13,David Becker,Heatherville,Electronics,T-Shirt,7,90.81,UPI,635.6700000000001
+0eea1288-eaa9-4227-b009-3abdd8296d58,2025-02-13,Gregory Patton,Loganberg,Home Appliances,Novel,5,758.09,Net Banking,3790.4500000000003
+44fedb5e-57fb-4390-9d7e-06d4cc1ef74a,2025-02-13,Scott Ayers,Scottshire,Home Appliances,Action Figure,5,416.99,UPI,2084.95
+e527ddb0-64d3-4574-a40f-dc974ac2926a,2025-02-13,Carol Glover,Georgeburgh,Clothing,Refrigerator,9,60.5,Net Banking,544.5
+a69705af-4362-4bd4-b54e-1fb293cf3eab,2025-02-14,Jerry Reed,Dominguezhaven,Books,Blender,2,504.69,Credit Card,1009.38
+4e5b38a5-f767-446c-87f0-0eece72f6b8e,2025-02-14,Kathy Douglas,New Brian,Toys,Tablet,4,179.62,Debit Card,718.48
+4cc80dbd-2b41-48e2-aed5-b3cef18866bd,2025-02-15,Sophia Ruiz,Carrieview,Books,Tablet,7,228.44,UPI,1599.08
+ebd9f339-a134-4489-989a-74327bf4862a,2025-02-16,Alexa Roman,West Denisehaven,Books,Blender,7,587.81,Credit Card,4114.67
+bf34bcf8-9a82-4a71-91b3-cf82bc886315,2025-02-16,Jeffrey Graham,East Isabellastad,Electronics,Novel,3,356.85,Debit Card,1070.5500000000002
+561e8623-fe70-4666-9c5b-29affe021001,2025-02-16,Dr. Victor Brown,Ryanburgh,Clothing,Tablet,2,153.08,Cash on Delivery,306.16
+5c181cdc-55e6-43a1-b356-af6cab131cd5,2025-02-17,Steven Ross,West Katelyn,Clothing,Novel,10,27.22,Credit Card,272.2
+c3e21526-1d48-4447-82dd-92a989e9b15b,2025-02-18,Spencer Martinez,Lindaville,Books,Tablet,7,199.3,Net Banking,1395.1000000000001
+5180f011-9bc3-4f8f-9e43-aca3a3de4ccc,2025-02-18,Ms. Rebecca Camacho,North Taylorburgh,Books,Laptop,4,226.2,Net Banking,904.8
+47663f18-78e0-4238-91b2-716bf18edfe4,2025-02-18,Jennifer Allen,North Jamesstad,Clothing,Sneakers,9,469.37,Cash on Delivery,4224.33
+941cf250-fd72-4ee3-8da3-512ca5c67bee,2025-02-19,Amy Sweeney,South Rhonda,Clothing,Headphones,2,403.35,Cash on Delivery,806.7
+4dc5bf0c-af38-4b1c-b19f-df6c5d2d45b5,2025-02-19,Kristin Martinez,East Adam,Home Appliances,Laptop,8,498.79,Credit Card,3990.32
+e04d4e32-0e0c-4582-b284-a19db9e15381,2025-02-19,Wendy Daniels,Port Jason,Clothing,Smartphone,3,915.13,Net Banking,2745.39
+93d01df5-3a05-4749-bc5c-9b917f720960,2025-02-19,Vanessa Jackson,East Sarahville,Clothing,Sneakers,4,665.3,Credit Card,2661.2
+a0af10cc-7245-4414-b13d-2cf1780140d4,2025-02-19,Aaron Martin,Port Melissaberg,Clothing,Novel,1,239.56,UPI,239.56
+2dde4a9c-8f6b-4b58-b4bd-d0d4662fb192,2025-02-20,Danielle Golden,Murphystad,Home Appliances,Laptop,10,902.44,UPI,9024.400000000001
+9a64b511-8cd5-4f99-a1a2-b048c0dc4c5c,2025-02-21,Jeffery Freeman,Lake Jodifurt,Clothing,Laptop,10,27.07,Cash on Delivery,270.7
+e1ed2a4d-049c-4051-aa2f-c23fb88c5b0f,2025-02-22,Omar Hampton,North Michellemouth,Clothing,T-Shirt,1,708.16,Cash on Delivery,708.16
+69ad8d65-01a9-45e8-88ef-740552eba082,2025-02-22,Christine Reynolds,Smithburgh,Home Appliances,Sneakers,9,418.43,Debit Card,3765.87
+3870eff5-8c9c-40a5-a679-493a4ed2794c,2025-02-22,Jeremy Thompson,Princeside,Books,Tablet,1,833.7,Debit Card,833.7
+8a671025-6b07-44b2-bc76-753dfad10af0,2025-02-22,Allison Sims,South Olivia,Electronics,Action Figure,5,570.01,Credit Card,2850.05
+2cb2d513-86e7-40bd-aba5-a40e9c1c41a6,2025-02-22,Chelsea Phillips,East Justinborough,Clothing,Laptop,1,587.79,Credit Card,587.79
+be0bb3d7-abe3-4cdc-bc20-839cdc158a8c,2025-02-22,Victoria Brown,Cervanteschester,Home Appliances,Refrigerator,3,788.09,Net Banking,2364.27
+9be109cb-b153-45d0-9385-b865549e8aa0,2025-02-23,Jeremy Jordan,North Peter,Books,Refrigerator,6,295.76,Net Banking,1774.56
+277afa0c-bbb2-42ee-80c8-7f808ab88ead,2025-02-24,Mark Powell,Edwardsfurt,Books,Action Figure,3,453.43,Debit Card,1360.29
+5851d64e-1612-4175-a82a-caf7fff6fc73,2025-02-25,Tanya Sullivan,Heatherport,Books,Action Figure,3,524.6,UPI,1573.8000000000002
+966db719-d52b-406c-88ef-7af951506bbb,2025-02-25,Jennifer Rollins,Patrickton,Electronics,Smartphone,3,180.38,Net Banking,541.14
+7bbe526a-43a0-4487-bf42-7cd95913e42e,2025-02-26,Ms. Sharon Jordan MD,Lake Kevin,Electronics,Smartphone,5,902.71,Debit Card,4513.55
+a510c87d-2985-41d2-8ff8-99e24f0e56f0,2025-02-26,David Hendricks,Jenniferchester,Home Appliances,Sneakers,4,935.18,Cash on Delivery,3740.72
+75491d92-39d3-4d4c-9e4f-67c2006a3028,2025-02-26,Charles Koch,East Williamburgh,Books,Tablet,8,64.48,Net Banking,515.84
+2bff0b1f-dad1-4e1b-a144-98ebb52159c8,2025-02-27,Christina Mitchell,East Maryside,Toys,Headphones,2,986.31,Net Banking,1972.62
+ff057265-70a9-4a20-98c0-50a068c867fe,2025-02-27,Scott Martinez,Savannahfort,Books,Refrigerator,8,253.1,Net Banking,2024.8
+06b04b4d-a208-4a37-872f-a301dd80bea5,2025-02-27,Richard Taylor,Mitchellchester,Toys,Sneakers,5,763.49,Debit Card,3817.45
+d7ca82e1-8113-406f-bc50-577541eea98f,2025-02-27,Thomas Barnes,Johnsonstad,Electronics,Novel,10,412.88,UPI,4128.8
+d2fee801-bee2-4ec0-868e-2039f0c78a63,2025-02-28,Michael Lopez,Jacksonside,Home Appliances,Laptop,1,552.7,UPI,552.7
+2f767f05-ebbc-42d6-b29d-abdff501be3b,2025-03-01,Karen Castillo,South Lauraville,Electronics,Action Figure,6,196.82,Net Banking,1180.92
+c6d70fdc-5487-4249-9c14-1b223d8b7c94,2025-03-01,Sylvia Owen,Tinashire,Electronics,T-Shirt,3,596.71,Net Banking,1790.13
+95191ebb-8fec-4d34-b97c-152dc94f904f,2025-03-02,Ryan Walker,East Melindafort,Books,T-Shirt,8,395.1,Cash on Delivery,3160.8
+e7a1a768-0ca7-48e5-a72f-3681dee387b3,2025-03-02,Mr. Cameron Anderson,North Jenniferberg,Books,Blender,7,301.39,Credit Card,2109.73
+30a127a2-396a-4500-b939-7189cd2a4176,2025-03-02,Michael Hale,Maryville,Electronics,Laptop,5,412.53,Credit Card,2062.6499999999996
+4f252ec3-800c-4e6b-84ee-c2a55766bd11,2025-03-03,Wanda Mitchell,Port Brady,Books,Tablet,4,408.98,Cash on Delivery,1635.92
+9b4aafb7-8db8-4ef9-abb7-1de1cb192fd0,2025-03-03,Amber Gordon,West Shellyfurt,Books,Blender,7,478.17,Credit Card,3347.19
+8bf1b652-9486-48b5-92bf-478a51393d50,2025-03-03,Rebecca Odom,South Ronaldland,Electronics,Action Figure,8,727.44,Debit Card,5819.52
+f5390361-1972-4f8c-9bbd-902e0b882ad9,2025-03-04,Larry Jackson,Jimenezview,Books,Sneakers,3,250.39,Net Banking,751.17
+2adeb0f9-3e2e-40df-93ae-4519a9906b86,2025-03-05,Kathleen Cohen,West David,Electronics,Novel,2,30.71,Credit Card,61.42
+01fdd054-373e-4eb3-9630-efcc5544e632,2025-03-05,John Gomez,Jessicaberg,Home Appliances,Blender,8,679.8,Net Banking,5438.4
+9ae98b12-bff1-4b48-81df-9e2691f8d2a1,2025-03-05,Alex Williams,West Kyle,Toys,Tablet,9,61.59,Credit Card,554.3100000000001
+ebb7368c-b656-47b1-bc9a-3d7b72b8b583,2025-03-06,Catherine Smith,South Joseph,Home Appliances,Blender,2,551.39,UPI,1102.78
+71fe5fce-ad10-4c9f-94da-76c9c63d55fb,2025-03-06,Nicole Robertson,Kellyland,Home Appliances,Laptop,6,890.24,Credit Card,5341.4400000000005
+02480d64-0c9a-4e52-a2b3-caf7b59e584b,2025-03-07,Alexandra Wilson,New Jose,Electronics,Blender,6,35.73,Net Banking,214.38
+913d7a1a-e829-48ba-9a17-452104dd1236,2025-03-07,Michael Leon,Hobbsport,Books,Action Figure,10,479.15,Net Banking,4791.5
+a6759ec9-8aea-449a-a996-78a948fdaeb3,2025-03-07,Lisa Conner,South Taylor,Home Appliances,Refrigerator,5,783.44,Debit Card,3917.2000000000003
+eaba0d61-8876-4192-b68f-daf9c44ac98e,2025-03-08,Daniel Lawrence,East Rebeccashire,Clothing,T-Shirt,7,593.41,Debit Card,4153.87
+84f96eb4-bd72-475f-8583-c371e28bdaab,2025-03-08,Patrick Vang,New Stuart,Clothing,Sneakers,8,646.5,Debit Card,5172.0
+2566aa6d-cbd4-4dca-ac26-2360dc73ab3e,2025-03-08,Matthew Anderson,Feliciastad,Books,Sneakers,8,717.33,Debit Card,5738.64
+cab50de6-4d3a-4dfc-9076-c67ab965aa4d,2025-03-08,Jennifer Stevens,Lowefurt,Clothing,Novel,7,768.5,Cash on Delivery,5379.5
+0eb95d4b-85c1-4493-87ad-5a40f2c9daf1,2025-03-09,Christopher Thompson,New Wendy,Electronics,Sneakers,7,649.06,Cash on Delivery,4543.42
+4f657b48-6dc5-4442-aa97-ae84a3c02247,2025-03-09,Maria Williams,Lake Williamport,Electronics,Tablet,9,775.21,Net Banking,6976.89
+5895c61a-85ea-404f-961e-59c68eeea056,2025-03-09,Angela Green,Dawnfort,Clothing,Laptop,1,161.27,Net Banking,161.27
+95eb2417-30f6-43fb-91a6-035b310393cb,2025-03-09,Aaron Williamson,Thomasside,Books,Smartphone,1,116.96,Debit Card,116.96
+56133abb-9cff-4df0-9780-75106d00ec91,2025-03-12,Claudia Vasquez,Lake Jamie,Home Appliances,Novel,8,688.5,Cash on Delivery,5508.0
+5cfb37cd-d5fd-41a7-9ce0-59f6b2754dc3,2025-03-12,Cameron Washington,Shawtown,Home Appliances,Action Figure,5,920.0,Net Banking,4600.0
+7520a626-396d-45ca-af86-37454c64956b,2025-03-13,Luke Greene,West Anthonyberg,Clothing,Novel,3,282.03,Net Banking,846.0899999999999
+d3d57eaf-aa78-41c2-9be5-efd89c7f2859,2025-03-13,Dr. Brian Jacobson,Lake Brian,Clothing,Action Figure,1,524.87,Net Banking,524.87
+a3e76e08-9a84-41b2-aa1d-9177fe82a7d1,2025-03-15,Mary Bridges,Rhodeston,Clothing,Laptop,2,66.77,Net Banking,133.54
+c2bbb9bd-bf97-4844-8452-6c5bd4b3c40e,2025-03-16,Angela Smith,Mcdanielville,Home Appliances,Action Figure,2,545.06,Cash on Delivery,1090.12
+ff6e6f17-a329-4c58-a5f1-7ec82c403a03,2025-03-17,David Simpson,Jodiburgh,Toys,Smartphone,8,928.98,Cash on Delivery,7431.84
+0e9a4286-b1e5-495a-a373-c2ffe07f7879,2025-03-17,Tracy Marshall,Glendahaven,Toys,Headphones,1,604.91,Net Banking,604.91
+f36e4337-bdcb-4177-bf6d-53f03a772cbf,2025-03-18,Angela Paul,Jasonhaven,Books,Blender,5,595.71,Credit Card,2978.55
+5852228e-b95c-4f19-ba95-c0a149c67a11,2025-03-19,Thomas Taylor,Lake Rebecca,Home Appliances,Laptop,8,13.17,Debit Card,105.36
+19fd07df-018f-44e4-bcc3-9fae68a41457,2025-03-19,Tanya Morgan,Kimberlychester,Toys,T-Shirt,7,385.66,Credit Card,2699.6200000000003
+75433b51-2ee8-4ddf-8a3f-8f84b287a376,2025-03-19,Kathy Harper,Jonesview,Electronics,Tablet,7,861.16,UPI,6028.12
+40c6d186-4027-4b79-be36-b70b3bb8803c,2025-03-19,Kimberly Boyd,Tinafurt,Clothing,Novel,4,838.65,Debit Card,3354.6
+5389d70d-05c5-4dab-85ce-a0b8a5706d84,2025-03-19,Sabrina Luna,Davisfurt,Home Appliances,Action Figure,3,424.0,Debit Card,1272.0
+9233643f-bb4b-4200-bb0b-51cec2a91a68,2025-03-20,Matthew Ortiz,West Joseph,Clothing,Laptop,3,944.31,Net Banking,2832.93
+bd0cc11c-5cd1-4cbf-92fb-8cc4d61a7d80,2025-03-20,Holly Rivers,New Jason,Books,Tablet,4,814.63,Credit Card,3258.52
+509869ca-9273-48ca-8789-b675124ce350,2025-03-20,Shannon Williams,Tuckerhaven,Clothing,Smartphone,5,768.28,Cash on Delivery,3841.3999999999996
+4a3afc5e-061a-4311-bc6f-7e92c16e8ab1,2025-03-20,Sandra Miller,East Ricardoberg,Home Appliances,Sneakers,4,964.77,UPI,3859.08
+a25e75b9-38f8-4d4a-b65e-a6755b21d9a8,2025-03-20,Mr. Thomas Davis,Sotoberg,Toys,Tablet,8,854.11,Credit Card,6832.88
+b1a8857b-9bca-405f-b353-993cafcc2de8,2025-03-20,Tammy Coleman,Laurenfurt,Books,Headphones,3,566.88,UPI,1700.6399999999999
+99c020dc-c2ca-4bb7-aa77-c3a38a36e4be,2025-03-21,Kathy Bailey,Port Keithmouth,Clothing,T-Shirt,2,770.46,Debit Card,1540.92
+a0aca90f-ed6f-43e8-9a9b-a464e596f443,2025-03-21,Laura Mcdonald,Port Virginia,Clothing,Sneakers,8,729.04,UPI,5832.32
+b2f083ea-2ecc-49c4-8fc9-1f81b999e4c7,2025-03-22,Victoria Mcclure,Robertside,Home Appliances,T-Shirt,3,352.18,Net Banking,1056.54
+835e2a01-70ed-408b-b9f2-bd35fa865403,2025-03-24,James Whitehead MD,South Markmouth,Home Appliances,Blender,1,243.15,UPI,243.15
+35ae85d0-0dd9-47f2-8859-c54beb76915d,2025-03-24,Andrew Robinson,Bowerston,Books,Laptop,5,547.17,UPI,2735.85
+e248f9f4-ecee-4858-a4b5-7d9bdc23ada9,2025-03-26,Shane White,Waltonmouth,Clothing,Novel,7,346.15,Credit Card,2423.0499999999997
+0dddea79-fb23-4b5f-8a9d-5518a08f3760,2025-03-27,Charles Guerrero,Alejandromouth,Clothing,Smartphone,8,897.96,Credit Card,7183.68
+3521d9e9-7522-44a5-8fc4-2564d9fcd702,2025-03-27,Alexander Benson,Paulland,Toys,Smartphone,10,157.91,Credit Card,1579.1
+2def49e0-99f5-4b8b-8d7f-ba14ddc10d65,2025-03-27,Jennifer Smith,Sampsonview,Electronics,Action Figure,4,917.69,Net Banking,3670.76
+f9d8ffa9-4e9a-42e1-8d86-bec791838214,2025-03-27,Lauren Perry,Millerside,Home Appliances,Blender,9,476.45,Credit Card,4288.05
+60309c76-14e7-4cab-b325-327e030d7570,2025-03-27,Morgan Jones,East Oliviahaven,Clothing,T-Shirt,4,772.6,Net Banking,3090.4
+c5def02b-d114-4846-8612-4aad425eb3b9,2025-03-27,Juan Peterson,Lauratown,Electronics,Headphones,2,245.96,Net Banking,491.92
+0c66ec5f-5b29-4d09-befa-1a9a28f04bf2,2025-03-28,Caleb Moore,West William,Clothing,Laptop,6,921.03,Cash on Delivery,5526.18
+218338e3-584e-454f-beac-b6824202c365,2025-03-28,Martin Ramirez,Port Joshua,Electronics,Refrigerator,2,27.06,Debit Card,54.12
+37f97293-2ab7-4800-a04e-cee5ab8e9077,2025-03-28,Mary Wolf,Lake Richard,Toys,Laptop,7,787.36,UPI,5511.52
+94d1e01f-0fd8-4a74-97be-bad45aa3a2f5,2025-03-28,Barbara Shaw,Javierside,Electronics,Novel,2,19.08,Credit Card,38.16
+a3ac7da2-88f5-41d2-9b52-3fe68f8f4d36,2025-03-29,Katie Montgomery,Priceview,Home Appliances,Refrigerator,3,189.47,Net Banking,568.41
+151a4517-7851-4d0e-ab34-fc7a6b45d9b5,2025-03-29,Tonya Levine,Stewartmouth,Books,Action Figure,9,382.32,UPI,3440.88
+a683eae7-fc71-4baa-9efa-8332bef6f7ea,2025-03-30,Lindsay Hernandez,South Douglasland,Books,Action Figure,4,861.83,UPI,3447.32
+7f905fe0-be7c-42ca-bd91-3be5587daa99,2025-03-30,Kristina Mendez,New Michaelport,Electronics,Refrigerator,5,476.39,Credit Card,2381.95
+a297ccfa-d018-4af2-ba2c-b18194bc361f,2025-03-30,Tammy Perez,East Teresaberg,Toys,Smartphone,1,824.89,Net Banking,824.89
+fe77899c-79b5-43b2-9bd6-8dd2fa895b1b,2025-03-31,Tara Williams,Davisview,Clothing,Headphones,4,411.2,Cash on Delivery,1644.8
+c9772688-38bc-4a68-b6e0-9df4c9fa25f0,2025-03-31,Amber Chang,Port Anthony,Home Appliances,Laptop,4,196.56,Cash on Delivery,786.24
+4485a745-91f0-4478-abf1-3f050ccc0604,2025-04-01,William Brown,Kelseystad,Books,Headphones,10,948.04,Cash on Delivery,9480.4
+a7f8cb06-4e08-4f7e-a8d6-3a25cc9d13df,2025-04-01,Deborah Clark,Amandahaven,Home Appliances,Headphones,8,727.63,UPI,5821.04
+04aac4af-3abd-43dd-ab05-e29b63775474,2025-04-01,Jill Lane,Tateside,Clothing,Tablet,6,559.77,Credit Card,3358.62
+21ce9f3f-254d-4090-a4dd-25bd27ef3407,2025-04-02,Ariel Smith,Carneyburgh,Electronics,Headphones,9,282.76,Debit Card,2544.84
+0d470176-5639-4978-b130-2067a9ae2db4,2025-04-03,Jeffery Salas,South Amyfurt,Books,Refrigerator,9,218.83,Net Banking,1969.47
+386e701b-836d-43b1-b850-70e744242b04,2025-04-03,Tyler Lewis,Jenniferfurt,Books,Smartphone,1,475.16,Cash on Delivery,475.16
+09a7b20f-0922-4a96-bb83-42db61c71d6f,2025-04-03,Nicole Brown,Lake Christopherstad,Toys,Sneakers,4,354.66,Debit Card,1418.64
+efc0ed86-08c1-42ac-8c6b-00bd2457b250,2025-04-04,Jane Hart,Port Kevin,Books,Action Figure,6,782.15,Cash on Delivery,4692.9
+a416dc13-e9e2-4b19-8cff-b602397eaaca,2025-04-04,Catherine Arnold,South Stacy,Clothing,Refrigerator,8,356.33,Debit Card,2850.64
+fa565c73-6a11-42aa-a049-f6fcdc4c2570,2025-04-05,Paul Greene,East Donald,Home Appliances,T-Shirt,7,129.69,Net Banking,907.8299999999999
+84f989fb-ac7c-4541-b403-feb212d953f9,2025-04-05,Dr. Richard Moore,Port Julie,Clothing,Laptop,3,788.6,Credit Card,2365.8
+af4a735b-12b3-4f86-b352-77efc9e193dc,2025-04-06,Christopher Brown MD,Melissastad,Books,Tablet,2,357.5,Debit Card,715.0
+4549b3da-e4e8-455f-9009-1a7ab376a868,2025-04-06,Eugene Moore,New Jennifer,Toys,Tablet,3,802.16,Credit Card,2406.48
+2069b714-d972-464f-8ab4-5ef5f5264621,2025-04-06,Nicholas Haley,South Luistown,Toys,Laptop,9,191.22,Debit Card,1720.98
+2188f841-e4f1-4eb7-b0c2-bcdec9d6781b,2025-04-06,Mrs. Martha Nguyen,New Markside,Toys,Blender,2,461.42,Credit Card,922.84
+b1d94a00-3683-4f9c-bd9e-88492a4f6f58,2025-04-07,Kelly Brooks,Kyleville,Electronics,Sneakers,4,836.45,Net Banking,3345.8
+a65c7192-cf9c-48c1-8fa4-7c9dad09c9ca,2025-04-07,Jason Austin,West Joy,Home Appliances,Refrigerator,1,965.36,Debit Card,965.36
+23f98f84-bec3-49a4-bb2b-2e940ff6a0a5,2025-04-07,Jacob Juarez,Haydenfort,Clothing,Blender,9,128.7,Cash on Delivery,1158.3
+a7279316-a929-4ccd-892a-c7426bec6eea,2025-04-08,John Sellers,Port Candice,Books,Refrigerator,8,445.56,Credit Card,3564.48
+ac152519-6a56-49c7-88d8-f7ea1deea5d0,2025-04-09,Roger Sanchez,South James,Clothing,Tablet,10,975.76,Debit Card,9757.6
+6f737e36-bb69-4b36-a1ff-d7d3d7e4b0fc,2025-04-09,Kayla Espinoza,Robinsonfurt,Books,Action Figure,10,254.42,UPI,2544.2
+a2b09406-95a9-4848-80f5-107f13dac939,2025-04-09,Sheila Henderson,West Jadeberg,Clothing,T-Shirt,10,767.44,UPI,7674.400000000001
+9375cb81-f495-41b6-8506-e3f8d6cc2d29,2025-04-10,Dr. Alyssa Moore,Ericside,Books,Headphones,6,240.95,Credit Card,1445.6999999999998
+98cd52cf-b88a-4c65-950e-b7e6cd294e14,2025-04-10,Dennis Weaver,Chaseburgh,Home Appliances,T-Shirt,3,566.85,Debit Card,1700.5500000000002
+f945d144-215e-4bbf-9e34-0f9309446ea5,2025-04-12,Dawn White,West Sonyaview,Clothing,T-Shirt,4,756.45,UPI,3025.8
+44a0c9d4-cabb-4fd3-ba05-cd2c086744c0,2025-04-12,Linda Robinson,Lake Cassidyhaven,Toys,T-Shirt,2,753.9,Net Banking,1507.8
+c5ef3499-a37b-4eb0-a2df-eff682eb34d9,2025-04-12,Renee Hunt,South Steven,Books,T-Shirt,2,415.47,Credit Card,830.94
+4f845e28-a226-487b-95c3-ee9e6ab4cd17,2025-04-13,Cassidy Lewis,North Jessicachester,Toys,Laptop,7,601.16,Net Banking,4208.12
+8aa0af43-68a5-457c-be99-075262017cf7,2025-04-14,Kimberly Pacheco,North Lawrenceside,Clothing,Refrigerator,1,373.3,Cash on Delivery,373.3
+ec5aa5d9-2b6f-4279-a161-a82576ce6229,2025-04-14,Justin Allen,East Benjaminport,Home Appliances,Refrigerator,10,587.83,UPI,5878.3
+9a8ede4b-91e3-4e99-96a8-898e943e2bdc,2025-04-14,Patricia Hammond MD,Lake Marystad,Books,Action Figure,3,76.0,Net Banking,228.0
+29eb1b5f-180d-4344-9e0c-a01662a3605f,2025-04-15,Martin Kennedy,Anthonyfurt,Home Appliances,Action Figure,4,159.8,Debit Card,639.2
+36878de7-790d-4a21-bb8c-80dddce4db3d,2025-04-16,Dana Hoffman,Laurenstad,Toys,Headphones,1,979.0,Cash on Delivery,979.0
+dfd98bfe-7651-4a48-a5c3-e00ae19e0de9,2025-04-17,Robert Sullivan,New Melissa,Electronics,Laptop,9,792.49,Debit Card,7132.41
+316aa05a-c098-4e41-9d25-ed86d1e1731c,2025-04-17,Anthony Davis,Port James,Toys,Blender,4,207.47,UPI,829.88
+45911f40-c179-4801-8beb-5b8d06122ef2,2025-04-18,Tina Young,Goodwinborough,Electronics,Sneakers,9,469.52,Net Banking,4225.68
+97c6e377-c97f-44bd-9158-44c0133e3e46,2025-04-19,Nathan Scott,Amyview,Toys,T-Shirt,9,893.49,Debit Card,8041.41
+da50ac95-514d-4d1d-9d62-4882bbc0f2f2,2025-04-20,Chelsea Dorsey,Port Rachel,Electronics,Refrigerator,4,157.31,Debit Card,629.24
+b6448cb6-2c97-4eae-bc70-f036f22f574d,2025-04-21,Brandy Alvarez MD,Port Olivia,Home Appliances,Novel,3,781.61,UPI,2344.83
+90288639-3585-4ef8-82ff-aa0b9b264069,2025-04-21,Alexandra Gay,East Ashley,Electronics,Headphones,8,478.11,Net Banking,3824.88
+40305990-d5fb-401a-88c1-1a3ddc188e71,2025-04-23,Jennifer Phillips,East Virginiabury,Books,Sneakers,1,751.32,Cash on Delivery,751.32
+8c164de8-4015-4b42-8467-9e9cbf3e8876,2025-04-23,Katie Campbell,Angelaside,Toys,Laptop,3,698.28,UPI,2094.84
+0a297983-c97f-4ab0-9f58-847594748dcb,2025-04-24,Dana Hall,Tanyahaven,Electronics,Action Figure,6,305.28,Net Banking,1831.6799999999998
+5b6d2f1d-25f6-47b1-8e2a-779e3e719300,2025-04-24,Teresa Russell,West Don,Electronics,Tablet,4,106.95,UPI,427.8
+d04a7be4-cfd0-48b7-89f7-ece3bb55f13b,2025-04-24,Tina Martinez,East Linda,Books,Action Figure,3,15.69,Cash on Delivery,47.07
+4287c03a-cd71-420b-86ab-6ff6cc1d5864,2025-04-25,Justin Turner,Amychester,Home Appliances,Laptop,5,146.18,UPI,730.9000000000001
+55086896-f453-470a-83ae-8dc5e7d4e2bd,2025-04-25,Brian Miller,Christophermouth,Home Appliances,Blender,1,351.56,Cash on Delivery,351.56
+f1bf8d1b-f164-46c3-8ea9-21f89cc92126,2025-04-26,Peter Johnson,Tracibury,Books,Sneakers,3,113.32,Debit Card,339.96
+bc079cb2-0796-43af-8e16-dc87183537de,2025-04-26,John Rodriguez,West Lindaland,Books,Smartphone,1,242.68,Credit Card,242.68
+8075c25e-19f6-4ed1-95de-5f51160fa0a7,2025-04-26,Devin Frank,East Shawn,Clothing,Headphones,9,663.24,Debit Card,5969.16
+8339c6ac-964a-4611-b35e-77b69c48c4e2,2025-04-26,Danielle Moreno,Rodneystad,Clothing,Headphones,10,794.69,Net Banking,7946.900000000001
+2a0394db-4f8c-4273-a82d-25684c534a37,2025-04-26,Holly Johnson,Richardport,Home Appliances,Smartphone,6,737.44,Debit Card,4424.64
+65f4cf93-90fb-403b-9ae5-735f430eedc9,2025-04-27,Sarah Smith,Masonton,Toys,Smartphone,9,995.85,Cash on Delivery,8962.65
+4c6606cd-72fc-40f9-9697-ffbeec013bdc,2025-04-27,Jennifer Martinez DDS,Smithberg,Toys,Refrigerator,1,411.63,Credit Card,411.63
+e85c2b58-a8e7-4cbb-aa62-d5943e28f630,2025-04-27,Sean Williams,Mcclainside,Clothing,Refrigerator,7,447.62,Net Banking,3133.34
+de1ce3c5-7487-4945-b8be-81918a0d52d3,2025-04-29,Adam Cox,Phillipsbury,Toys,Laptop,9,865.46,Cash on Delivery,7789.14
+d0c616c0-94b5-4a9f-bcfc-a54883e07a71,2025-04-29,William Kaiser,Mitchellville,Clothing,Headphones,9,107.09,UPI,963.8100000000001
+a24dedb4-7fb1-4503-9f5e-cddacb88f278,2025-04-30,Ryan James,Wilsonmouth,Home Appliances,Headphones,3,760.76,Net Banking,2282.2799999999997
+fb07843b-8035-4f94-8794-6c36538c9521,2025-05-01,Rebecca Ellis,Williamsshire,Home Appliances,Headphones,7,53.0,Credit Card,371.0
+33e51739-20ff-4e10-9f54-a4a1e374a2a4,2025-05-02,Julia Heath,Port Danielburgh,Clothing,Blender,4,191.86,UPI,767.44
+3010848f-9e20-4be3-bcc1-4a1363657543,2025-05-02,Morgan Jones,Heatherfort,Home Appliances,Blender,4,625.08,Debit Card,2500.32
+7d7f0c5f-bcc0-43b5-abb5-973401e3e108,2025-05-03,Joshua Buck,East Emily,Home Appliances,T-Shirt,5,612.04,UPI,3060.2
+6884d330-1abb-46a0-bf63-eec4b53dcc7f,2025-05-03,Matthew Morris,Port Jamesberg,Clothing,Novel,9,112.53,Credit Card,1012.77
+24fcdf0d-d83e-483f-9cb0-d1868cf1594e,2025-05-03,Patricia Brown,West Brianberg,Electronics,Blender,10,571.85,Credit Card,5718.5
+38e9eb43-39af-4ef1-a72b-19bf863a6597,2025-05-04,Andrea Jones,Brittanyton,Clothing,Tablet,3,934.91,Debit Card,2804.73
+9a3d9353-800f-4bea-886f-cdc93e75306b,2025-05-04,Craig Young PhD,Holdenville,Home Appliances,Headphones,4,121.28,Net Banking,485.12
+d211975e-3958-40e8-8fdb-d6d0e86b6ba7,2025-05-04,Diana Reese,Williamsburgh,Clothing,Novel,8,14.72,UPI,117.76
+55954041-a7d0-4c13-a8fd-f619e80044bd,2025-05-05,Leonard Christian,North Carol,Electronics,Smartphone,5,657.82,Debit Card,3289.1000000000004
+b7f03f6a-0584-443d-9b58-69d3f609170f,2025-05-06,Tyler Cole,New Colleenberg,Home Appliances,Laptop,2,597.58,Net Banking,1195.16
+c9721395-b385-41d9-a786-413bd4cf6868,2025-05-06,David Merritt,North Anitabury,Home Appliances,Refrigerator,7,676.79,Debit Card,4737.53
+4266301f-67e5-4b7d-90b3-276db17f0f6f,2025-05-06,Christopher Ellis,East Lisa,Books,Laptop,2,237.69,UPI,475.38
+33216edf-4fdb-4303-8bc2-9ba83399dd38,2025-05-07,Erica Shaffer,Lake Amy,Books,Smartphone,6,804.65,Debit Card,4827.9
+d2762d30-f2fb-4a19-abdb-a7c0b31cb17b,2025-05-08,Douglas Marshall,North Kevinburgh,Clothing,Novel,6,255.37,Net Banking,1532.22
+2bd82fa7-b696-41f9-ba19-6bed6b410517,2025-05-08,Matthew Martinez,Hoffmanmouth,Books,Tablet,5,673.46,Credit Card,3367.3
+5d9689aa-3394-45b1-b957-1b0da1e627ad,2025-05-09,Leah Ellis,East Todd,Books,Tablet,8,862.83,Net Banking,6902.64
+47ea11b4-754f-4187-abf3-708a45db663d,2025-05-09,Tracey Torres,Bradyhaven,Clothing,Blender,4,397.34,Debit Card,1589.36
+3e4f4367-0668-4a35-8ff5-4358a9f2daef,2025-05-10,Bryan Sanchez,Halltown,Electronics,Smartphone,5,457.15,UPI,2285.75
+395936ab-3719-4d53-9ddf-4b11dad9d36a,2025-05-10,Christopher Tapia,West Samanthashire,Books,Smartphone,9,98.83,Debit Card,889.47
+74da91eb-7da9-48f1-95b2-933b6379daf6,2025-05-12,James Ryan,New Christian,Toys,Tablet,10,759.4,Net Banking,7594.0
+1d32edac-dc14-4e7e-8447-6d6605a61d52,2025-05-13,Andrea Cox,Lake Laura,Electronics,Novel,3,236.6,Net Banking,709.8
+79a76991-baf3-4436-b66e-149760a879f6,2025-05-14,Carrie Mccormick,East Stephaniechester,Toys,Action Figure,6,555.24,Debit Card,3331.44
+1e05a0a8-c7ee-4e01-a35c-a8a0c05882b7,2025-05-14,Nicholas Douglas,Randystad,Books,Laptop,7,111.76,UPI,782.32
+c7fdcfd9-27fd-4b08-bbb9-ddc7f279f442,2025-05-14,Ashley Todd,Williamston,Toys,Novel,1,919.41,UPI,919.41
+df67d3c0-7fe8-4cc2-b883-62d02a34b309,2025-05-15,Robin Fisher,South Sandraborough,Clothing,Blender,7,711.55,Net Banking,4980.849999999999
+75b1cbf9-fc26-43b4-9fbe-a38bce977ab1,2025-05-15,Jillian Alvarez,Port Jeanville,Clothing,Refrigerator,9,689.46,Net Banking,6205.14
+292d5701-fc96-43cc-814b-56aad306e88d,2025-05-15,Paul Robertson,Jonathanborough,Electronics,Laptop,3,824.28,UPI,2472.84
+d73d2982-89cb-4492-8f95-3d3dc237b43d,2025-05-16,Rebecca Gaines,Petersonbury,Home Appliances,Novel,2,992.26,UPI,1984.52
+9cf9944f-9037-41b3-af93-4c4fa8f9c9e0,2025-05-16,Jonathan Lucero,Lake Mary,Books,Blender,3,645.72,Cash on Delivery,1937.16
+9c60f7ef-4088-42da-a067-ad6e44fedc6b,2025-05-16,Edward Pearson,Lake Bridget,Books,Refrigerator,8,191.73,Credit Card,1533.84
+9965f549-70e2-4b23-90b9-25992e4d91b7,2025-05-16,Kimberly Nguyen,Tonybury,Home Appliances,Tablet,1,671.43,Net Banking,671.43
+3cf24dde-ef3d-4972-8c82-d30ebe72725b,2025-05-16,Mark Clark,West Christinafort,Clothing,T-Shirt,1,646.86,Net Banking,646.86
+2ebd0d75-930b-4271-a263-996172c5c3b5,2025-05-18,Keith Austin,North Cameronborough,Clothing,Refrigerator,4,945.91,Debit Card,3783.64
+0809daf5-3ff0-4f7d-83a5-7585444fdfa7,2025-05-19,Amy Gilbert,Michaelborough,Home Appliances,T-Shirt,3,446.67,Cash on Delivery,1340.01
+1518adae-0dcd-4ce8-867c-5ef412c37163,2025-05-19,William Wallace,South Jenniferhaven,Home Appliances,Sneakers,8,834.65,Credit Card,6677.2
+32c54bda-7956-4353-a6d5-0289f99c9e73,2025-05-19,Rachael Crane,New Peterville,Clothing,Sneakers,10,696.38,Net Banking,6963.8
+5f53870d-b6da-483c-9ab5-59e27309d3c1,2025-05-19,Alyssa Lopez,Lewismouth,Electronics,Sneakers,7,123.27,Debit Card,862.89
+40d41c7a-0423-4723-8132-e65d6441bf73,2025-05-19,Kevin Hernandez,East Annside,Home Appliances,T-Shirt,2,572.54,Credit Card,1145.08
+59dfadeb-8e2b-4a9d-8dc5-c708261a0ccc,2025-05-20,Peter Moore,Garyshire,Toys,Refrigerator,9,528.24,Net Banking,4754.16
+af378ce2-4b15-42be-9926-ecad0edf5a1d,2025-05-21,Sabrina Kaufman,Benjaminside,Home Appliances,T-Shirt,5,333.86,Cash on Delivery,1669.3000000000002
+70aac3b5-59ea-4276-b392-960632506995,2025-05-21,Brenda Smith,Lake Karaside,Home Appliances,Action Figure,1,422.48,Cash on Delivery,422.48
+608c1962-f3a1-4733-b4d9-e3948332753d,2025-05-22,Shawn Washington,Dustinton,Electronics,Sneakers,10,260.33,Net Banking,2603.2999999999997
+e736d25d-8ff6-46ce-b84e-f5602dc8d4c1,2025-05-22,David Patton,Aaronview,Electronics,Headphones,9,718.91,Credit Card,6470.19
+94122292-a99a-4e3c-ae2e-126fbb97a2bf,2025-05-23,Gabriella Jackson,Joneston,Electronics,Smartphone,3,29.13,Cash on Delivery,87.39
+671f1d0c-7d0e-419a-9f04-dbeb59d96e50,2025-05-25,Guy Hudson,East Brendaville,Books,Headphones,3,247.13,UPI,741.39
+e8f49069-61ff-40c7-8b33-94d33df9d730,2025-05-25,Mr. Brett Martinez,South Laura,Electronics,Blender,9,948.83,UPI,8539.470000000001
+9e14f89d-b80c-40ec-b792-45b0ae6ecb92,2025-05-27,Karen Krause,West Stephen,Books,T-Shirt,6,513.25,Credit Card,3079.5
+6468b232-7d2d-43be-89a1-e744d6fdd2e7,2025-05-28,Sandra Hudson,Mcdonaldstad,Home Appliances,Refrigerator,6,380.88,Credit Card,2285.2799999999997
+71c84e81-cda2-4030-935c-08528236c746,2025-05-30,Kelsey Smith,Robertberg,Toys,Headphones,2,426.36,Cash on Delivery,852.72
+12e17473-b5fd-4b84-ac39-6cdce8b6d242,2025-05-30,Donna Rosales,Andrewton,Home Appliances,Novel,9,237.27,Debit Card,2135.4300000000003
+995b8494-a888-40b9-88ba-d31f4ab4d8a6,2025-05-30,Nancy Martinez,East Kyle,Home Appliances,Smartphone,9,587.56,Credit Card,5288.039999999999
+189feffc-63be-4422-808e-aeca9e77ffbe,2025-05-30,Samuel Rivera,Franklinbury,Home Appliances,Smartphone,2,577.26,Credit Card,1154.52
+d41673f4-37a0-4bce-82da-15c80897c4de,2025-05-31,David Robertson,Johnsonmouth,Home Appliances,Tablet,1,898.59,UPI,898.59
+fd72d2cd-6b04-46cf-bc1e-31ed0ac95582,2025-05-31,Corey Garcia,Spearsstad,Books,Refrigerator,7,890.24,Net Banking,6231.68
+5c568b03-3dd8-4ca1-9da2-2eff32e2ce06,2025-05-31,Deanna Stewart,Port Mary,Clothing,Novel,6,187.17,Credit Card,1123.02
+f1453d3d-9c77-42d4-99e1-005af7a16762,2025-05-31,Eric Reeves,Port Davidfurt,Electronics,Refrigerator,8,353.96,Debit Card,2831.68
+3432f1a8-593e-43c3-9474-fc63abc41c48,2025-05-31,Robert Cook,West Marissa,Home Appliances,Novel,8,43.97,UPI,351.76
+38312a2c-a0b6-49f3-acde-30a8da794e7e,2025-05-31,Gabriella Taylor,Lake Jacob,Electronics,Refrigerator,8,724.73,Cash on Delivery,5797.84
+03bbd436-2b95-4ad5-b3f4-36d8be8ee81c,2025-06-01,Amanda Warren,Randyfort,Clothing,T-Shirt,2,593.55,Credit Card,1187.1
+c86dadf6-16e9-42fb-9bed-7a6a84db42f6,2025-06-01,Melissa Novak,Port Angela,Toys,T-Shirt,5,701.24,Credit Card,3506.2
+459d54b4-7f99-4862-81c6-8448918168db,2025-06-02,Marvin Peters,Swansonton,Toys,Laptop,5,385.07,Net Banking,1925.35
+60b76927-2bf8-47ca-b0f3-98d628ecda22,2025-06-03,Melanie Maxwell,Port Tanya,Electronics,Blender,10,832.86,Net Banking,8328.6
+d0483b0e-2b49-4c10-b214-ec78e8b21fb8,2025-06-04,Danielle Mitchell,Brownville,Electronics,Smartphone,9,872.46,Cash on Delivery,7852.14
+0e23f720-15cf-4bb8-9767-b2f84e1acf68,2025-06-04,Joanna Hall,Lisatown,Clothing,Blender,9,828.61,UPI,7457.49
+7930eb25-972f-44ce-b07c-7921bbec7b82,2025-06-04,Sarah Patton,Port Shannon,Toys,Blender,3,504.06,Cash on Delivery,1512.18
+670b3e63-88c3-4a94-b41f-85a696301e80,2025-06-04,Sue Wright,Port Angelaberg,Home Appliances,Blender,9,549.51,Debit Card,4945.59
+42ed68e2-4dcf-4788-860e-116533598e16,2025-06-05,Emily Wise,New Deantown,Home Appliances,Laptop,4,171.08,UPI,684.32
+4a2bfa46-3d59-4f99-8b6f-e9850ef280e2,2025-06-06,Steven Murray,Suzannebury,Electronics,Action Figure,6,756.92,UPI,4541.5199999999995
+7aefc3c3-eedd-49cb-b63a-4b4a1c27968d,2025-06-06,Charles Cooper,West Stephanie,Books,Laptop,4,39.62,UPI,158.48
+293c16b1-7db7-4f86-a087-451d1b472d79,2025-06-06,Eric Guzman,Nguyenhaven,Books,Refrigerator,9,711.53,Net Banking,6403.7699999999995
+82498a7c-2861-40c1-b04e-fbd81f757cfe,2025-06-06,Samuel George,Freemanberg,Books,Blender,2,286.96,UPI,573.92
+3f2423c1-a144-42a3-b578-cccefc755e30,2025-06-07,Jamie Thompson,Jordantown,Home Appliances,Action Figure,4,575.99,UPI,2303.96
+b7d4ce53-aaa6-499a-8ed6-d53cf6a52283,2025-06-07,Jacob Morgan,North Chelseybury,Books,Sneakers,9,403.29,UPI,3629.61
+efc92b78-fb1a-452a-b40e-14657a0e27d4,2025-06-07,Mitchell Lin,East Michellemouth,Books,Tablet,9,738.4,Credit Card,6645.599999999999
+1118d5cb-f22f-4391-93c0-107593dbb8d0,2025-06-07,Miranda Hernandez,Kevinfort,Toys,Blender,9,634.33,Credit Card,5708.97
+68fb18e5-e229-4a77-b89d-ccaff9ed19a5,2025-06-09,Amanda Webb,Brianmouth,Books,Sneakers,2,60.81,Credit Card,121.62
+a0e6677b-982a-4cd0-8042-3d91645570e2,2025-06-10,Jennifer Collins,Royfort,Books,T-Shirt,6,720.29,Credit Card,4321.74
+079fcad8-cdf1-4920-987b-6e9a3ca778a5,2025-06-10,Glenn Hill,West Charles,Books,Blender,10,868.71,Debit Card,8687.1
+25fe7509-393d-4b9c-aa48-2c8256e761ba,2025-06-10,Taylor Fernandez,Jamesshire,Books,Action Figure,3,743.39,UPI,2230.17
+68ee1d07-7c04-4ce7-9757-66aace273dd5,2025-06-10,Sharon Rodriguez,Brandonton,Clothing,Headphones,5,119.77,Net Banking,598.85
+eacb3be4-0168-407b-a71e-7650899bf1fb,2025-06-11,Stephanie Dunlap,Amandaville,Electronics,Tablet,8,846.36,Credit Card,6770.88
+b8669006-c075-4d23-91b4-c9b81f7c3b05,2025-06-11,Sabrina Bray,Lambertmouth,Home Appliances,Headphones,1,541.96,Net Banking,541.96
+9f394093-311d-4699-ae24-73e886288f43,2025-06-11,Katie Ellison,Mcconnellstad,Electronics,Action Figure,6,675.07,Debit Card,4050.42
+94a1bdb8-ac67-41b8-b372-fe1825f99b87,2025-06-12,Susan Fletcher,Cherryview,Electronics,Smartphone,6,628.2,Cash on Delivery,3769.2000000000003
+434cd8d6-a2d9-495a-8ebc-4f8c47f6c827,2025-06-12,Maria Garner,Gravesmouth,Clothing,Smartphone,1,62.07,Cash on Delivery,62.07
+a84bce31-d2b5-4318-abf0-20f3230cbf3b,2025-06-12,Anne Serrano,Matthewtown,Toys,Refrigerator,6,423.25,Credit Card,2539.5
+c36259ca-80ff-4d34-8179-ba8a9b810006,2025-06-12,Miranda Hunter,Julieton,Toys,Laptop,7,627.13,Cash on Delivery,4389.91
+f0f840d3-75b9-4e65-8fb8-57edc88493ba,2025-06-12,Kathryn Serrano,West Erika,Electronics,Laptop,2,897.06,Credit Card,1794.12
+3ac5c78d-0a7b-463f-9758-21ec34c37fdc,2025-06-12,Lauren Smith,Port Kayla,Toys,Novel,7,396.31,Debit Card,2774.17
+b747a3ad-1a72-4e5c-9df9-4d7d2c2e54b1,2025-06-12,Scott Sweeney,Frankburgh,Clothing,Tablet,1,534.46,Cash on Delivery,534.46
+684c05ef-c1ab-408c-b643-7e35a5262670,2025-06-12,Jake Jackson,Davidview,Toys,Sneakers,4,555.33,Net Banking,2221.32
+b57f5a8a-4f62-463e-9454-aec4f28be938,2025-06-12,Jesse Williams,South Tara,Electronics,Laptop,6,908.01,Cash on Delivery,5448.0599999999995
+fa5839ed-8ccf-4dd0-999a-d03f2b61a6b8,2025-06-13,Phyllis Wright,Zacharymouth,Home Appliances,Action Figure,6,633.7,Net Banking,3802.2000000000003
+4b145372-f88f-4bc5-a153-f0e081017cef,2025-06-14,Bradley Thomas,Richardstown,Books,Laptop,5,515.39,Credit Card,2576.95
+e817976c-3d59-44c2-8ccd-f7c6a5256e37,2025-06-14,Ashley Meadows,Christopherberg,Books,Headphones,10,152.6,UPI,1526.0
+174b8333-184a-4f37-8b56-21810e6526e1,2025-06-14,Brittany Douglas,North Kenneth,Toys,Tablet,10,623.35,Credit Card,6233.5
+8c36da83-89bb-4c95-a85e-0d373ed079ef,2025-06-15,Jennifer Hill,North Amy,Home Appliances,Action Figure,1,263.19,Net Banking,263.19
+67d476f0-76e4-49c6-97d2-e73b5c91bc19,2025-06-16,Xavier Patterson,Nguyenfurt,Books,Action Figure,2,715.88,Net Banking,1431.76
+f8e6dfe7-529f-4f14-8e56-c97a08403bbb,2025-06-16,Jason Lawrence,Escobarton,Books,Tablet,6,189.95,Debit Card,1139.6999999999998
+4eba3831-74ef-4b88-a766-c7299329851d,2025-06-16,Douglas White,Davidbury,Electronics,Action Figure,10,401.33,UPI,4013.2999999999997
+58bf8cf5-672b-4238-a543-92f1adfa07e9,2025-06-16,Juan Choi,North Debbie,Home Appliances,Sneakers,10,112.44,Net Banking,1124.4
+b8ba1c00-d8a0-4b23-97a3-e7653df8729e,2025-06-17,Alex Wilson,Port Davidtown,Clothing,Novel,1,498.85,Credit Card,498.85
+70e4fec2-9cc4-4db3-9c32-0bd74bb0511e,2025-06-17,Sharon Vincent,Williamton,Books,Action Figure,1,606.99,Debit Card,606.99
+a5ec7bd2-934e-485a-aff2-5025b0af6630,2025-06-17,Mathew Olsen,Port Johnborough,Electronics,Laptop,6,120.77,Cash on Delivery,724.62
+07122343-8238-48f5-9634-8ecd18b4ca7b,2025-06-17,Gabriella Baker,Lake Davidville,Home Appliances,Tablet,7,951.36,UPI,6659.52
+22275ab8-a60f-4591-8a96-095c8134d493,2025-06-18,Matthew Gardner,Bruceburgh,Toys,Blender,5,602.8,Debit Card,3014.0
+9e65c688-8123-4b94-b57b-7f9413ff17a5,2025-06-18,Stephanie Hall,South Bobby,Electronics,Headphones,10,41.5,Cash on Delivery,415.0
+1d34a951-5f2b-4229-a585-561567f34711,2025-06-18,Travis Davis,North Michelleberg,Electronics,T-Shirt,6,630.33,Cash on Delivery,3781.9800000000005
+bef0bc25-936f-46d7-8bb4-98663d871603,2025-06-18,Yvonne Carey,West Bradleyland,Books,Refrigerator,4,905.9,Debit Card,3623.6
+9c0f767c-df1f-4dea-b3a7-5998589915ee,2025-06-19,Mrs. Natalie Thomas,New Jose,Home Appliances,Novel,9,794.73,Debit Card,7152.57
+0cb1ccfd-fcc2-47b9-9c3f-2671e05e18ab,2025-06-19,Summer Miller,Hancockshire,Books,T-Shirt,7,462.98,Net Banking,3240.86
+39fda14b-3a63-46e7-9630-11cff80fc7de,2025-06-19,Paul Sanchez,Lake Elizabeth,Toys,Headphones,1,73.82,UPI,73.82
+bb88f924-37c9-4e54-83de-9034cc893885,2025-06-19,Erik Garcia,Bradleyfort,Books,Laptop,9,188.83,Net Banking,1699.47
+76962be8-4a7e-435d-a112-3a2bdf418490,2025-06-19,Kimberly Glenn,Port William,Electronics,Tablet,1,908.71,Debit Card,908.71
+0ce0a0e1-47e1-4550-9a77-133ae8b28f9c,2025-06-19,Dylan Robertson,Kristopherport,Electronics,Action Figure,2,565.19,Net Banking,1130.38
+dab48861-4cdf-44e4-8b44-f3dbda1b01da,2025-06-20,Alyssa Shaw,South Scottton,Books,Blender,2,693.09,Cash on Delivery,1386.18
+c631438c-2586-4b3f-bd7f-866babc75a0e,2025-06-20,Pedro Morales,Fischertown,Books,Headphones,2,623.61,UPI,1247.22
+f14a84da-e377-48eb-9637-cf2b18946698,2025-06-21,Maria Harrington,Petersonside,Clothing,Laptop,2,504.54,Net Banking,1009.08
+e71f5ab5-e9aa-4728-9087-3e9973d3e4a1,2025-06-21,Patricia Graves,Castromouth,Home Appliances,Smartphone,6,56.71,Credit Card,340.26
+3b39fca9-db1a-4f06-b44f-c99fd1afa386,2025-06-21,George Burnett,Hoffmantown,Home Appliances,Novel,4,55.97,Credit Card,223.88
+57be1838-b345-4800-9127-34895cdb5946,2025-06-22,Anna Turner,East Michael,Toys,Sneakers,9,193.22,Credit Card,1738.98
+38fa4193-702c-4d7b-a933-3e48ada69d6f,2025-06-22,Jason Smith,West Paulview,Electronics,Blender,6,134.06,Cash on Delivery,804.36
+9fecf496-9695-47be-81ab-9d78f7aacfb1,2025-06-23,Nicole Stewart,Lake Dawn,Electronics,Smartphone,7,803.28,Net Banking,5622.96
+516c18ec-d093-4d51-94d3-185bcecae87a,2025-06-23,Bobby Thomas,West Alexander,Clothing,Novel,1,316.95,Cash on Delivery,316.95
+e3e97158-bbb9-4454-a4b3-42006f58d816,2025-06-23,Cole Herrera,East Jamesbury,Clothing,Refrigerator,6,322.38,Net Banking,1934.28
+2c894377-f7c8-4a64-ac75-d0be80bfb9f0,2025-06-23,Robert Mayer,Andreatown,Clothing,Headphones,5,807.35,Credit Card,4036.75
+26b4c7db-265b-46b7-921d-97fe9e560b1a,2025-06-24,Martin Banks,East Jacob,Toys,Sneakers,7,611.21,Net Banking,4278.47
+c57037ac-9b1e-4f22-ace7-8a668281a70f,2025-06-26,Jeremiah Rose,Port Christopher,Clothing,Sneakers,7,604.18,UPI,4229.259999999999
+83289563-dd63-47bd-aa6d-b0c07d84fe0a,2025-06-26,Laura Gutierrez,Marcusstad,Books,Tablet,3,460.39,Net Banking,1381.17
+ea51b16f-6688-4735-a405-c1c79909ff31,2025-06-26,Amanda Thomas,East Jessicaberg,Electronics,Smartphone,2,269.99,Credit Card,539.98
+02f82b0e-0296-4ef8-877b-cd8d8268da61,2025-06-27,Benjamin Gordon,Lake Luke,Books,Sneakers,4,251.62,Debit Card,1006.48
+aabf80d4-7235-429b-80b1-fc7436012685,2025-06-27,Susan Martinez,Kramerbury,Clothing,Action Figure,6,880.82,Credit Card,5284.92
+a6b45185-0f3a-45f7-b088-e16555c23f78,2025-06-27,Mr. Jeffrey Booth,West Robynland,Home Appliances,Blender,4,416.45,Cash on Delivery,1665.8
+208608d9-ed0c-4734-bd24-8d040004485d,2025-06-27,Francisco Martin,Port Jermaine,Toys,Blender,6,902.52,Cash on Delivery,5415.12
+0375ad17-5935-4f22-9658-f7a9287eadf0,2025-06-27,Anna Paul,Lake Marie,Clothing,Smartphone,3,455.43,Debit Card,1366.29
+f9f0399a-6031-400e-bed3-defbca99bdc6,2025-06-27,Christian Schultz,Coreyhaven,Toys,Headphones,8,812.91,Cash on Delivery,6503.28
+bb6a5377-5e34-4fbf-8ad5-c116f1a35901,2025-06-28,Cynthia Esparza,Pamelastad,Clothing,Smartphone,1,112.43,Net Banking,112.43
+ba170692-10f1-4d26-852f-cbb1e37dc5d0,2025-06-28,Kimberly Davis,South Joanne,Home Appliances,Refrigerator,9,151.56,Cash on Delivery,1364.04
+5bd39781-ec14-45c9-8b52-b13462b27fc8,2025-06-30,Angela Wallace,Thomasmouth,Toys,Tablet,6,100.3,Cash on Delivery,601.8
+09300535-ec82-476c-ad98-2c03dcd3cef3,2025-07-01,Beverly Gonzalez,Navarroville,Electronics,Smartphone,7,87.19,Credit Card,610.3299999999999
+40e3e52b-435a-47c5-aacc-fcc5c0b7a743,2025-07-02,Vincent Rodriguez,Mccannmouth,Books,Novel,4,402.2,Net Banking,1608.8
+ae17a42d-4f66-445a-b95e-5fb0d6b15a84,2025-07-02,Raymond Dunn,Lake John,Clothing,Novel,5,600.89,UPI,3004.45
+8a87ca6b-4892-493c-9e42-0c3ba69740b0,2025-07-02,Katrina Humphrey,South Robert,Home Appliances,Refrigerator,9,993.96,UPI,8945.64
+cad00b04-1a88-49cb-a11e-60c93604bd02,2025-07-03,Michael Carter II,Christineside,Electronics,Novel,5,645.92,Cash on Delivery,3229.6
+f7f30e98-317e-4766-b53b-26d9ac1af917,2025-07-03,Tracie Gray,Laneburgh,Clothing,T-Shirt,1,550.13,UPI,550.13
+58c76459-fa95-4ecf-bbc2-43107ab707d8,2025-07-04,Jamie Clark,South Abigail,Electronics,Tablet,5,666.9,Net Banking,3334.5
+bd8144be-0e62-4d96-8c60-18d5992f82e8,2025-07-06,Joyce Mckenzie,East Gloriabury,Toys,T-Shirt,10,428.06,Debit Card,4280.6
+4404597f-318a-4f89-90b2-2054f06089cf,2025-07-06,David Walker DVM,South Monica,Electronics,Refrigerator,3,88.15,UPI,264.45000000000005
+e5ad996e-8748-48f6-9289-d8849be2c14e,2025-07-07,Loretta Rivera,Lake Jennifer,Clothing,Tablet,1,942.55,UPI,942.55
+d145bcab-edfd-43c5-a24b-76927662a056,2025-07-07,Cassandra Young,Eddiehaven,Clothing,Action Figure,2,844.09,Debit Card,1688.18
+18c1934e-ff86-4b0f-87e3-bdd7adf5826a,2025-07-07,Heather Avila,Joseland,Home Appliances,Tablet,8,712.96,Debit Card,5703.68
+80dfb3a6-bea4-41e1-999c-4eedaadc6805,2025-07-07,Charles Hoffman,Mitchellport,Home Appliances,Tablet,6,56.29,UPI,337.74
+65a7ce10-1952-43de-a0cf-1191fd3f7f8b,2025-07-07,Kimberly Peterson,Port Jasonborough,Home Appliances,Blender,10,171.37,Credit Card,1713.7
+d5cfdefd-f98a-486e-ad8d-635024e891f5,2025-07-08,Mary Dean,Nicoleburgh,Toys,Headphones,3,238.49,Net Banking,715.47
+50ff7463-a517-4c1c-9e13-2998093854e9,2025-07-09,William Franklin,Lake Brandyburgh,Clothing,Action Figure,10,118.91,Cash on Delivery,1189.1
+3fad3574-649f-4de5-9296-82cb5ef5fe46,2025-07-10,Morgan Carpenter,North Tara,Books,T-Shirt,8,409.76,Debit Card,3278.08
+367351f9-84c0-4ec7-963b-ef457f73920f,2025-07-10,Sharon Anderson,East Tracy,Home Appliances,Headphones,2,913.79,Net Banking,1827.58
+8f3c58f8-ba77-45e5-9037-e47f78e5851d,2025-07-10,Megan Fowler,East Cheryl,Toys,T-Shirt,4,559.61,Cash on Delivery,2238.44
+1f3a68e0-4954-458f-ab7e-fab7972e9799,2025-07-11,Ashley Myers,East Patriciatown,Books,Refrigerator,8,99.33,Debit Card,794.64
+1185bf31-2404-4132-8725-8da3f89cdaad,2025-07-11,Christian Martin,Lake Kevin,Clothing,Action Figure,7,682.37,Debit Card,4776.59
+c18e8ad3-dbdb-4bb7-a692-6ca6220f8c60,2025-07-12,Cody Ramsey,South Williamshire,Home Appliances,T-Shirt,4,904.9,Debit Card,3619.6
+2f8150ee-5900-43fb-b48d-e0d20ac9ef6d,2025-07-13,Natalie Anderson,East Elizabethport,Clothing,Refrigerator,3,658.55,Debit Card,1975.6499999999999
+1f04b291-45db-40c6-9826-02dc6d8d172d,2025-07-14,Rose Mathis,Whitneyfort,Books,Laptop,6,173.36,Debit Card,1040.16
+83aa6e52-044a-4c02-b5d8-13ef3d8f3aa7,2025-07-14,Debra Hicks,Jessicaport,Electronics,Sneakers,9,962.22,Credit Card,8659.98
+566b02ae-16ca-4690-b4b6-b934749751ed,2025-07-14,James Harris,Port Johntown,Electronics,Tablet,6,325.45,Credit Card,1952.6999999999998
+bcf38506-72c9-492c-b3ce-5d5f875a9f92,2025-07-14,Melinda Ochoa,Joshuaberg,Home Appliances,Tablet,2,96.57,Credit Card,193.14
+40d84a4f-ead6-4a54-8d87-b49256641d0e,2025-07-15,Mark Acosta,South Shannon,Toys,Refrigerator,5,649.76,Net Banking,3248.8
+d38286aa-330e-4147-82a8-1862c49eda06,2025-07-15,Samuel Martin,Evansstad,Clothing,Smartphone,6,116.76,Debit Card,700.5600000000001
+f8f0878b-113c-4849-b561-8f8d66f6f9be,2025-07-16,William Butler,East Steven,Toys,T-Shirt,3,645.12,Cash on Delivery,1935.3600000000001
+0bdfabdb-9f26-4f33-86b4-f2b1b105bd7b,2025-07-16,Kathryn Ramirez,Reneebury,Clothing,Tablet,6,23.78,Cash on Delivery,142.68
+64d68e0e-bdbc-4125-9ff9-0429e3da22c5,2025-07-17,Michael Wiley,Aliciabury,Electronics,Novel,5,967.65,Cash on Delivery,4838.25
+1c4185ef-8b2e-4286-9bb9-a9bf85fcb20a,2025-07-17,Bobby Wood,Port Mary,Clothing,Tablet,7,685.67,UPI,4799.69
+39051c26-c284-4674-87d1-3fff2c960d8a,2025-07-17,Mr. Jose Butler,Michaelburgh,Electronics,Headphones,1,306.84,Debit Card,306.84
+d64368e7-0bf5-4592-8aa3-a3fdff0fe4ae,2025-07-18,Keith Graham,East Lindabury,Electronics,Sneakers,10,386.76,UPI,3867.6
+e6e9700f-9a75-4ae7-bd89-2838dadb2ab5,2025-07-18,Kaitlyn Page,Port Todd,Toys,Tablet,8,508.37,Debit Card,4066.96
+d530c3c0-80f3-4810-88ad-35624093caad,2025-07-19,Angie Wilson,North Johnview,Clothing,Refrigerator,2,870.25,Net Banking,1740.5
+a6ef14e8-5c5f-47f9-86db-21bf6b9ac0de,2025-07-19,Andrew Snyder,Riveraborough,Electronics,Novel,5,486.87,Net Banking,2434.35
+f6e89e11-3560-4e82-82a1-ace079c0d0dd,2025-07-20,Douglas Ayala,East Tylerhaven,Home Appliances,Refrigerator,3,742.66,Net Banking,2227.98
+790a0a39-e235-4e9d-86bc-8847922f8ae2,2025-07-20,Valerie Higgins,North Benjaminstad,Home Appliances,Laptop,6,661.18,Cash on Delivery,3967.08
+d174d8ad-31ed-4c54-ae28-fc06b768c635,2025-07-21,Arthur Walton,Lake Alejandrachester,Home Appliances,Laptop,1,638.97,UPI,638.97
+870c0863-1044-490f-b821-1485cf0902eb,2025-07-21,Benjamin Smith,East Brenda,Home Appliances,Blender,10,971.3,Debit Card,9713.0
+d2005b2c-b013-4e46-ae60-78a33bc6d88f,2025-07-22,Susan Hayes,South Brenda,Home Appliances,Headphones,6,75.11,UPI,450.65999999999997
+06687d02-e303-4492-97a9-658342607946,2025-07-22,Justin Miller,North Gina,Books,Blender,7,851.18,Net Banking,5958.259999999999
+16c4c60e-44c8-4ad8-9a77-8483bb94fced,2025-07-22,Emily Rodriguez,Lisaport,Toys,Tablet,6,102.55,Debit Card,615.3
+682137e3-4e54-4029-90a8-e1ebf4032bea,2025-07-23,Cameron Hernandez,Port Sarah,Toys,Refrigerator,9,960.92,Cash on Delivery,8648.279999999999
+8cac4d07-3a88-4a91-a747-556d6208d49d,2025-07-24,Eric Davidson,New Carlaberg,Electronics,Headphones,2,232.74,UPI,465.48
+fb9af8d6-7195-4903-b108-9367647febdc,2025-07-24,Joshua Jones,Lake Shawnview,Clothing,Smartphone,5,828.43,Credit Card,4142.15
+c7120ddb-5495-455a-806d-fd3ee55a7da7,2025-07-24,Jason Cross V,Adamchester,Books,Novel,2,720.32,Cash on Delivery,1440.64
+fa643d90-b0f2-4b94-8619-35f844573c76,2025-07-25,Cindy West,Brownborough,Books,Headphones,9,175.1,Debit Card,1575.8999999999999
+4432bfdc-005e-4da5-adeb-a3930ff6ca7b,2025-07-25,Sandra Mayo,Hannaview,Clothing,Blender,4,344.19,UPI,1376.76
+c6a9ab8a-ce4c-4217-b4a9-239366108f36,2025-07-25,Fernando Wells,South Johnshire,Home Appliances,Refrigerator,6,889.15,Net Banking,5334.9
+70b9908c-a4ff-4964-9697-41b5b5dcd2a4,2025-07-25,Cindy Underwood,Oconnellfort,Toys,T-Shirt,6,862.82,Debit Card,5176.92
+21c7a209-997e-4ba7-ae85-4b12797a9be0,2025-07-27,Douglas Paul,East Kristiton,Clothing,Blender,2,724.37,Cash on Delivery,1448.74
+4b186428-86ab-41e8-870a-bf038e2637a4,2025-07-27,Mrs. Jeanne Mathews,North Darrenland,Home Appliances,Sneakers,10,66.47,Credit Card,664.7
+bc10cdba-9278-4a48-a249-3cd979b7171a,2025-07-28,David Harmon,Lake Ryanberg,Electronics,Laptop,8,179.76,Net Banking,1438.08
+52eae098-e737-42af-b5cf-83767e53caaf,2025-07-28,Kimberly Burns,Davishaven,Books,Sneakers,8,95.88,Net Banking,767.04
+99353ebd-1161-4ba5-9641-b8139978bb27,2025-07-29,Frances Valenzuela,Brownfurt,Books,T-Shirt,7,609.01,UPI,4263.07
+d030d195-626f-45c6-90cc-baa8c260d014,2025-07-29,Shannon Mcintyre,Port Christopher,Clothing,Novel,7,541.37,Cash on Delivery,3789.59
+1aafde28-5e46-4dd1-a277-501be4489af6,2025-07-30,Jamie Harmon,Walterport,Clothing,Sneakers,1,333.36,UPI,333.36
+844873e5-f2fc-4cfd-a44f-df0bc8e6ee88,2025-07-30,Darrell Washington,West Jesse,Toys,Headphones,4,614.34,Cash on Delivery,2457.36
+b2f20f2c-d756-461d-bba5-2db3a85ded8d,2025-07-31,Michelle Bell,Dixonmouth,Toys,Smartphone,4,549.5,Net Banking,2198.0
+5e5e539b-0591-4453-a02f-ec5f6e3506e5,2025-08-01,Lisa Allen,East Marvin,Electronics,Headphones,8,436.81,Debit Card,3494.48
+5c949869-fe75-4b22-bc49-0d4ff23507c3,2025-08-01,Jamie Chapman,Michaelborough,Electronics,Laptop,6,701.49,UPI,4208.9400000000005
+6cd484cd-165e-4d15-99b8-0e654a3bc743,2025-08-01,Richard Solis,North Amymouth,Electronics,Tablet,7,799.42,Cash on Delivery,5595.94
+8e6f31d7-c8c1-450f-8700-b41fbbd7b6fe,2025-08-02,Anthony Davis,Michealville,Home Appliances,Smartphone,1,854.5,Credit Card,854.5
+930a4e92-dd8d-4c0e-80cd-543d3fdb898f,2025-08-03,Elaine Hodges,North Christopher,Books,Novel,3,677.2,UPI,2031.6000000000001
